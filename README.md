@@ -67,7 +67,7 @@ src/
 - **冲突检测**：系统确保替换后的短语之间有足够的字符间距（Gap Conflict），避免因过度替换导致的阅读疲劳。
 - **上下文感知**：LLM 在生成替换词时会接收当前段落作为上下文，确保生成的英语完全契合原意。
 
-## � 致谢与参考
+## 致谢与参考
 
 本项目在核心理念和实现策略上参考了以下优秀项目：
 
@@ -75,6 +75,6 @@ src/
 - **[Sapling](https://github.com/zpano/Sapling)**
 - **[ries.ai](https://ries.ai/zh/learn-english)**
 
-## �📄 许可证
+## 📄 许可证
 
 MIT License
