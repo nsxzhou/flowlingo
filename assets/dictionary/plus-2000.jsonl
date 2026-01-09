@@ -1,0 +1,2000 @@
+{"id": "w_an", "cn": "art. 一", "en": "an", "level": 5000}
+{"id": "w_two", "cn": "num. 二, 二个", "en": "two", "level": 5000}
+{"id": "w_these", "cn": "pron. 这些", "en": "these", "level": 5000}
+{"id": "w_er", "cn": "[医] 铒(68号元素)", "en": "Er", "level": 5000}
+{"id": "w_those", "cn": "pron. 那些", "en": "those", "level": 5000}
+{"id": "w_three", "cn": "num. 三, 三个", "en": "three", "level": 5000}
+{"id": "w_erm", "cn": "abbr. ermine 貂; erythromycin 红霉素; erythromycin-resistant methylase 抗红霉素甲基化酶; elastic reservoir moulding 弹性水库浇铸", "en": "erm", "level": 5000}
+{"id": "w_four", "cn": "num. 四, 四个\\n[机] 四冲程循环", "en": "four", "level": 5000}
+{"id": "w_going", "cn": "n. 去, 离去, 工作情况, 地面状况, 行为\\na. 进行中的, 流行的, 成功的, 现存的", "en": "going", "level": 5000}
+{"id": "w_five", "cn": "num. 五, 五个", "en": "five", "level": 5000}
+{"id": "w_london", "cn": "n. 伦敦", "en": "London", "level": 5000}
+{"id": "w_john", "cn": "n. 盥洗室, 厕所, 嫖客", "en": "john", "level": 5000}
+{"id": "w_six", "cn": "num. 六, 六个", "en": "six", "level": 5000}
+{"id": "w_million", "cn": "n. 百万, 无数\\nnum. 百万", "en": "million", "level": 5000}
+{"id": "w_britain", "cn": "n. 英国", "en": "Britain", "level": 5000}
+{"id": "w_lot", "cn": "n. 运气, 签, 抽签, 份额, 许多, 一堆\\nvt. 划分\\nvi. 抽签, 抓阄", "en": "lot", "level": 5000}
+{"id": "w_england", "cn": "n. 英格兰\\n[法] 英格兰, 英国", "en": "England", "level": 5000}
+{"id": "w_hundred", "cn": "n. 百, 百个东西\\nnum. 百, 百个\\na. 一百的, 许多的", "en": "hundred", "level": 5000}
+{"id": "w_third", "cn": "num. 第三, 三分之一\\n[机] 第三; 第三的", "en": "third", "level": 5000}
+{"id": "w_ten", "cn": "num. 十, 十个", "en": "ten", "level": 5000}
+{"id": "w_european", "cn": "n. 欧洲人\\na. 欧洲的, 欧洲人的", "en": "European", "level": 5000}
+{"id": "w_someone", "cn": "pron. 有人, 某人", "en": "someone", "level": 5000}
+{"id": "w_europe", "cn": "n. 欧洲", "en": "Europe", "level": 5000}
+{"id": "w_uk", "cn": "n. 联合王国", "en": "UK", "level": 5000}
+{"id": "w_seven", "cn": "num. 七, 七个", "en": "seven", "level": 5000}
+{"id": "w_eight", "cn": "num. 八, 八个", "en": "eight", "level": 5000}
+{"id": "w_twenty", "cn": "num. 二十, 二十个", "en": "twenty", "level": 5000}
+{"id": "w_cos", "cn": "n. 余弦\\n[医] 寇斯(爱琴海一岛屿,Hippocrates的出生地)", "en": "cos", "level": 5000}
+{"id": "w_thousand", "cn": "num. 千\\na. 成千的, 许多的\\nn. 许许多多", "en": "thousand", "level": 5000}
+{"id": "w_american", "cn": "n. 美国人\\na. 美国的, 美洲的", "en": "American", "level": 5000}
+{"id": "w_david", "cn": "n. 大卫；戴维（男子名）", "en": "david", "level": 5000}
+{"id": "w_refer", "cn": "vt. 提交, 归诸于, 把...提交, 使求助于\\nvi. 提到, 涉及, 查阅, 查询, 咨询", "en": "refer", "level": 5000}
+{"id": "w_nine", "cn": "num. 九, 九个", "en": "nine", "level": 5000}
+{"id": "w_organisation", "cn": "n. 组织, 团体, 体制, 编制", "en": "organisation", "level": 5000}
+{"id": "w_scotland", "cn": "n. 苏格兰", "en": "Scotland", "level": 5000}
+{"id": "w_provision", "cn": "n. (政府提供的)钱和设备, 准备, 供应品, 规定, 条款\\nvt. 供给...食物及必需品", "en": "provision", "level": 5000}
+{"id": "w_st", "cn": "[计] 段表, 状态, 系统测试, 直端连接器\\n[化] 磺胺噻唑", "en": "ST", "level": 5000}
+{"id": "w_peter", "cn": "vi. 逐渐消失, 逐渐减少", "en": "peter", "level": 5000}
+{"id": "w_france", "cn": "n. 法国", "en": "France", "level": 5000}
+{"id": "w_prime", "cn": "n. 最佳部分, 初期, 全盛期\\na. 主要的, 最初的, 根本的\\nv. 加油启动, 灌注, 填装", "en": "prime", "level": 5000}
+{"id": "w_paul", "cn": "n. 保罗（男子名）", "en": "paul", "level": 5000}
+{"id": "w_george", "cn": "n. 乔治（男子名）；自动操纵装置；英国最高勋爵勋章上的圣乔治诛龙图", "en": "george", "level": 5000}
+{"id": "w_soviet", "cn": "n. 代表会议, 苏维埃, 苏联\\na. 苏维埃的, 苏联的", "en": "Soviet", "level": 5000}
+{"id": "w_de", "cn": "[化] 非对映体过量\\n[医] 铥(69号元素铥的别名,1916年Eder离得的假想元素)", "en": "de", "level": 5000}
+{"id": "w_germany", "cn": "n. 德国", "en": "Germany", "level": 5000}
+{"id": "w_hon", "cn": "[化] δ-羟基-γ-氧代正缬氨酸\\n[医] 羟氧基正缬氨酸", "en": "HON", "level": 5000}
+{"id": "w_okay", "cn": "a. 好, 可以, 行, 对, 好吗, 很好\\nadv. 好, 可以, 行, 对, 好吗, 很好\\nn. 同意, 签认, 批准, 认可\\nvt. 同意, 签认, 批准, 认可", "en": "okay", "level": 5000}
+{"id": "w_sales", "cn": "a. 销售的\\n[计] 销售", "en": "sales", "level": 5000}
+{"id": "w_america", "cn": "n. 美洲, 美国", "en": "America", "level": 5000}
+{"id": "w_james", "cn": "n. 詹姆斯（姓氏, 男子名）；[圣]《雅各书》", "en": "james", "level": 5000}
+{"id": "w_richard", "cn": "n. 理查德（男子名）", "en": "richard", "level": 5000}
+{"id": "w_thirty", "cn": "num. 三十, 三十个", "en": "thirty", "level": 5000}
+{"id": "w_york", "cn": "n. 约克郡；约克王朝", "en": "york", "level": 5000}
+{"id": "w_ah", "cn": "interj. 啊, 哈", "en": "ah", "level": 5000}
+{"id": "w_german", "cn": "n. 德国人, 德语\\na. 德国的, 德国人的, 德国语的, 同父母的", "en": "German", "level": 5000}
+{"id": "w_realise", "cn": "vt. 实现, 认识到, 体会到, 了解, 认清, 使显得逼真, 变卖财产为现钱", "en": "realise", "level": 5000}
+{"id": "w_scottish", "cn": "a. 苏格兰的, 苏格兰人的", "en": "Scottish", "level": 5000}
+{"id": "w_earlier", "cn": "a. 早的；初期的", "en": "earlier", "level": 5000}
+{"id": "w_involved", "cn": "a. 难懂的, 复杂的, 不易懂的, 卷入...之中的, 累及..., 与...有关, 被纠缠的\\n[计] 包含, 涉及", "en": "involved", "level": 5000}
+{"id": "w_ireland", "cn": "n. 爱尔兰", "en": "Ireland", "level": 5000}
+{"id": "w_fifty", "cn": "num. 五十, 五十个", "en": "fifty", "level": 5000}
+{"id": "w_species", "cn": "n. 种, 类, 外形\\n[医] 茶剂; 种", "en": "species", "level": 5000}
+{"id": "w_michael", "cn": "n. 迈克尔（男子名）", "en": "michael", "level": 5000}
+{"id": "w_existing", "cn": "a. 存在的, 目前的, 现存的, 现有的\\n[计] 现成的, 已有的, 现存的", "en": "existing", "level": 5000}
+{"id": "w_wales", "cn": "n. 威尔士", "en": "Wales", "level": 5000}
+{"id": "w_recognise", "cn": "vt. 认识, 辩认, 认出, 承认, 认可, 清楚地认识到, 自认, 公认, 赏识, 准许某人发言", "en": "recognise", "level": 5000}
+{"id": "w_charles", "cn": "n. 查尔斯（人名）", "en": "charles", "level": 5000}
+{"id": "w_ii", "cn": "abbr. 微光（Image Intensification）", "en": "ii", "level": 5000}
+{"id": "w_christmas", "cn": "n. 圣诞节", "en": "Christmas", "level": 5000}
+{"id": "w_smith", "cn": "n. 铁匠, 金属品工匠\\n[机] 锻造工, 上手", "en": "smith", "level": 5000}
+{"id": "w_oxford", "cn": "n. 牛津, 牛津大学", "en": "Oxford", "level": 5000}
+{"id": "w_states", "cn": "n. 美国", "en": "States", "level": 5000}
+{"id": "w_william", "cn": "n. 威廉（男子名）；[常作W-][美俚]钞票, 纸币", "en": "william", "level": 5000}
+{"id": "w_born", "cn": "a. 天生的\\nbear的过去分词", "en": "born", "level": 5000}
+{"id": "w_works", "cn": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行\\n[机] 工厂, 工场", "en": "works", "level": 5000}
+{"id": "w_best", "cn": "a. 最好的\\nadv. 最好地\\nn. 最好的人", "en": "best", "level": 5000}
+{"id": "w_robert", "cn": "[法] 警察", "en": "Robert", "level": 5000}
+{"id": "w_assessment", "cn": "n. 评估, 估定, 评定的款额\\n[化] 评估", "en": "assessment", "level": 5000}
+{"id": "w_africa", "cn": "n. 非洲", "en": "Africa", "level": 5000}
+{"id": "w_fig", "cn": "n. 无花果, 无价值的东西, 少许, 服装\\nvt. 打扮, 使马跑快", "en": "fig", "level": 5000}
+{"id": "w_etc", "cn": "及其他, 等等", "en": "etc", "level": 5000}
+{"id": "w_mhm", "cn": "（表示同意或在听对方说话）哦, 嗯", "en": "mhm", "level": 5000}
+{"id": "w_henry", "cn": "n. 亨利\\n[医] 亨[利](电感应单位)", "en": "henry", "level": 5000}
+{"id": "w_mary", "cn": "n. 玛丽（女子名）", "en": "mary", "level": 5000}
+{"id": "w_forty", "cn": "num. 四十, 四十个", "en": "forty", "level": 5000}
+{"id": "w_eg", "cn": "abbr. [拉]例如（exempli gratia）；[网络用语]邪恶的笑（Evil Grin）", "en": "eg", "level": 5000}
+{"id": "w_legislation", "cn": "n. 立法, 法律\\n[医] 立法, 法规", "en": "legislation", "level": 5000}
+{"id": "w_edward", "cn": "n. 爱德华（男子名）", "en": "edward", "level": 5000}
+{"id": "w_administration", "cn": "n. 行政, 管理, 政府机关\\n[化] 给药", "en": "administration", "level": 5000}
+{"id": "w_thomas", "cn": "n. 多马(耶稣十二门徒之一)", "en": "Thomas", "level": 5000}
+{"id": "w_ec", "cn": "[计] 电子计算机, 仿真器控制, 工程更改, 错误纠正\\n[经] 欧市", "en": "EC", "level": 5000}
+{"id": "w_twelve", "cn": "num. 十二, 十二个", "en": "twelve", "level": 5000}
+{"id": "w_japan", "cn": "n. 日本\\n[化] 天然漆; 大漆; 漆器", "en": "Japan", "level": 5000}
+{"id": "w_assess", "cn": "vt. 估定, 对...征税, 评定\\n[经] 估计, 估价, 确定(税款罚款等)的金额", "en": "assess", "level": 5000}
+{"id": "w_consist", "cn": "vi. 组成, 存在于, 一致", "en": "consist", "level": 5000}
+{"id": "w_asset", "cn": "n. 资产, 有益的东西", "en": "asset", "level": 5000}
+{"id": "w_ie", "cn": "[计] 中断启动", "en": "IE", "level": 5000}
+{"id": "w_ltd", "cn": "有限的", "en": "Ltd", "level": 5000}
+{"id": "w_j", "cn": "n. 字母j", "en": "j", "level": 5000}
+{"id": "w_fourth", "cn": "num. 第四, 四分之一", "en": "fourth", "level": 5000}
+{"id": "w_ought", "cn": "aux. 应该, 大概\\nn. 责任", "en": "ought", "level": 5000}
+{"id": "w_paris", "cn": "n. 巴黎\\n[医] 重楼属", "en": "Paris", "level": 5000}
+{"id": "w_everybody", "cn": "pron. 每个人, 人人", "en": "everybody", "level": 5000}
+{"id": "w_x", "cn": "n. 未知数\\n[计] 交换, 变址, 索引, 传输", "en": "x", "level": 5000}
+{"id": "w_enterprise", "cn": "n. 企业, 事业心, 进取心, 干事业\\n[计] 企业", "en": "enterprise", "level": 5000}
+{"id": "w_edinburgh", "cn": "n. 爱丁堡", "en": "Edinburgh", "level": 5000}
+{"id": "w_nod", "cn": "n. 点头, 打盹, 晃动\\nvi. 点头, 打盹\\nvt. 点头表示, 点(头)", "en": "nod", "level": 5000}
+{"id": "w_pp", "cn": "包裹邮递, 包裹邮件, 邮包, 包裹邮务处, 过去分词\\n[计] 并行打印, 并行处理器, 打印位置", "en": "PP", "level": 5000}
+{"id": "w_growing", "cn": "a. 成长的", "en": "growing", "level": 5000}
+{"id": "w_irish", "cn": "n. 爱尔兰人, 爱尔兰语\\na. 爱尔兰的", "en": "Irish", "level": 5000}
+{"id": "w_assembly", "cn": "n. 与会者, 集会, 装配, 组件\\n[化] 装配", "en": "assembly", "level": 5000}
+{"id": "w_settlement", "cn": "n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降\\n[医] 居住区; 沉渣", "en": "settlement", "level": 5000}
+{"id": "w_educational", "cn": "a. 教育的, 教育性的", "en": "educational", "level": 5000}
+{"id": "w_undertake", "cn": "vt. 试图, 从事, 保证, 承担, 同意, 接受\\n[化] 承包; 承担", "en": "undertake", "level": 5000}
+{"id": "w_democratic", "cn": "a. 民主的\\n[法] 民主的, 民主政体的, 平民的", "en": "democratic", "level": 5000}
+{"id": "w_module", "cn": "n. 组件, 模数\\n[计] 模块", "en": "module", "level": 5000}
+{"id": "w_inc", "cn": "a. 根据法律组成的公司, 公司", "en": "Inc", "level": 5000}
+{"id": "w_solicitor", "cn": "n. (英)律师, 初级律师, (美)法务官, (美)掮客, 游说者, (美)募捐者\\n[经] 募损者, 律师", "en": "solicitor", "level": 5000}
+{"id": "w_component", "cn": "n. 元件, 组件, 成分\\na. 组成的, 构成的\\n[计] 组件", "en": "component", "level": 5000}
+{"id": "w_republic", "cn": "n. 共和国, 共和政体, 团体, 界", "en": "republic", "level": 5000}
+{"id": "w_jack", "cn": "n. 插座, 千斤顶, 男人\\nvt. 抬起, 提醒, 扛举, 增加, 提高, 放弃\\na. 雄的\\n[计] 插座", "en": "jack", "level": 5000}
+{"id": "w_sixty", "cn": "num. 六十, 六十个", "en": "sixty", "level": 5000}
+{"id": "w_increased", "cn": "a. 增强的（increase的过去分词）", "en": "increased", "level": 5000}
+{"id": "w_expenditure", "cn": "n. 开支, 费用, 用光, 消费额\\n[经] 支出, 费用, 消费", "en": "expenditure", "level": 5000}
+{"id": "w_treaty", "cn": "n. 条约, 谈判\\n[经] 协议, 协定, 协商", "en": "treaty", "level": 5000}
+{"id": "w_organise", "cn": "vt. 组织, 有机化, 给予生机", "en": "organise", "level": 5000}
+{"id": "w_sequence", "cn": "n. 序列, 续发事件, 顺序, 连续\\nvt. 按顺序排好\\n[计] 顺序", "en": "sequence", "level": 5000}
+{"id": "w_assumption", "cn": "n. 假定, 自负, 担任, 假装\\n[经] 假定, 承担", "en": "assumption", "level": 5000}
+{"id": "w_curriculum", "cn": "n. 课程\\n[医] 课程, 学程", "en": "curriculum", "level": 5000}
+{"id": "w_darlington", "cn": "[计] 达林顿", "en": "Darlington", "level": 5000}
+{"id": "w_tom", "cn": "n. 雄性动物, 雄猫", "en": "tom", "level": 5000}
+{"id": "w_liverpool", "cn": "n. 利物浦", "en": "Liverpool", "level": 5000}
+{"id": "w_gallery", "cn": "n. 走廊, 最高楼座, 画廊, 收集, 图库\\n[计] 图库", "en": "gallery", "level": 5000}
+{"id": "w_jesus", "cn": "n. 耶稣", "en": "Jesus", "level": 5000}
+{"id": "w_increasing", "cn": "[经] 递增", "en": "increasing", "level": 5000}
+{"id": "w_supposed", "cn": "a. 想象上的, 假定的, 被信以为真的\\n[法] 推测的, 想像的, 被信以为真的", "en": "supposed", "level": 5000}
+{"id": "w_rely", "cn": "vi. 信赖, 依赖, 信任", "en": "rely", "level": 5000}
+{"id": "w_fifteen", "cn": "num. 十五, 十五个", "en": "fifteen", "level": 5000}
+{"id": "w_liberal", "cn": "n. 自由主义者\\na. 慷慨的, 不拘泥的, 宽大的, 自由主义的", "en": "liberal", "level": 5000}
+{"id": "w_troop", "cn": "n. 军队, 一群, 一队\\nvi. 群集, 结队, 成群而行", "en": "troop", "level": 5000}
+{"id": "w_learning", "cn": "n. 学问, 学识, 学习\\n[计] 学习", "en": "learning", "level": 5000}
+{"id": "w_martin", "cn": "n. 马丁, 圣马丁鸟", "en": "Martin", "level": 5000}
+{"id": "w_bloody", "cn": "a. 血腥的, 嗜杀的, 有血的", "en": "bloody", "level": 5000}
+{"id": "w_revenue", "cn": "n. 收入, 岁入, 税收, 税务局\\n[经] 岁入, 税收, 税务局", "en": "revenue", "level": 5000}
+{"id": "w_ian", "cn": "n. 伊恩（男子名）", "en": "ian", "level": 5000}
+{"id": "w_corp", "cn": "[经] 公司", "en": "corp", "level": 5000}
+{"id": "w_russian", "cn": "n. 俄国人, 俄语\\na. 俄国的, 俄语的", "en": "Russian", "level": 5000}
+{"id": "w_alan", "cn": "n. 艾伦（男子名）", "en": "alan", "level": 5000}
+{"id": "w_usa", "cn": "美国, 美利坚合众国, 美国陆军", "en": "USA", "level": 5000}
+{"id": "w_aye", "cn": "n. 赞成票, 投赞成票者\\nadv. 永远\\ninterj. (表决时说)赞成", "en": "aye", "level": 5000}
+{"id": "w_italy", "cn": "n. 意大利", "en": "Italy", "level": 5000}
+{"id": "w_japanese", "cn": "n. 日本人, 日语\\na. 日本的, 日语的", "en": "Japanese", "level": 5000}
+{"id": "w_deputy", "cn": "n. 副手，代理人", "en": "deputy", "level": 5000}
+{"id": "w_representation", "cn": "n. 表示法, 表现, 陈述, 代表\\n[计] 表示法指定", "en": "representation", "level": 5000}
+{"id": "w_billion", "cn": "num. 十亿, 十亿个", "en": "billion", "level": 5000}
+{"id": "w_australia", "cn": "n. 澳洲, 澳大利亚", "en": "Australia", "level": 5000}
+{"id": "w_manchester", "cn": "n. 曼彻斯特", "en": "Manchester", "level": 5000}
+{"id": "w_anybody", "cn": "pron. 任何人\\nn. 重要人物", "en": "anybody", "level": 5000}
+{"id": "w_tony", "cn": "a. 高贵的, 时髦的", "en": "tony", "level": 5000}
+{"id": "w_creation", "cn": "n. 创造, 创作物, 发明\\n[化] 产生", "en": "creation", "level": 5000}
+{"id": "w_iii", "cn": "num. 罗马数字3", "en": "iii", "level": 5000}
+{"id": "w_distinction", "cn": "n. 区别", "en": "distinction", "level": 5000}
+{"id": "w_stephen", "cn": "n. 斯蒂芬（男子名）", "en": "stephen", "level": 5000}
+{"id": "w_mechanism", "cn": "n. 机械, 机构, 结构, 机理, 技巧\\n[化] 机理; 历程; 机构", "en": "mechanism", "level": 5000}
+{"id": "w_external", "cn": "n. 外部, 外面\\na. 外部的, 客观的, 表面的", "en": "external", "level": 5000}
+{"id": "w_clause", "cn": "n. 子句, 条款\\n[计] 子句", "en": "clause", "level": 5000}
+{"id": "w_leadership", "cn": "n. 领导能力, 领导阶层", "en": "leadership", "level": 5000}
+{"id": "w_championship", "cn": "n. 冠军身份, 冠军称号, 捍卫", "en": "championship", "level": 5000}
+{"id": "w_defendant", "cn": "n. 被告\\n[经] 被告方", "en": "defendant", "level": 5000}
+{"id": "w_welfare", "cn": "n. 福利, 安宁, 幸福, 福利事业\\na. 福利的", "en": "welfare", "level": 5000}
+{"id": "w_bind", "cn": "vt. 绑, 约束, 装订, 包扎, 使结合\\nvi. 凝固, 有约束力\\n[计] 赋值, 绑定", "en": "bind", "level": 5000}
+{"id": "w_negotiation", "cn": "n. 谈判, 磋商, 交涉\\n[经] 谈判, 协商", "en": "negotiation", "level": 5000}
+{"id": "w_establishment", "cn": "n. 确立, 制定, 设施\\n[经] 企业, 公司, 商店", "en": "establishment", "level": 5000}
+{"id": "w_leeds", "cn": "n. 利兹市（英国城市名）", "en": "leeds", "level": 5000}
+{"id": "w_nineteen", "cn": "num. 十九, 十九个", "en": "nineteen", "level": 5000}
+{"id": "w_liability", "cn": "n. 责任, 债务, 倾向\\n[经] 责任, 义务, 负债", "en": "liability", "level": 5000}
+{"id": "w_ibm", "cn": "美国国际商用机器公司\\n[计] 国际商用机器公司", "en": "IBM", "level": 5000}
+{"id": "w_significance", "cn": "n. 重要性, 意义, 意味\\n[计] 有效; 有效性", "en": "significance", "level": 5000}
+{"id": "w_india", "cn": "n. 印度", "en": "India", "level": 5000}
+{"id": "w_champion", "cn": "n. 冠军, 拥护者, 战士\\nvt. 保卫, 拥护\\na. 优胜的", "en": "champion", "level": 5000}
+{"id": "w_eighty", "cn": "num. 八十, 八十个", "en": "eighty", "level": 5000}
+{"id": "w_christ", "cn": "n. 基督, 救世主", "en": "Christ", "level": 5000}
+{"id": "w_ninety", "cn": "num. 九十, 九十个", "en": "ninety", "level": 5000}
+{"id": "w_being", "cn": "n. 存在, 性质, 生命, 人, 生物, be的现在分词", "en": "being", "level": 5000}
+{"id": "w_outcome", "cn": "n. 结果, 出口", "en": "outcome", "level": 5000}
+{"id": "w_parish", "cn": "n. 教区, 堂区\\n[法] 救贫区, 教区", "en": "parish", "level": 5000}
+{"id": "w_notion", "cn": "n. 概念, 观念, 想法, 打算, 别致的小东西\\n[经] 概念, 打算, 想法", "en": "notion", "level": 5000}
+{"id": "w_jones", "cn": "n. 琼斯（姓氏）", "en": "jones", "level": 5000}
+{"id": "w_china", "cn": "n. 中国, 瓷器\\na. 中国的", "en": "China", "level": 5000}
+{"id": "w_harry", "cn": "vt. 掠夺, 使苦恼, 强使前行, 折磨, 骚扰", "en": "harry", "level": 5000}
+{"id": "w_democracy", "cn": "n. 民主政治, 民主主义\\n[法] 民主, 民主政治, 民主政体", "en": "democracy", "level": 5000}
+{"id": "w_mp", "cn": "国会议员, 下院议员\\n[计] 宏处理程序, 维护程序, 线性规划, 微程序, 多处理器", "en": "MP", "level": 5000}
+{"id": "w_corporate", "cn": "a. 社团的, 合伙的, 公司的\\n[经] 团体的, 法人的, 社团的", "en": "corporate", "level": 5000}
+{"id": "w_co", "cn": "[医] 钴(27号元素)", "en": "Co", "level": 5000}
+{"id": "w_ooh", "cn": "int. （表示惊异、热心、高兴或不悦的叫声）哦！", "en": "ooh", "level": 5000}
+{"id": "w_amongst", "cn": "prep. 在...当中, 在...之间, 在...之中", "en": "amongst", "level": 5000}
+{"id": "w_territory", "cn": "n. 领土, 领地, 版图, 地区, 活动范围\\n[经] (推销员等的)推销区域", "en": "territory", "level": 5000}
+{"id": "w_lots", "cn": "n. 大量, 许多；一堆；命运（lot的复数）", "en": "lots", "level": 5000}
+{"id": "w_spain", "cn": "n. 西班牙", "en": "Spain", "level": 5000}
+{"id": "w_andrew", "cn": "n. 安德鲁（男子名）", "en": "andrew", "level": 5000}
+{"id": "w_brian", "cn": "n. 布莱恩（男子名）", "en": "brian", "level": 5000}
+{"id": "w_corporation", "cn": "n. 公司, 合作, 法人团体\\n[法] 法人团体, 社团, 法人", "en": "corporation", "level": 5000}
+{"id": "w_chris", "cn": "n. 克里斯（男子名）；克莉丝（女子名）", "en": "chris", "level": 5000}
+{"id": "w_finding", "cn": "n. 发现, 发现物, 决定, 裁决\\n[法] 调查结果, 对事实的认定, 判定的要素", "en": "finding", "level": 5000}
+{"id": "w_councillor", "cn": "n. 地方议会成员, 议会委员, 顾问, 评议员, 参赞\\n[法] 议员, 评议员, 顾问", "en": "councillor", "level": 5000}
+{"id": "w_tenant", "cn": "n. 承租人, 房客, 居住者\\nvt. 租借\\n[计] 占据者", "en": "tenant", "level": 5000}
+{"id": "w_inflation", "cn": "n. 胀大, 夸张, 通货膨胀\\n[化] 充气吹胀; 膨胀", "en": "inflation", "level": 5000}
+{"id": "w_jan", "cn": "n. 一月", "en": "Jan", "level": 5000}
+{"id": "w_boundary", "cn": "n. 边界, 分界线\\n[计] 边界", "en": "boundary", "level": 5000}
+{"id": "w_yorkshire", "cn": "n. 约克郡, 约克王朝", "en": "Yorkshire", "level": 5000}
+{"id": "w_anne", "cn": "n. 安妮（女子名）", "en": "anne", "level": 5000}
+{"id": "w_formation", "cn": "n. 形成, 构造, 编队\\n[医] 形成, 结构", "en": "formation", "level": 5000}
+{"id": "w_resolution", "cn": "n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解\\nn. 图形分辨率\\n[计] 图形分辨率", "en": "resolution", "level": 5000}
+{"id": "w_transaction", "cn": "n. 交易, 办理, 学报, 和解协议\\n[计] 事务处理", "en": "transaction", "level": 5000}
+{"id": "w_dispute", "cn": "n. 争论\\nv. 争论", "en": "dispute", "level": 5000}
+{"id": "w_steve", "cn": "n. 史蒂夫（男子名）", "en": "steve", "level": 5000}
+{"id": "w_kingdom", "cn": "n. 王国, 领域\\n[医] 界(动物,植物,矿物)", "en": "kingdom", "level": 5000}
+{"id": "w_un", "cn": "pron. 家伙, 东西\\n[经] 联合国", "en": "UN", "level": 5000}
+{"id": "w_database", "cn": "n. 数据库\\n[计] 数据库", "en": "database", "level": 5000}
+{"id": "w_dec", "cn": "美国数字电子公司\\n[计] 数字设备公司", "en": "DEC", "level": 5000}
+{"id": "w_ref", "cn": "n. 裁判员\\n[计] 参考, 外部文件报告", "en": "ref", "level": 5000}
+{"id": "w_incorporate", "cn": "a. 合并的, 组成公司的, 一体化的\\nvt. 吸收, 合并, 使组成公司, 体现\\nvi. 合并, 混合, 组成公司", "en": "incorporate", "level": 5000}
+{"id": "w_jim", "cn": "n. 吉姆（人名）", "en": "jim", "level": 5000}
+{"id": "w_simon", "cn": "n. 西蒙（男子名）", "en": "simon", "level": 5000}
+{"id": "w_african", "cn": "n. 非洲人\\na. 非洲的, 非洲人的", "en": "African", "level": 5000}
+{"id": "w_russia", "cn": "n. 俄国, 俄罗斯\\n[法] 俄罗斯, 苏联", "en": "Russia", "level": 5000}
+{"id": "w_joe", "cn": "n. 乔（男子名）", "en": "joe", "level": 5000}
+{"id": "w_proceeding", "cn": "n. 进行, 程序, 行动, 诉讼程序, 事项\\n[化] 会议论文集", "en": "proceeding", "level": 5000}
+{"id": "w_mike", "cn": "vi. 偷懒, 游手好闲\\nn. 休息, 游手好闲, 扩音器, 话筒", "en": "mike", "level": 5000}
+{"id": "w_subsequent", "cn": "a. 后来的, 接下去的\\n[经] 后来的", "en": "subsequent", "level": 5000}
+{"id": "w_currency", "cn": "n. 货币, 通货, 流通, 通用\\n[计] 货币, 货币型", "en": "currency", "level": 5000}
+{"id": "w_parliamentary", "cn": "a. 国会的, 议会的, 议会制度的", "en": "parliamentary", "level": 5000}
+{"id": "w_bbc", "cn": "英国广播公司", "en": "BBC", "level": 5000}
+{"id": "w_alright", "cn": "a. 没问题的", "en": "alright", "level": 5000}
+{"id": "w_graham", "cn": "a. 全麦的；粗面粉的；全麦粉制成的", "en": "graham", "level": 5000}
+{"id": "w_mill", "cn": "n. 压榨机, 磨坊, 制造厂\\nvt. 碾磨, 磨细, 搅拌, 使乱转\\nvi. 乱转, 被碾磨", "en": "mill", "level": 5000}
+{"id": "w_jane", "cn": "n. 简（女子名）", "en": "jane", "level": 5000}
+{"id": "w_premise", "cn": "n. 前提, 房屋连地基, 上述各项\\nvt. 预先提出, 引出, 作为...的前提\\nvi. 作出前提", "en": "premise", "level": 5000}
+{"id": "w_glasgow", "cn": "n. 格拉斯哥（英国城市名）", "en": "glasgow", "level": 5000}
+{"id": "w_spokesman", "cn": "n. 发言人, 代言者", "en": "spokesman", "level": 5000}
+{"id": "w_communist", "cn": "n. 共产主义者, 共产党员\\n[法] 共产主义的, 共产党的", "en": "communist", "level": 5000}
+{"id": "w_constitution", "cn": "n. 构成, 宪法, 体格\\n[医] 体质; 结构, 组织", "en": "constitution", "level": 5000}
+{"id": "w_implement", "cn": "n. 工具, 器具, 手段\\nvt. 实现, 使生效, 执行", "en": "implement", "level": 5000}
+{"id": "w_gene", "cn": "n. 基因\\n[化] 基因(遗传因子)", "en": "gene", "level": 5000}
+{"id": "w_unix", "cn": "UNIX操作系统\\n[计] 多用户分时操作系统", "en": "UNIX", "level": 5000}
+{"id": "w_holder", "cn": "n. 持有人, 所有人, 支持物\\n[化] 夹持器; 夹具; 贮罐", "en": "holder", "level": 5000}
+{"id": "w_framework", "cn": "n. 结构, 骨架, 参照标准, 准则, 观点\\n[医] 构架组织", "en": "framework", "level": 5000}
+{"id": "w_rose", "cn": "n. 玫瑰, 蔷薇, 玫瑰色\\na. 玫瑰色的, 玫瑰花的\\nvt. 使成玫瑰色\\nrise的过去式", "en": "rose", "level": 5000}
+{"id": "w_obligation", "cn": "n. 义务, 责任, 约束, 契约, 恩惠, 债务\\n[经] 待付款, 债务, 义务", "en": "obligation", "level": 5000}
+{"id": "w_agricultural", "cn": "a. 农业的\\n[法] 农业的, 耕作的", "en": "agricultural", "level": 5000}
+{"id": "w_regime", "cn": "n. 政权, 当权期间, 政体, 社会制度, 体制, 情态\\n[医] 制度, 生活制度", "en": "regime", "level": 5000}
+{"id": "w_glance", "cn": "n. 一瞥, 闪光, 掠过, 辉矿类\\nvi. 扫视, 闪光, 掠过, 提到, 略说\\nvt. 扫视, 反射, 使掠过", "en": "glance", "level": 5000}
+{"id": "w_protein", "cn": "n. 蛋白质\\na. 蛋白质的", "en": "protein", "level": 5000}
+{"id": "w_setting", "cn": "n. 环境, 背景, 布景, 镶嵌, 调整, 沉落, 一副餐具\\n[计] 设置", "en": "setting", "level": 5000}
+{"id": "w_maintenance", "cn": "n. 维护, 保持, 维修, 生活费用, 坚持, 扶养\\n[计] 维护; 维修", "en": "maintenance", "level": 5000}
+{"id": "w_italian", "cn": "n. 意大利人, 意大利语\\na. 意大利的, 意大利语的", "en": "Italian", "level": 5000}
+{"id": "w_crew", "cn": "n. 全体人员, 一群人, 全体队员\\ncrow的过去式", "en": "crew", "level": 5000}
+{"id": "w_recommendation", "cn": "n. 推荐, 介绍, 推荐信, 劝告\\n[经] 建议书", "en": "recommendation", "level": 5000}
+{"id": "w_chinese", "cn": "n. 中文, 中国话, 中国人\\na. 中国的, 中国话的", "en": "Chinese", "level": 5000}
+{"id": "w_bob", "cn": "vt. 剪短, 敲击\\nvi. 振动, 上下跳动\\nn. 短发, 悬挂的饰品, 浮子, 摆动, 轻敲, 5便士", "en": "bob", "level": 5000}
+{"id": "w_philip", "cn": "n. 菲利普（男子名）", "en": "philip", "level": 5000}
+{"id": "w_mode", "cn": "n. 模态, 调式, 样式, 文体, 状态, 方式, 风尚\\n[计] 方式; DOS外部命令:设定各种设备命令", "en": "mode", "level": 5000}
+{"id": "w_bishop", "cn": "n. 主教, (国际象棋中的)象, 热果子酒", "en": "bishop", "level": 5000}
+{"id": "w_stairs", "cn": "n. 楼梯", "en": "stairs", "level": 5000}
+{"id": "w_principal", "cn": "n. 校长, 首长, 本金, 主犯, 资本, 委托人\\na. 主要的, 最重要的, 首要的", "en": "principal", "level": 5000}
+{"id": "w_wilson", "cn": "n. 威尔逊（姓氏）", "en": "wilson", "level": 5000}
+{"id": "w_specify", "cn": "vt. 详列, 指定, 说明\\n[计] 指定", "en": "specify", "level": 5000}
+{"id": "w_funding", "cn": "[经] 债务转期", "en": "funding", "level": 5000}
+{"id": "w_golden", "cn": "a. 金的, 含金的, 金色的, 贵重的, 繁盛的\\n[法] 金制的, 金色的, 兴隆的", "en": "golden", "level": 5000}
+{"id": "w_recovery", "cn": "n. 恢复, 复原, 痊愈, 重获\\n[计] 恢复", "en": "recovery", "level": 5000}
+{"id": "w_submit", "cn": "vt. 使服从, 使受到, 委托, 提交, 认为\\nvi. 屈服, 服从", "en": "submit", "level": 5000}
+{"id": "w_seventy", "cn": "num. 七十, 七十个", "en": "seventy", "level": 5000}
+{"id": "w_voluntary", "cn": "a. 自动的, 自愿的, 故意的, 志愿的, 自发的\\nn. 自愿行动, 志愿者, 自由调", "en": "voluntary", "level": 5000}
+{"id": "w_inspector", "cn": "n. 检查员, 巡视员\\n[化] 检查员", "en": "inspector", "level": 5000}
+{"id": "w_proposed", "cn": "a. 被提议的；所推荐的", "en": "proposed", "level": 5000}
+{"id": "w_constitute", "cn": "vt. 构成, 组成, 任命\\n[建] 构造, 组成", "en": "constitute", "level": 5000}
+{"id": "w_critic", "cn": "n. 批评家, 鉴定家", "en": "critic", "level": 5000}
+{"id": "w_poll", "cn": "n. 投票, 民意测验, 选举投票, 投票数, 一组人中的一个, 头颈和后脑部, 鹦鹉\\nvt. 对...进行民意测验, 获得...票, 剪树枝, 轮询\\nvi. 投票\\na. 剪过毛的, 修过枝的\\n[计] 轮询", "en": "poll", "level": 5000}
+{"id": "w_recession", "cn": "n. 后退, 凹处, 衰退, 归还\\n[医] 退缩", "en": "recession", "level": 5000}
+{"id": "w_agriculture", "cn": "n. 农业\\n[机] 农业, 农学", "en": "agriculture", "level": 5000}
+{"id": "w_input", "cn": "n. 输入, 输入电路\\nvt. 输入\\n[计] 输入", "en": "input", "level": 5000}
+{"id": "w_shareholder", "cn": "n. 股东\\n[法] 股东, 股票持有人", "en": "shareholder", "level": 5000}
+{"id": "w_plaintiff", "cn": "n. 原告, 起诉人\\n[经] 原告, 原起诉人", "en": "plaintiff", "level": 5000}
+{"id": "w_margaret", "cn": "n. 玛格利特（女子名）", "en": "margaret", "level": 5000}
+{"id": "w_penalty", "cn": "n. 处罚, 刑罚, 罚款, 罚球, 报应, 不利结果, 妨碍\\n[经] 罚金(款), 违约金", "en": "penalty", "level": 5000}
+{"id": "w_eleven", "cn": "num. 十一, 十一个", "en": "eleven", "level": 5000}
+{"id": "w_perspective", "cn": "n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图\\na. 透视的, 透视法的\\n[计] 透视", "en": "perspective", "level": 5000}
+{"id": "w_efficiency", "cn": "n. 效率, 效能, 功效\\n[医] 效率, 效力", "en": "efficiency", "level": 5000}
+{"id": "w_frank", "cn": "a. 坦白的, 率直的, 老实的\\nvt. 免费邮寄\\nn. 免费邮寄特权", "en": "frank", "level": 5000}
+{"id": "w_judgment", "cn": "n. 裁判, 宣告, 判决书\\n[医] 判断", "en": "judgment", "level": 5000}
+{"id": "w_th", "cn": "[医] 钍(90号元素)", "en": "Th", "level": 5000}
+{"id": "w_symptom", "cn": "n. 症状, 征候, 征兆\\n[医] 症状", "en": "symptom", "level": 5000}
+{"id": "w_lewis", "cn": "n. 吊楔", "en": "lewis", "level": 5000}
+{"id": "w_lee", "cn": "n. 背风处, 避风处, 下风处, 保护, 庇护\\na. 避风的, 背风的, 下风的, 保护的", "en": "lee", "level": 5000}
+{"id": "w_spending", "cn": "n. 经费, 开销\\n[经] 开支, 开销, 经费", "en": "spending", "level": 5000}
+{"id": "w_alliance", "cn": "n. 联盟, 联合\\n[法] 同盟, 联盟, 联姻", "en": "alliance", "level": 5000}
+{"id": "w_dependent", "cn": "n. 依赖他人者\\na. 依赖的, 从属的", "en": "dependent", "level": 5000}
+{"id": "w_subsequently", "cn": "adv. 后来, 随后", "en": "subsequently", "level": 5000}
+{"id": "w_taylor", "cn": "n. 泰勒", "en": "taylor", "level": 5000}
+{"id": "w_expansion", "cn": "n. 扩充, 开展, 膨胀\\n[计] 扩展", "en": "expansion", "level": 5000}
+{"id": "w_radical", "cn": "n. 激进分子, 词根, 基础, 根式, 根\\na. 激进的, 根本的, 基本的, 根的", "en": "radical", "level": 5000}
+{"id": "w_statutory", "cn": "a. 法令的, 法定的, 可依法惩处的\\n[经] 法定的", "en": "statutory", "level": 5000}
+{"id": "w_chancellor", "cn": "n. 大臣, 总理, 首相, 大使馆/领事馆的一等秘书, 司法官, 大学校长", "en": "chancellor", "level": 5000}
+{"id": "w_ratio", "cn": "n. 比, 比率\\n[医] 比, 比率, 比例", "en": "ratio", "level": 5000}
+{"id": "w_pc", "cn": "个人计算机\\n[计] 外部控制, 个人计算机, 光电导体, 伪码", "en": "PC", "level": 5000}
+{"id": "w_variable", "cn": "n. 易变的事物, 变数, 可变物, 变量\\na. 可变的, 不定的, 易变的, 变量的\\n[计] 变量", "en": "variable", "level": 5000}
+{"id": "w_oct", "cn": "abbr. 十月（October）", "en": "oct", "level": 5000}
+{"id": "w_lifespan", "cn": "n. 预期生命期限；寿命；预期使用期限", "en": "lifespan", "level": 5000}
+{"id": "w_elizabeth", "cn": "n. 伊丽莎白（女子名）", "en": "elizabeth", "level": 5000}
+{"id": "w_bond", "cn": "n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留\\nvt. 存入关栈, 使黏合\\nvi. 结合", "en": "bond", "level": 5000}
+{"id": "w_phenomenon", "cn": "n. 现象, 迹象, 表现, 奇迹, 奇才\\n[化] 现象", "en": "phenomenon", "level": 5000}
+{"id": "w_cambridge", "cn": "n. 剑桥", "en": "Cambridge", "level": 5000}
+{"id": "w_awareness", "cn": "n. 意识, 认识\\n[计] 识别, 议定, 明白", "en": "awareness", "level": 5000}
+{"id": "w_intervention", "cn": "n. 插入, 介入, 调停\\n[经] 干预", "en": "intervention", "level": 5000}
+{"id": "w_frequency", "cn": "n. 频率, 频数\\n[计] 频率", "en": "frequency", "level": 5000}
+{"id": "w_belfast", "cn": "n. 贝尔法斯特", "en": "Belfast", "level": 5000}
+{"id": "w_researcher", "cn": "n. 研究人员", "en": "researcher", "level": 5000}
+{"id": "w_luke", "cn": "n. 卢克（男子名）；路加（基督教早期信徒之一）；[圣经]路加福音", "en": "luke", "level": 5000}
+{"id": "w_ai", "cn": "[计] 附加信息, 人工智能\\n[化] 人工智能", "en": "AI", "level": 5000}
+{"id": "w_middlesbrough", "cn": "米德尔斯布勒[英国英格兰东北部港市]( 克利夫兰郡首府)", "en": "Middlesbrough", "level": 5000}
+{"id": "w_fifth", "cn": "num. 第五, 五分之一", "en": "fifth", "level": 5000}
+{"id": "w_duke", "cn": "n. 公爵", "en": "duke", "level": 5000}
+{"id": "w_adam", "cn": "n. 亚当\\n[计] 自动直接存取管理", "en": "Adam", "level": 5000}
+{"id": "w_comprehensive", "cn": "a. 广泛的, 有理解力的, 综合的\\n[经] 广泛的, 综合的, 全面的", "en": "comprehensive", "level": 5000}
+{"id": "w_landlord", "cn": "n. 房东, 地主\\n[经] 业主, 地主, 房东", "en": "landlord", "level": 5000}
+{"id": "w_administrative", "cn": "a. 管理的, 行政的\\n[法] 行政的, 管理的, 遗产管理的", "en": "administrative", "level": 5000}
+{"id": "w_dealer", "cn": "n. 经销商, 商人\\n[经] 交易员, 贩卖商", "en": "dealer", "level": 5000}
+{"id": "w_breach", "cn": "n. 裂口, 违背, 破坏, 违反, 突破, 破裂\\nvt. 攻破, 突破\\nvi. 跳出水面", "en": "breach", "level": 5000}
+{"id": "w_lad", "cn": "n. 青年, 家伙, 少年, 情人", "en": "lad", "level": 5000}
+{"id": "w_sarah", "cn": "n. 萨拉(<<圣经>>故事人物)", "en": "Sarah", "level": 5000}
+{"id": "w_equation", "cn": "n. 相等, 等式, 平衡\\n[化] 方程式; 等式; 反应式; 公式", "en": "equation", "level": 5000}
+{"id": "w_investor", "cn": "n. 投资者\\n[经] 投资者", "en": "investor", "level": 5000}
+{"id": "w_eh", "cn": "interj. 啊!嗯!是吗?好吗?\\n[医] 氧化还原电位", "en": "eh", "level": 5000}
+{"id": "w_spanish", "cn": "n. 西班牙人, 西班牙语\\na. 西班牙的", "en": "Spanish", "level": 5000}
+{"id": "w_allowance", "cn": "n. 津贴, 零用钱, 限额, 折扣, 允许\\nvt. 定量供应", "en": "allowance", "level": 5000}
+{"id": "w_rome", "cn": "n. 罗马", "en": "Rome", "level": 5000}
+{"id": "w_mortgage", "cn": "n. 抵押, 约束性义务, 抵押借款\\nvt. 抵押, 以...作担保, 把...许给", "en": "mortgage", "level": 5000}
+{"id": "w_scope", "cn": "n. 范围, 机会, 广度, 眼界, 观察仪器, 导弹射程\\n[计] 作用域", "en": "scope", "level": 5000}
+{"id": "w_policeman", "cn": "n. 警察\\n[化] 淀帚", "en": "policeman", "level": 5000}
+{"id": "w_tale", "cn": "n. 故事, 谎言, 谣言, 陈述, 叙述\\n[法] 虚语, 诽语, 谣言", "en": "tale", "level": 5000}
+{"id": "w_paragraph", "cn": "n. 段落, 短评\\nvt. 将...分段, 分段落\\nvi. 写短讯\\n[计] 段落", "en": "paragraph", "level": 5000}
+{"id": "w_cricket", "cn": "n. 蟋蟀, 板球", "en": "cricket", "level": 5000}
+{"id": "w_continuing", "cn": "a. 继续的, 持续的, 连续的\\n[法] 继续的, 连续的, 持续的", "en": "continuing", "level": 5000}
+{"id": "w_journal", "cn": "n. 日记, 杂志, 日报\\n[化] 轴颈", "en": "journal", "level": 5000}
+{"id": "w_golf", "cn": "n. 高尔夫球\\nvi. 打高尔夫球", "en": "golf", "level": 5000}
+{"id": "w_detect", "cn": "vt. 发现, 察觉, 探测\\n[法] 发现, 查明, 探测", "en": "detect", "level": 5000}
+{"id": "w_consent", "cn": "n. 同意, 许可\\nvi. 同意, 赞同", "en": "consent", "level": 5000}
+{"id": "w_comprise", "cn": "vt. 包含, 构成", "en": "comprise", "level": 5000}
+{"id": "w_birmingham", "cn": "n. 伯明翰", "en": "Birmingham", "level": 5000}
+{"id": "w_darkness", "cn": "n. 黑暗, 暗, 深色, 隐密, 模糊, 无知", "en": "darkness", "level": 5000}
+{"id": "w_tim", "cn": "n. 蒂姆（男子名）", "en": "tim", "level": 5000}
+{"id": "w_visual", "cn": "a. 视觉的\\n[医] 视觉的, 视力的, 视觉性记忆优势者", "en": "visual", "level": 5000}
+{"id": "w_literary", "cn": "a. 文学的, 文艺的, 精通文学的\\n[法] 文学的, 从事文学的, 从事写作的", "en": "literary", "level": 5000}
+{"id": "w_thatcher", "cn": "n. 盖屋顶者", "en": "thatcher", "level": 5000}
+{"id": "w_nigel", "cn": "n. 奈杰尔（男子名）", "en": "nigel", "level": 5000}
+{"id": "w_guitar", "cn": "n. 吉他", "en": "guitar", "level": 5000}
+{"id": "w_interaction", "cn": "n. 交互作用, 交感\\n[计] 交互作用", "en": "interaction", "level": 5000}
+{"id": "w_dna", "cn": "脱氧核糖核酸\\n[计] 无效数据, 数字网络体系结构, 分布式网络体系结构", "en": "DNA", "level": 5000}
+{"id": "w_nov", "cn": "abbr. 十一月（November）", "en": "nov", "level": 5000}
+{"id": "w_longer", "cn": "adv. 比较久", "en": "longer", "level": 5000}
+{"id": "w_sake", "cn": "n. 目的, 缘故, 理由", "en": "sake", "level": 5000}
+{"id": "w_circuit", "cn": "n. 电路, 环(行)道, 巡回\\n[计] 线路; 电路", "en": "circuit", "level": 5000}
+{"id": "w_perception", "cn": "n. 知觉, 感觉, 领悟力, 获取\\n[医] 知觉", "en": "perception", "level": 5000}
+{"id": "w_demonstration", "cn": "n. 示范, 实证\\n[医] 示教, 实物教授", "en": "demonstration", "level": 5000}
+{"id": "w_resign", "cn": "vt. 辞职, 放弃, 使顺从\\nvi. 辞职, 屈从", "en": "resign", "level": 5000}
+{"id": "w_supreme", "cn": "n. 至高, 霸权\\na. 至高的, 终极的, 极端的, 最大的", "en": "supreme", "level": 5000}
+{"id": "w_differ", "cn": "vi. 不一致, 不同\\n[机] 差异, 不同", "en": "differ", "level": 5000}
+{"id": "w_adviser", "cn": "n. 顾问, 劝告者, 指导教师\\n[法] 顾问, 劝告者", "en": "adviser", "level": 5000}
+{"id": "w_nineteenth", "cn": "num. 第十九, 十九分之一", "en": "nineteenth", "level": 5000}
+{"id": "w_williams", "cn": "n. 威廉姆斯（男子名）", "en": "williams", "level": 5000}
+{"id": "w_personnel", "cn": "n. 人员, 人事部门, 人事科(处)\\n[经] 人事, 全体人员, 职工", "en": "personnel", "level": 5000}
+{"id": "w_consumption", "cn": "n. 消费, 消费量, 痨病\\n[化] 消耗量; 耗量", "en": "consumption", "level": 5000}
+{"id": "w_classical", "cn": "a. 古典的, 正统派的, 经典的\\n[医] 古典的; 标准的, 典型的", "en": "classical", "level": 5000}
+{"id": "w_washington", "cn": "n. 华盛顿", "en": "Washington", "level": 5000}
+{"id": "w_peasant", "cn": "n. 农夫, 乡下人", "en": "peasant", "level": 5000}
+{"id": "w_province", "cn": "n. 省, 地方, 职权, 领域\\n[法] 省, 地方, 领域", "en": "province", "level": 5000}
+{"id": "w_acquisition", "cn": "n. 获得, 获得物\\n[经] 收购, 招揽, 取得", "en": "acquisition", "level": 5000}
+{"id": "w_socialist", "cn": "n. 社会主义者, 社会党党员\\n[法] 社会主义的", "en": "socialist", "level": 5000}
+{"id": "w_commons", "cn": "n. 平民, 下议院, 公共食堂\\n[法] 平民, 下议院议员, 下院", "en": "commons", "level": 5000}
+{"id": "w_gloucester", "cn": "n. 格洛斯特（英国西南部的港市）；格洛斯特硬干酪（产于英国）", "en": "gloucester", "level": 5000}
+{"id": "w_survival", "cn": "n. 生存, 残存, 幸存者\\na. 赖以生存的", "en": "survival", "level": 5000}
+{"id": "w_negotiate", "cn": "vi. 商议, 谈判, 交涉\\nvt. 谈妥, 转让, 处理", "en": "negotiate", "level": 5000}
+{"id": "w_workshop", "cn": "n. 工场, 车间, 研讨会\\n[计] 讨论会; 专题研究组", "en": "workshop", "level": 5000}
+{"id": "w_occupation", "cn": "n. 职业, 占有, 占有期, 占领, 占领军\\n[经] 占有, 占用, 职业", "en": "occupation", "level": 5000}
+{"id": "w_catholic", "cn": "n. 天主教徒\\na. 天主教的, 普遍的, 广泛的, 宽宏大量的", "en": "catholic", "level": 5000}
+{"id": "w_numerous", "cn": "a. 很多的, 数目众多的, 多数的\\n[机] 多数的, 甚多的", "en": "numerous", "level": 5000}
+{"id": "w_mission", "cn": "n. 任务, 代表团, 使命, 传教团\\nvt. 派遣, 向...传教", "en": "mission", "level": 5000}
+{"id": "w_guidance", "cn": "n. 指导, 领导\\n[医] 导", "en": "guidance", "level": 5000}
+{"id": "w_statistics", "cn": "n. 统计学, 统计资料\\n[计] 统计信息", "en": "statistics", "level": 5000}
+{"id": "w_consultant", "cn": "n. 顾问, 征询意见者\\n[医] 顾问医师", "en": "consultant", "level": 5000}
+{"id": "w_distinct", "cn": "a. 清楚的, 显著的, 不同的", "en": "distinct", "level": 5000}
+{"id": "w_percentage", "cn": "n. 百分比, 比率, 部分, 可能性\\n[计] 百分比", "en": "percentage", "level": 5000}
+{"id": "w_compensation", "cn": "n. 补偿, 赔偿金, 工资\\n[医] 代偿(机能), 补偿", "en": "compensation", "level": 5000}
+{"id": "w_poet", "cn": "n. 诗人", "en": "poet", "level": 5000}
+{"id": "w_johnson", "cn": "n. 约翰逊（姓氏）", "en": "johnson", "level": 5000}
+{"id": "w_supplier", "cn": "n. 供应者, 供给国, 供应商\\n[化] 承制厂; 供应厂商", "en": "supplier", "level": 5000}
+{"id": "w_scott", "cn": "n. 斯科特（男子名）", "en": "scott", "level": 5000}
+{"id": "w_ben", "cn": "n. 内室\\n[医] 贝昂(俗名,一般指辣木Moringa oleifera,有时也指一些不同属的植物)", "en": "ben", "level": 5000}
+{"id": "w_israel", "cn": "n. 以色列, 以色列后裔, 犹太人", "en": "Israel", "level": 5000}
+{"id": "w_earnings", "cn": "n. 所赚的钱, 工资, 收入\\n[经] 工资, 收入, 收益, 盈余", "en": "earnings", "level": 5000}
+{"id": "w_r", "cn": "[计] 半径, 比例, 读, 接收, 寄存器, 复位, 电阻, 程式", "en": "R", "level": 5000}
+{"id": "w_widespread", "cn": "a. 充分伸展的, 广布的, 普及的, 流传广的", "en": "widespread", "level": 5000}
+{"id": "w_respectively", "cn": "adv. 各自地, 独自地, 个别地, 分别地", "en": "respectively", "level": 5000}
+{"id": "w_iraq", "cn": "n. 伊拉克", "en": "Iraq", "level": 5000}
+{"id": "w_sept", "cn": "n. 氏族\\n[经] 九月", "en": "sept", "level": 5000}
+{"id": "w_observer", "cn": "n. 观察者, 遵守者, 观察员\\n[法] 观察者, 观察员, 监场员", "en": "observer", "level": 5000}
+{"id": "w_operating", "cn": "a. 操作的, 工作的, 营业上的, 业务的, 关于收支的, 关于损益的, 外科手术的\\n[机] 运转费用", "en": "operating", "level": 5000}
+{"id": "w_given", "cn": "a. 赠予的, 沉溺的, 约定的\\ngive的过去分词", "en": "given", "level": 5000}
+{"id": "w_fewer", "cn": "a. 较少的", "en": "fewer", "level": 5000}
+{"id": "w_poverty", "cn": "n. 贫穷, 贫困, 缺乏\\n[医] 贫乏, 缺乏", "en": "poverty", "level": 5000}
+{"id": "w_sam", "cn": "[计] 安全性帐户管理器", "en": "SAM", "level": 5000}
+{"id": "w_enhance", "cn": "vt. 提高, 加强, 增加", "en": "enhance", "level": 5000}
+{"id": "w_consistent", "cn": "a. 一致的, 坚持的, 并立的, 坚固的", "en": "consistent", "level": 5000}
+{"id": "w_ownership", "cn": "n. 所有权, 物主身份\\n[经] 所有权, 所有制", "en": "ownership", "level": 5000}
+{"id": "w_developing", "cn": "a. 发展中的\\n[计] 显影", "en": "developing", "level": 5000}
+{"id": "w_neil", "cn": "n. 尼尔（男子名）", "en": "neil", "level": 5000}
+{"id": "w_practitioner", "cn": "n. 从业者, 开业者\\n[医] 行医者, 医师", "en": "practitioner", "level": 5000}
+{"id": "w_constitutional", "cn": "a. 宪法的, 立宪的, 体质的\\n[医] 全身的; 体质的", "en": "constitutional", "level": 5000}
+{"id": "w_emphasise", "cn": "vt. 强调, 重读, 加强...的语气, 着重", "en": "emphasise", "level": 5000}
+{"id": "w_eighteen", "cn": "num. 十八, 十八个", "en": "eighteen", "level": 5000}
+{"id": "w_talent", "cn": "n. 天才, 才能, 有才干的人, 天资", "en": "talent", "level": 5000}
+{"id": "w_burden", "cn": "n. 负担, 重载, 担子, 责任\\nvt. 装货于, 烦扰, 使负担", "en": "burden", "level": 5000}
+{"id": "w_dimension", "cn": "n. 尺寸, 次元, 面积, 维数\\nvt. 标出尺寸", "en": "dimension", "level": 5000}
+{"id": "w_operator", "cn": "n. 操作员, 行家, 经纪人, 算子, 运算符\\n[计] 运算符", "en": "operator", "level": 5000}
+{"id": "w_storage", "cn": "n. 存储器, 储藏, 保管, 库存, 仓库\\n[计] 存放处; 存储", "en": "storage", "level": 5000}
+{"id": "w_jean", "cn": "n. 牛仔裤, 牛仔布, 斜纹棉布", "en": "jean", "level": 5000}
+{"id": "w_strengthen", "cn": "vt. 加强, 变坚固\\nvi. 变强, 股票上涨", "en": "strengthen", "level": 5000}
+{"id": "w_catalogue", "cn": "n. 目录, 大学情况一览\\nvt. 编入目录", "en": "catalogue", "level": 5000}
+{"id": "w_publisher", "cn": "n. 出版者, 发行人\\n[法] 发行人, 出版者, 报刊发行者", "en": "publisher", "level": 5000}
+{"id": "w_architecture", "cn": "n. 建筑学, 建筑式样\\n[计] 体系结构", "en": "architecture", "level": 5000}
+{"id": "w_patrick", "cn": "n. 帕特里克（男子名）", "en": "patrick", "level": 5000}
+{"id": "w_joseph", "cn": "n. 约瑟夫（男子名）；约瑟（圣经中雅各的第十一子）", "en": "Joseph", "level": 5000}
+{"id": "w_exceed", "cn": "vt. 超过, 超越, 胜过\\nvi. 超过其他", "en": "exceed", "level": 5000}
+{"id": "w_dominant", "cn": "a. 占优势的, 支配的\\n[医] 优性的, 显性的", "en": "dominant", "level": 5000}
+{"id": "w_asia", "cn": "n. 亚洲", "en": "Asia", "level": 5000}
+{"id": "w_historian", "cn": "n. 历史学家, 记事者", "en": "historian", "level": 5000}
+{"id": "w_strategic", "cn": "a. 战略的, 战略上的\\n[经] 战略的", "en": "strategic", "level": 5000}
+{"id": "w_moscow", "cn": "n. 莫斯科", "en": "Moscow", "level": 5000}
+{"id": "w_clinical", "cn": "a. 临床的, 门诊部的\\n[医] 临床的, 临证的", "en": "clinical", "level": 5000}
+{"id": "w_ken", "cn": "n. 视野范围, 知识范围, 见地", "en": "ken", "level": 5000}
+{"id": "w_ruth", "cn": "n. 怜悯, 悲哀", "en": "ruth", "level": 5000}
+{"id": "w_theoretical", "cn": "a. 理论的, 理论上的, 假设的, 推理的\\n[计] 理论的", "en": "theoretical", "level": 5000}
+{"id": "w_processing", "cn": "[计] 处理\\n[化] 加工", "en": "processing", "level": 5000}
+{"id": "w_ha", "cn": "interj. 嘿, 哈, 哈哈", "en": "ha", "level": 5000}
+{"id": "w_evaluation", "cn": "n. 评估, 估价, 求值\\n[计] 鉴定; 评价; 求值", "en": "evaluation", "level": 5000}
+{"id": "w_democrat", "cn": "n. 民主人士, 民主主义者, 民主党党员\\n[经] 民主党", "en": "democrat", "level": 5000}
+{"id": "w_implementation", "cn": "n. 安装启用, 实行, 履行\\n[计] 实施; 实现", "en": "implementation", "level": 5000}
+{"id": "w_qv", "cn": "abbr. quivering 颤抖; quod vide (Latin=which see) （拉丁语）参见…; quality verification 质量确认; quantum vis (Latin=as much as you wish) （拉丁语）随意量", "en": "qv", "level": 5000}
+{"id": "w_replacement", "cn": "n. 归还, 更换, 代替者\\n[医] 复位, 置换", "en": "replacement", "level": 5000}
+{"id": "w_distant", "cn": "a. 远的, 疏远的\\n[经] 远期的", "en": "distant", "level": 5000}
+{"id": "w_childhood", "cn": "n. 孩童时期\\n[医] 儿童期", "en": "childhood", "level": 5000}
+{"id": "w_leisure", "cn": "n. 空闲, 闲暇, 悠闲\\na. 空闲的, 有闲的", "en": "leisure", "level": 5000}
+{"id": "w_canada", "cn": "n. 加拿大", "en": "Canada", "level": 5000}
+{"id": "w_merchant", "cn": "n. 商人, 店主\\na. 商业的, 商人的", "en": "merchant", "level": 5000}
+{"id": "w_designer", "cn": "n. 设计者, 谋划者, 制图者\\n[计] 设计员", "en": "designer", "level": 5000}
+{"id": "w_arthur", "cn": "n. 亚瑟（男子名）；亚瑟王（传说中六世纪前后英国的国王, 圆桌骑士团的首领）", "en": "arthur", "level": 5000}
+{"id": "w_admission", "cn": "n. 准许进入, 入场费, 录用, 承认\\n[经] 加入, 入股", "en": "admission", "level": 5000}
+{"id": "w_stake", "cn": "n. 桩, 炮烙刑, 木柱, 赌注, 奖金\\nvt. 打桩, 用桩撑, 下赌注, 资助\\nvi. 打赌", "en": "stake", "level": 5000}
+{"id": "w_fabric", "cn": "n. 织物, 布, 结构, 构造, 建筑物\\n[经] 组织, 建筑物, 工厂", "en": "fabric", "level": 5000}
+{"id": "w_sustain", "cn": "vt. 承受, 支持, 供养, 继续, 忍受, 蒙受, 证实, 准许\\n[电] 持续", "en": "sustain", "level": 5000}
+{"id": "w_perceive", "cn": "vt. 感觉, 认知, 理解, 意识到", "en": "perceive", "level": 5000}
+{"id": "w_vessel", "cn": "n. 船, 容器, 脉管\\n[医] 管, 脉管, (容)器", "en": "vessel", "level": 5000}
+{"id": "w_participate", "cn": "vi. 参加, 分享, 参与, 带有\\nvt. 分享, 分担", "en": "participate", "level": 5000}
+{"id": "w_tissue", "cn": "n. 薄的织物, 薄纱, 棉纸, 组织, 一套\\n[化] 组织", "en": "tissue", "level": 5000}
+{"id": "w_economics", "cn": "n. 经济学\\n[经] 经济学", "en": "economics", "level": 5000}
+{"id": "w_secondly", "cn": "adv. 第二, 其次", "en": "secondly", "level": 5000}
+{"id": "w_bristol", "cn": "n. 布里斯托尔(英国西部港口)", "en": "Bristol", "level": 5000}
+{"id": "w_residential", "cn": "a. 住宅的, 与居住有关的\\n[法] 有关居住的, 房产的:居所的, 适于居住的", "en": "residential", "level": 5000}
+{"id": "w_consultation", "cn": "n. 请教, 咨询, 磋商会\\n[医] 会诊", "en": "consultation", "level": 5000}
+{"id": "w_rugby", "cn": "n. 橄榄球, 橄榄球赛", "en": "rugby", "level": 5000}
+{"id": "w_unity", "cn": "n. 一致, 联合, 单一(性), 个体\\n[经] 统一", "en": "unity", "level": 5000}
+{"id": "w_turnover", "cn": "n. 翻倒, 翻转, 半圆酥饼, 营业额, 流通, 周转\\na. 可翻转的", "en": "turnover", "level": 5000}
+{"id": "w_squad", "cn": "n. 班, 小队, 小集团\\nvt. 编成班", "en": "squad", "level": 5000}
+{"id": "w_nick", "cn": "n. 刻痕, 缺口, 划痕\\nvt. 刻痕于, 弄缺, 擦伤\\nvi. 狙击", "en": "nick", "level": 5000}
+{"id": "w_furthermore", "cn": "adv. 此外, 而且", "en": "furthermore", "level": 5000}
+{"id": "w_s", "cn": "[计] 标量, 服务员, 符号, 堆栈, 状态, 存储器, 开关, 同步, 系统\\n[医] 硫[黄](16号元素); 半; 骶骨的; 标记, 用法签; 光滑; 左的; 上转", "en": "S", "level": 5000}
+{"id": "w_percent", "cn": "n. 百分比, 百分数, 部分\\n[机] 百分率", "en": "percent", "level": 5000}
+{"id": "w_feb", "cn": "abbr. 二月（February）", "en": "feb", "level": 5000}
+{"id": "w_aug", "cn": "abbr. 八月（August）", "en": "Aug", "level": 5000}
+{"id": "w_standing", "cn": "n. 起立, 持续, 身分\\na. 立着的, 不动的, 经常的, 持续的", "en": "standing", "level": 5000}
+{"id": "w_profile", "cn": "n. 侧面, 轮廓, 传略\\nvt. 描绘...轮廓, 写...的传略\\n[计] 提问档; 剖面图法; 剖面法", "en": "profile", "level": 5000}
+{"id": "w_headquarters", "cn": "n. 总部, 司令部, 总部人员\\n[经] 本部, 总部, 总署", "en": "headquarters", "level": 5000}
+{"id": "w_corridor", "cn": "n. 走廊, 回廊, 人口密集地带", "en": "corridor", "level": 5000}
+{"id": "w_announcement", "cn": "n. 公告, 发表, 告知\\n[经] 通告, 布告, 公告", "en": "announcement", "level": 5000}
+{"id": "w_surgery", "cn": "n. 外科, 手术, 手术室, 换球术", "en": "surgery", "level": 5000}
+{"id": "w_psychological", "cn": "a. 心理学的, 精神上的, 心灵的\\n[法] 心理上的, 心理学的", "en": "psychological", "level": 5000}
+{"id": "w_reinforce", "cn": "vt. 加强, 增援, 补充\\nvi. 求援, 得到增援\\nn. 加固材料", "en": "reinforce", "level": 5000}
+{"id": "w_conviction", "cn": "n. 定罪, 信服, 坚信\\n[法] 定罪, 证明有罪, 判罪", "en": "conviction", "level": 5000}
+{"id": "w_snap", "cn": "vt. 使突然中断, 猛咬, 争夺, 拉断, 使有啪啪声, 厉声说, 突然射击, 用快照拍摄\\nvi. 咬, 扑, 抓, 折断, 劈啪地响, 厉声说, 砰然关上\\nn. 猛咬, 猛扑, 劈啪声, 申斥, 快照, 活力, 一般时期的寒冷天气, 揿钮\\na. 突然的, 装搭扣的\\nadv. 猛地\\n[计] 子网访问协议", "en": "snap", "level": 5000}
+{"id": "w_magistrate", "cn": "n. 长官, 法官, 推事\\n[法] 司法行政官, 治安法官, 地方法官", "en": "magistrate", "level": 5000}
+{"id": "w_tennis", "cn": "n. 网球", "en": "tennis", "level": 5000}
+{"id": "w_readily", "cn": "adv. 迅速地, 轻易地, 乐意地", "en": "readily", "level": 5000}
+{"id": "w_kong", "cn": "n. 含锡砾石下的无矿基岩；钢", "en": "kong", "level": 5000}
+{"id": "w_refugee", "cn": "n. 难民, 流亡者\\n[法] 避难者, 流亡者, 难民", "en": "refugee", "level": 5000}
+{"id": "w_hong", "cn": "n. （中国、日本的）行, 商行", "en": "hong", "level": 5000}
+{"id": "w_keith", "cn": "n. 基思（男子名）", "en": "keith", "level": 5000}
+{"id": "w_sergeant", "cn": "n. 警察小队长, 军士", "en": "sergeant", "level": 5000}
+{"id": "w_charlie", "cn": "n. 通讯中用以代表字母C的词", "en": "Charlie", "level": 5000}
+{"id": "w_participant", "cn": "n. 参加者, 参与者\\na. 有份的, 参加的, 参与的", "en": "participant", "level": 5000}
+{"id": "w_anna", "cn": "n. 安娜（女子名）", "en": "anna", "level": 5000}
+{"id": "w_iv", "cn": "abbr. 输入阀；交互式视讯；自变量（Independent Variable）", "en": "iv", "level": 5000}
+{"id": "w_andy", "cn": "n. 安迪（男子名, 等于Andrew）", "en": "andy", "level": 5000}
+{"id": "w_monetary", "cn": "a. 货币的, 金钱的\\n[经] 货币的, 金融的", "en": "monetary", "level": 5000}
+{"id": "w_amendment", "cn": "n. 修订, 改善, 改良, 改正\\n[化] 调理剂; 修正", "en": "amendment", "level": 5000}
+{"id": "w_shrug", "cn": "n. 耸肩\\nv. 耸肩", "en": "shrug", "level": 5000}
+{"id": "w_fourteen", "cn": "num. 十四, 十四个", "en": "fourteen", "level": 5000}
+{"id": "w_pit", "cn": "n. 深坑, 矿井, 果核, 地窖, 深渊, 绝境, 陷阱\\nvt. 窖藏, 使凹下, 使有麻点, 去...之核, 使留疤痕, 使相斗, 使竞争\\nvi. 起凹点, 凹陷", "en": "pit", "level": 5000}
+{"id": "w_gesture", "cn": "n. 手势, 姿态\\nvi. 作手势, 作姿态", "en": "gesture", "level": 5000}
+{"id": "w_sixteen", "cn": "num. 十六, 十六个", "en": "sixteen", "level": 5000}
+{"id": "w_architect", "cn": "n. 建筑师, 设计者, 缔造者", "en": "architect", "level": 5000}
+{"id": "w_cathedral", "cn": "n. 大教堂", "en": "cathedral", "level": 5000}
+{"id": "w_helen", "cn": "n. 海伦（女子名, 火把、光亮的之义）", "en": "helen", "level": 5000}
+{"id": "w_newcastle", "cn": "n. 纽卡斯尔（英国港市）", "en": "newcastle", "level": 5000}
+{"id": "w_acceptance", "cn": "n. 接受, 接纳, 承认, 同意, 赞同, 容忍, 相信\\n[经] 承兑, 认付, (工程)验收", "en": "acceptance", "level": 5000}
+{"id": "w_treasury", "cn": "n. 国库, 宝库, 财政部, 国库券\\n[经] 库存, 国库, 金库", "en": "treasury", "level": 5000}
+{"id": "w_limitation", "cn": "n. 限制, 缺陷, 限额\\n[医] 限界, 限制, 限度", "en": "limitation", "level": 5000}
+{"id": "w_howard", "cn": "n. 霍华德（男子名）", "en": "howard", "level": 5000}
+{"id": "w_detective", "cn": "n. 侦探\\na. 侦探的", "en": "detective", "level": 5000}
+{"id": "w_dave", "cn": "n. 戴夫（男子名）", "en": "dave", "level": 5000}
+{"id": "w_berlin", "cn": "n. 柏林, (软质)柏林毛线", "en": "Berlin", "level": 5000}
+{"id": "w_summit", "cn": "n. 顶点, 最高阶层, 最高级会议\\na. 政府首脑的, 最高级的", "en": "summit", "level": 5000}
+{"id": "w_thereby", "cn": "adv. 因此", "en": "thereby", "level": 5000}
+{"id": "w_composition", "cn": "n. 作文, 创作, 组成\\n[化] 成分; 组成", "en": "composition", "level": 5000}
+{"id": "w_transition", "cn": "n. 转变, 转换, 变迁, 过渡时期, 临时转调\\n[化] 跃迁", "en": "transition", "level": 5000}
+{"id": "w_pacific", "cn": "n. 太平洋\\na. 太平洋的, 太平洋沿岸的, 爱好和平的, 安静的, 平息的", "en": "pacific", "level": 5000}
+{"id": "w_constituency", "cn": "n. 选民, 顾客, 读者\\n[法] 选区, 全体选民, 选区内的选民", "en": "constituency", "level": 5000}
+{"id": "w_participation", "cn": "n. 参与, 分享\\n[经] 参与, 参股", "en": "participation", "level": 5000}
+{"id": "w_structural", "cn": "a. 结构的, 建筑的\\n[医] 结构的", "en": "structural", "level": 5000}
+{"id": "w_d", "cn": "[计] 数据, 十进制, 数位, 位, 文档, 域\\n[医] 氘, 重氢", "en": "D", "level": 5000}
+{"id": "w_deficit", "cn": "n. 赤字, 不足额\\n[医] 短缺", "en": "deficit", "level": 5000}
+{"id": "w_discourse", "cn": "n. 谈话, 演讲\\nvi. 谈话, 讲述", "en": "discourse", "level": 5000}
+{"id": "w_lucy", "cn": "n. 露西（女子名）", "en": "lucy", "level": 5000}
+{"id": "w_maggie", "cn": "n. 马吉（女子名）", "en": "Maggie", "level": 5000}
+{"id": "w_occasional", "cn": "a. 偶然的, 临时的\\n[法] 偶然的, 特殊场合的", "en": "occasional", "level": 5000}
+{"id": "w_objection", "cn": "n. 异议, 反对, 不喜欢, 缺点, 缺陷, 妨碍, 拒绝之理由\\n[法] 异议, 反对, 抗议", "en": "objection", "level": 5000}
+{"id": "w_lower", "cn": "a. 低的, 下级的, 下层的\\nvi. 降低, 跌落, 减弱\\nvt. 放下, 降下, 减弱, 贬低", "en": "lower", "level": 5000}
+{"id": "w_closer", "cn": "n. 关闭者, 闭合器, 关闭器", "en": "closer", "level": 5000}
+{"id": "w_bench", "cn": "n. 长椅子\\n[机] 台", "en": "bench", "level": 5000}
+{"id": "w_roger", "cn": "interj. 对!, 行!, 好!", "en": "roger", "level": 5000}
+{"id": "w_victoria", "cn": "n. 维多利亚（女子名）", "en": "victoria", "level": 5000}
+{"id": "w_kent", "cn": "n. 肯特郡(英国郡名)", "en": "Kent", "level": 5000}
+{"id": "w_infant", "cn": "n. 婴儿, 儿童, 初学者\\na. 婴儿的, 幼稚的", "en": "infant", "level": 5000}
+{"id": "w_ward", "cn": "n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌\\nvt. 使入病房, 守护, 保卫", "en": "ward", "level": 5000}
+{"id": "w_entitled", "cn": "a. 有资格的；给与名称的", "en": "entitled", "level": 5000}
+{"id": "w_guardian", "cn": "n. 看守者, 监护人, 保护人\\na. 保护的", "en": "guardian", "level": 5000}
+{"id": "w_matthew", "cn": "n. 马太, 马太福音", "en": "Matthew", "level": 5000}
+{"id": "w_passion", "cn": "n. 激情, 酷爱, 热爱, 强烈感情, 耶稣受难(故事)", "en": "passion", "level": 5000}
+{"id": "w_folk", "cn": "n. 人们, 家人, 亲属, 民族\\na. 民间的", "en": "folk", "level": 5000}
+{"id": "w_virtue", "cn": "n. 德行, 美德, 优点, 功效, 效力\\n[法] 美德, 贞操, 优点", "en": "virtue", "level": 5000}
+{"id": "w_margin", "cn": "n. 页边的空白, 边缘, 界限, 余裕, 差数, 差额, 保证金\\nvt. 加边于, 加旁注于\\n[计] 页边距", "en": "margin", "level": 5000}
+{"id": "w_canal", "cn": "n. 运河, 水道, 管, 沟渠\\nvt. 开运河", "en": "canal", "level": 5000}
+{"id": "w_fulfil", "cn": "vt. 实践, 履行, 实行, 完成, 结束, 满足\\n[经] 履行(契约), 满期", "en": "fulfil", "level": 5000}
+{"id": "w_universal", "cn": "a. 全世界的, 普遍的, 宇宙的, 通用的\\nn. 一般概念", "en": "universal", "level": 5000}
+{"id": "w_assault", "cn": "n. 攻击, 袭击\\nvt. 袭击, 攻击\\nvi. 发动攻击", "en": "assault", "level": 5000}
+{"id": "w_alexander", "cn": "n. 亚历山大（男子名）", "en": "alexander", "level": 5000}
+{"id": "w_timber", "cn": "n. 木材, 木料\\nvt. 用木材建造", "en": "timber", "level": 5000}
+{"id": "w_cattle", "cn": "n. 牛, 家畜\\n[法] 家畜", "en": "cattle", "level": 5000}
+{"id": "w_seize", "cn": "vt. 抓住, 逮捕, 俘获, 没收, 扣押, 掌握\\nvi. 突然抓住, 利用", "en": "seize", "level": 5000}
+{"id": "w_evident", "cn": "a. 显然的, 明显的", "en": "evident", "level": 5000}
+{"id": "w_gordon", "cn": "[计] 哥尔丹", "en": "Gordon", "level": 5000}
+{"id": "w_psychology", "cn": "n. 心理学, 心理状态\\n[医] 心理学", "en": "psychology", "level": 5000}
+{"id": "w_uncertainty", "cn": "n. 不确定, 不可靠, 不确定的事物\\n[化] 不确定度", "en": "uncertainty", "level": 5000}
+{"id": "w_expertise", "cn": "n. 专家意见, 专门技术\\n[法] 专门知识, 专家意见", "en": "expertise", "level": 5000}
+{"id": "w_opera", "cn": "n. 歌剧", "en": "opera", "level": 5000}
+{"id": "w_consciousness", "cn": "n. 意识, 知觉, 自觉\\n[医] (有)意识, 清醒", "en": "consciousness", "level": 5000}
+{"id": "w_midland", "cn": "n. 中部地方, 内地", "en": "midland", "level": 5000}
+{"id": "w_zealand", "cn": "n. 西兰岛（丹麦最大的岛）", "en": "zealand", "level": 5000}
+{"id": "w_constraint", "cn": "n. 强制, 约束\\n[计] 约束", "en": "constraint", "level": 5000}
+{"id": "w_prosecution", "cn": "n. 执行, 经营, 起诉", "en": "prosecution", "level": 5000}
+{"id": "w_overseas", "cn": "a. 海外的, 国外的\\nadv. 在海外, 在国外", "en": "overseas", "level": 5000}
+{"id": "w_album", "cn": "n. 粘贴簿, 唱片套\\n[医] 白色物", "en": "album", "level": 5000}
+{"id": "w_b", "cn": "[计] 基地址, 数据库, 基极, 二进制, 块, 字组, 布尔, 总线, 占线, 字节\\n[医] 硼(5号元素)", "en": "B", "level": 5000}
+{"id": "w_cite", "cn": "vt. 引用, 引证, 表彰\\n[建] 引证, 指引", "en": "cite", "level": 5000}
+{"id": "w_guideline", "cn": "n. 指导路线, 方针, 指标\\n[经] 指导路线, 方针, 准则", "en": "guideline", "level": 5000}
+{"id": "w_mummy", "cn": "n. 木乃伊, 瘦而干瘪之人, 妈咪\\n[医] 干尸, 木乃伊; 普鲁士红", "en": "mummy", "level": 5000}
+{"id": "w_coalition", "cn": "n. 结合体, 结合, 联合\\n[经] 联合, 联盟", "en": "coalition", "level": 5000}
+{"id": "w_aha", "cn": "interj. 啊哈", "en": "aha", "level": 5000}
+{"id": "w_vulnerable", "cn": "a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的\\n[医] 易损的", "en": "vulnerable", "level": 5000}
+{"id": "w_convinced", "cn": "a. 确信的, 深信的", "en": "convinced", "level": 5000}
+{"id": "w_sixth", "cn": "num. 第六, 六分之一", "en": "sixth", "level": 5000}
+{"id": "w_volunteer", "cn": "n. 志愿者\\na. 志愿的\\nv. 自愿", "en": "volunteer", "level": 5000}
+{"id": "w_privilege", "cn": "n. 特权, 特别恩典, 基本权利, 特免\\nvt. 给与...特权, 特免", "en": "privilege", "level": 5000}
+{"id": "w_reflection", "cn": "n. 反映, 沉思, 映像, 想法, 责难\\n[计] 反射", "en": "reflection", "level": 5000}
+{"id": "w_sophisticated", "cn": "a. 复杂的, 久经世故的\\n[法] 尖端的, 高级的, 非常有经验的", "en": "sophisticated", "level": 5000}
+{"id": "w_victorian", "cn": "a. 英国维多利亚女王时代的, 笃信宗教的, 讲究体面的\\nn. 维多利亚女王时代的英国人", "en": "Victorian", "level": 5000}
+{"id": "w_consequently", "cn": "adv. 所以", "en": "consequently", "level": 5000}
+{"id": "w_companion", "cn": "n. 朋友, 陪伴, 指南, 升降口围罩\\nvt. 陪伴", "en": "companion", "level": 5000}
+{"id": "w_agenda", "cn": "pl. 议程, 日常工作事项\\n[计] 待议事件", "en": "agenda", "level": 5000}
+{"id": "w_creative", "cn": "a. 有创造力的, 创作的, 产生的", "en": "creative", "level": 5000}
+{"id": "w_exploit", "cn": "n. 功绩, 勋绩\\nvt. 开发, 利用, 开拓, 剥削", "en": "exploit", "level": 5000}
+{"id": "w_allocate", "cn": "vt. 分派, 分配\\n[计] 分配", "en": "allocate", "level": 5000}
+{"id": "w_rabbit", "cn": "n. 兔子\\nvi. 猎兔\\nvt. 让...见鬼去", "en": "rabbit", "level": 5000}
+{"id": "w_patch", "cn": "n. 片, 补缀, 碎片, 斑, 傻瓜\\nvt. 补缀, 掩饰, 拼凑, 平息\\n[计] 修补; 拼凑", "en": "patch", "level": 5000}
+{"id": "w_intellectual", "cn": "n. 有知识者, 知识分子, 凭理智做事者\\na. 智力的, 用脑力的, 聪明的", "en": "intellectual", "level": 5000}
+{"id": "w_medieval", "cn": "a. 中古的, 中世纪的", "en": "medieval", "level": 5000}
+{"id": "w_pray", "cn": "v. 祈祷, 恳求, 请", "en": "pray", "level": 5000}
+{"id": "w_vat", "cn": "n. 大桶\\nvt. 装入大桶, 在大桶里处理", "en": "VAT", "level": 5000}
+{"id": "w_francis", "cn": "n. 弗朗西斯（男子名, 义为自由之人）", "en": "francis", "level": 5000}
+{"id": "w_completion", "cn": "n. 完成\\n[经] 完井, 结束, 完工", "en": "completion", "level": 5000}
+{"id": "w_alice", "cn": "[计] 应用语言接口转换与扩充", "en": "ALICE", "level": 5000}
+{"id": "w_lease", "cn": "n. 租约, 租期, 租\\nvt. 出租, 租出, 租得", "en": "lease", "level": 5000}
+{"id": "w_terry", "cn": "n. 毛圈, 毛圈织物", "en": "terry", "level": 5000}
+{"id": "w_norman", "cn": "a. 诺曼第语的；诺曼第人的", "en": "norman", "level": 5000}
+{"id": "w_portrait", "cn": "n. 肖像, 人像, 半身像, 描写, 竖排格式\\n[计] 纵向", "en": "portrait", "level": 5000}
+{"id": "w_jury", "cn": "n. 陪审团, 评判委员会\\na. 应急的", "en": "jury", "level": 5000}
+{"id": "w_dividend", "cn": "n. 被除数, 股利\\n[计] 被除数", "en": "dividend", "level": 5000}
+{"id": "w_undergo", "cn": "vt. 遭受, 经历, 忍受\\n[法] 经受, 经历, 忍受", "en": "undergo", "level": 5000}
+{"id": "w_disorder", "cn": "n. 杂乱, 混乱\\nvt. 扰乱, 使失调", "en": "disorder", "level": 5000}
+{"id": "w_carbon", "cn": "n. 碳, 副本, 复写纸\\n[化] 碳", "en": "carbon", "level": 5000}
+{"id": "w_charter", "cn": "n. 特许状, 执照, 宪章\\nvt. 特许, 发给特许执照", "en": "charter", "level": 5000}
+{"id": "w_colin", "cn": "n. 科林（男子名）", "en": "colin", "level": 5000}
+{"id": "w_san", "cn": "abbr. 存储区域网（Storage Area Networking）", "en": "san", "level": 5000}
+{"id": "w_evolution", "cn": "n. 进化, 发展, 进展, (气体)放出, 开方\\n[医] 进化, 演化, 旋出", "en": "evolution", "level": 5000}
+{"id": "w_accounting", "cn": "n. 会计学, 帐单, 清帐\\n[计] 帐户处理, 记帐", "en": "accounting", "level": 5000}
+{"id": "w_h", "cn": "[计] 硬件, 高度, 水平, 主机\\n[医] 氢(1号元素), 亨[利](电感单位)", "en": "H", "level": 5000}
+{"id": "w_specimen", "cn": "n. 样品, 标本, 试料\\n[化] 试样", "en": "specimen", "level": 5000}
+{"id": "w_closure", "cn": "n. 关闭\\nvt. 使终止", "en": "closure", "level": 5000}
+{"id": "w_taxation", "cn": "n. 课税, 征税, 抽税, 税款, 估定的税额\\n[经] 征税, 纳税, 税制", "en": "taxation", "level": 5000}
+{"id": "w_conservation", "cn": "n. 保护, 保存\\n[医] 保存", "en": "conservation", "level": 5000}
+{"id": "w_durham", "cn": "n. 达勒姆郡(英格兰郡名), 短角肉牛", "en": "Durham", "level": 5000}
+{"id": "w_ideology", "cn": "n. 思想体系, 意识形态, 观念学, 空论\\n[医] 观念学, 观念形态", "en": "ideology", "level": 5000}
+{"id": "w_w", "cn": "[计] 等待, 写, 字\\n[医] 钨(74号元素)", "en": "W", "level": 5000}
+{"id": "w_format", "cn": "n. 开本, 版式, 形式, 格式\\nvt. 格式化\\n[计] 格式; DOS外部命令:对磁盘进行格式化", "en": "format", "level": 5000}
+{"id": "w_laura", "cn": "n. 劳拉（女子名）", "en": "laura", "level": 5000}
+{"id": "w_judicial", "cn": "a. 法庭的, 公正的, 审判上的, 司法的\\n[法] 司法的, 审判上的, 法官的", "en": "judicial", "level": 5000}
+{"id": "w_linguistic", "cn": "a. 语言的, 语言学的\\n[计] 语言的, 语言学的", "en": "linguistic", "level": 5000}
+{"id": "w_sigh", "cn": "n. 叹息\\nvi. 叹息, 渴望\\nvt. 叹息着说", "en": "sigh", "level": 5000}
+{"id": "w_nhs", "cn": "国家医疗保健机构", "en": "NHS", "level": 5000}
+{"id": "w_changing", "cn": "v. 交换；兑换；改变（change的ing形式）", "en": "changing", "level": 5000}
+{"id": "w_maker", "cn": "n. 制造者, 上帝\\n[经] 制造者, 出票人", "en": "maker", "level": 5000}
+{"id": "w_carriage", "cn": "n. 马车, 客车, 举止, 运输\\n[经] 搬运费, 运费", "en": "carriage", "level": 5000}
+{"id": "w_eliminate", "cn": "vt. 除去, 排除, 剔除, 消除", "en": "eliminate", "level": 5000}
+{"id": "w_wipe", "cn": "n. 擦拭, 用力打, 凸轮\\nvt. 擦, 揩, 消灭, 涂上, 拭去\\nvi. 擦, 打", "en": "wipe", "level": 5000}
+{"id": "w_depression", "cn": "n. 不景气, 消沉, 沮丧, 洼地\\n[医] 抑郁[症], 阻抑, 压低, 凹, 窝, 衰退, 俯角", "en": "depression", "level": 5000}
+{"id": "w_suspend", "cn": "vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟\\nvi. 暂停, 中止, 悬浮, 停止偿付债务\\n[计] 暂停", "en": "suspend", "level": 5000}
+{"id": "w_undoubtedly", "cn": "adv. 无疑, 必定, 确实地", "en": "undoubtedly", "level": 5000}
+{"id": "w_australian", "cn": "n. 澳大利亚人\\na. 澳大利亚的, 澳洲的, 澳洲人的", "en": "Australian", "level": 5000}
+{"id": "w_anthony", "cn": "n. 安东尼（人名）", "en": "anthony", "level": 5000}
+{"id": "w_commissioner", "cn": "n. 委员, 理事, 行政长官\\n[法] 委员, 政府的特派员, 地方地官", "en": "commissioner", "level": 5000}
+{"id": "w_junction", "cn": "n. 连接, 会合处, 交叉点\\n[医] 接[合]处, 接点.[接]界", "en": "junction", "level": 5000}
+{"id": "w_flexible", "cn": "a. 易曲的, 灵活的, 柔顺的, 能变形的, 可通融的\\n[医] 能屈的", "en": "flexible", "level": 5000}
+{"id": "w_compose", "cn": "vt. 组成, 写作, 作曲, 使平静\\nvi. 创作, 排字\\n[计] 编写", "en": "compose", "level": 5000}
+{"id": "w_conversion", "cn": "n. 转变, 转换, 改变宗教信仰, 换位法\\n[计] 转换", "en": "conversion", "level": 5000}
+{"id": "w_imperial", "cn": "a. 帝王的, 宗主国的, 至尊的, 壮丽的\\nn. 特等品", "en": "imperial", "level": 5000}
+{"id": "w_collective", "cn": "a. 集体的, 聚集的, 共同的\\n[医] 集体的, 集合的", "en": "collective", "level": 5000}
+{"id": "w_assurance", "cn": "n. 保证, 把握, 信心, 保险\\n[经] 保证, 担保, 保险", "en": "assurance", "level": 5000}
+{"id": "w_commander", "cn": "n. 司令官, 指挥官", "en": "commander", "level": 5000}
+{"id": "w_registration", "cn": "n. 登记, 挂号, 注册\\n[计] 登记; 定位; 对齐; 记录", "en": "registration", "level": 5000}
+{"id": "w_terrace", "cn": "n. 阶地, 梯田, 房屋之平顶, 阳台, 沿岸防地, 露台\\na. 叠层式的\\nvt. 使成梯田, 使成有平台屋顶", "en": "terrace", "level": 5000}
+{"id": "w_nicholas", "cn": "n. 尼古拉斯（男子名）", "en": "nicholas", "level": 5000}
+{"id": "w_rat", "cn": "n. 鼠, 卑鄙的人, 破坏者, 变节者\\nvi. 捕鼠, 变节\\nvt. 弄蓬松", "en": "rat", "level": 5000}
+{"id": "w_native", "cn": "n. 本地人, 土产, 当地人\\na. 本国的, 与生俱来的, 自然的", "en": "native", "level": 5000}
+{"id": "w_exposure", "cn": "n. 暴露, 揭发, 揭露\\n[化] 曝光量; 照射; 照射量", "en": "exposure", "level": 5000}
+{"id": "w_resignation", "cn": "n. 辞职, 辞呈, 听从\\n[经] 辞职", "en": "resignation", "level": 5000}
+{"id": "w_douglas", "cn": "n. 道格拉斯（男子名）；道格拉斯（英国马恩岛首府）", "en": "douglas", "level": 5000}
+{"id": "w_pm", "cn": "出纳员, 军需官\\n[计] 调相, 性能管理, 处理模块, 程序存储器", "en": "PM", "level": 5000}
+{"id": "w_la", "cn": "[医] 镧(57号元素)", "en": "La", "level": 5000}
+{"id": "w_experimental", "cn": "a. 实验的, 根据实验的\\n[医] 实验的", "en": "experimental", "level": 5000}
+{"id": "w_borough", "cn": "n. 自治的市镇, 区", "en": "borough", "level": 5000}
+{"id": "w_innovation", "cn": "n. 改革, 创新\\n[法] 创新, 改革, 刷新", "en": "innovation", "level": 5000}
+{"id": "w_jimmy", "cn": "n. 铁撬\\nvt. 撬", "en": "jimmy", "level": 5000}
+{"id": "w_revolutionary", "cn": "n. 革命者, 革命党人\\na. 革命的, 革命性的", "en": "revolutionary", "level": 5000}
+{"id": "w_earl", "cn": "n. 伯爵", "en": "earl", "level": 5000}
+{"id": "w_particle", "cn": "n. 颗粒, 粒子, 质点, 极小量\\n[化] 粒子; 质点", "en": "particle", "level": 5000}
+{"id": "w_notably", "cn": "adv. 显著地, 著名地, 尤其, 特别", "en": "notably", "level": 5000}
+{"id": "w_remedy", "cn": "n. 药物, 治疗法, 治疗, 补救, 赔偿\\nvt. 治疗, 补救, 矫正, 改善, 修补, 修缮", "en": "remedy", "level": 5000}
+{"id": "w_seller", "cn": "n. 销售者\\n[化] 卖方", "en": "seller", "level": 5000}
+{"id": "w_applicant", "cn": "n. 申请者\\n[经] 申请人, 请求人, 谋事人", "en": "applicant", "level": 5000}
+{"id": "w_gary", "cn": "n. 盖理", "en": "gary", "level": 5000}
+{"id": "w_emperor", "cn": "n. 皇帝, 君主", "en": "emperor", "level": 5000}
+{"id": "w_gulf", "cn": "n. 海湾, 深渊, 漩涡, 隔阂\\nvt. 吞没", "en": "gulf", "level": 5000}
+{"id": "w_kate", "cn": "n. 凯特（女子名, 等于Catherine）", "en": "kate", "level": 5000}
+{"id": "w_purchaser", "cn": "n. 买方, 购买者\\n[经] 买主, 购买人", "en": "purchaser", "level": 5000}
+{"id": "w_e", "cn": "[计] 元件, 部件, 元素, 误差, 执行, 表达式, 指数", "en": "E", "level": 5000}
+{"id": "w_evaluate", "cn": "vt. 评估, 评价, 赋值", "en": "evaluate", "level": 5000}
+{"id": "w_grin", "cn": "n. 露齿笑\\nv. 露齿而笑", "en": "grin", "level": 5000}
+{"id": "w_integration", "cn": "n. 综合, 与环境协调的行为, 集成\\n[化] 集成; 整合", "en": "integration", "level": 5000}
+{"id": "w_vendor", "cn": "n. 小贩, 卖主, 自动售货机\\n[计] 计算机销售商", "en": "vendor", "level": 5000}
+{"id": "w_audit", "cn": "n. 审计, 查帐\\nvt. 查(帐), 旁听\\nvi. 查账\\n[计] 查帐; 审查; 检查", "en": "audit", "level": 5000}
+{"id": "w_ulster", "cn": "n. 有带的宽大长外套", "en": "ulster", "level": 5000}
+{"id": "w_modest", "cn": "a. 谦逊的, 羞怯的, 端庄的, 适度的\\n[经] 适当的", "en": "modest", "level": 5000}
+{"id": "w_fate", "cn": "n. 命运, 运气\\nvt. 注定", "en": "fate", "level": 5000}
+{"id": "w_dutch", "cn": "n. 荷兰人, 荷兰语\\na. 荷兰的", "en": "Dutch", "level": 5000}
+{"id": "w_barely", "cn": "adv. 几乎不", "en": "barely", "level": 5000}
+{"id": "w_inspection", "cn": "n. 检验, 检查, 视察\\n[医] 检查, 视察, 监督, 望诊", "en": "inspection", "level": 5000}
+{"id": "w_bare", "cn": "a. 赤裸的, 缺少的, 无遮蔽的, 坦率的\\nvt. 使赤裸, 露出", "en": "bare", "level": 5000}
+{"id": "w_gross", "cn": "n. 总数, 总量\\na. 总共的, 未打折扣的, 恶劣的, 粗野的\\nvt. 总共收入", "en": "gross", "level": 5000}
+{"id": "w_accordingly", "cn": "adv. 相应地, 因此, 于是", "en": "accordingly", "level": 5000}
+{"id": "w_intense", "cn": "a. 非常的, 强烈的, 紧张的, 热情的\\n[医] 强的", "en": "intense", "level": 5000}
+{"id": "w_inspire", "cn": "vt. 使感动, 激发, 启示, 吸入, 鼓舞, 产生, 使生灵感\\nvi. 吸入, 赋予灵感", "en": "inspire", "level": 5000}
+{"id": "w_disposal", "cn": "n. 丢掉, 处理, 排列, 销毁, 布置\\n[医] 处理, 处置", "en": "disposal", "level": 5000}
+{"id": "w_withdrawal", "cn": "n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程\\n[医] 戒除, 脱瘾", "en": "withdrawal", "level": 5000}
+{"id": "w_fibre", "cn": "n. 纤维, 构造, 纤维制品\\n[化] 纤维", "en": "fibre", "level": 5000}
+{"id": "w_inadequate", "cn": "a. 不充分的, 不适当的\\n[法] 不充分的, 不适当的", "en": "inadequate", "level": 5000}
+{"id": "w_devise", "cn": "vt. 设计, 发明, 图谋, 遗赠给\\nn. 遗赠", "en": "devise", "level": 5000}
+{"id": "w_prominent", "cn": "a. 卓越的, 显著的, 突出的, 凸出的", "en": "prominent", "level": 5000}
+{"id": "w_condemn", "cn": "vt. 判刑, 责备, 谴责\\n[法] 定罪, 判刑, 宣告有罪", "en": "condemn", "level": 5000}
+{"id": "w_declaration", "cn": "n. 宣告, 说明, 宣布\\n[计] 说明", "en": "declaration", "level": 5000}
+{"id": "w_identification", "cn": "n. 识别, 身份证明, 认同\\n[化] 鉴定; 鉴别; 鉴别法; 认证", "en": "identification", "level": 5000}
+{"id": "w_historic", "cn": "a. 历史上著名的, 有历史性的", "en": "historic", "level": 5000}
+{"id": "w_correspond", "cn": "vi. 符合, 通信, 相当\\n[法] 符合, 一致, 相当", "en": "correspond", "level": 5000}
+{"id": "w_christopher", "cn": "n. 克里斯多夫（男子名）", "en": "christopher", "level": 5000}
+{"id": "w_essex", "cn": "n. 艾塞克斯郡(英格兰郡名)", "en": "Essex", "level": 5000}
+{"id": "w_oliver", "cn": "n. 脚踏铁锤", "en": "oliver", "level": 5000}
+{"id": "w_modify", "cn": "vt. 修正, 变更, 修饰, 缓和, 减轻\\nvi. 被修改\\n[计] 修改", "en": "modify", "level": 5000}
+{"id": "w_chapel", "cn": "n. 小教堂, 礼拜式", "en": "chapel", "level": 5000}
+{"id": "w_bike", "cn": "n. 自行车, 脚踏车", "en": "bike", "level": 5000}
+{"id": "w_youngster", "cn": "n. 小孩, 年轻人, 少年\\n[法] 儿童, 少年, 青年", "en": "youngster", "level": 5000}
+{"id": "w_rational", "cn": "a. 理性的, 合理的\\nn. 有理数", "en": "rational", "level": 5000}
+{"id": "w_ethnic", "cn": "a. 人种的, 种族的\\n[医] 人种的", "en": "ethnic", "level": 5000}
+{"id": "w_conception", "cn": "n. 观念, 概念\\n[医] 妊娠, 受孕; 概念", "en": "conception", "level": 5000}
+{"id": "w_attribute", "cn": "n. 属性, 标志, 定语\\nvt. 把...归于, 认为...属于\\n[计] 属性", "en": "attribute", "level": 5000}
+{"id": "w_lloyd", "cn": "n. 劳埃德（男子名）", "en": "lloyd", "level": 5000}
+{"id": "w_acute", "cn": "a. 尖锐的, 敏锐的, 激烈的, 严重的, 急性的\\n[医] 急性的; 尖锐的", "en": "acute", "level": 5000}
+{"id": "w_dublin", "cn": "n. 都柏林", "en": "Dublin", "level": 5000}
+{"id": "w_dose", "cn": "n. 剂量, 服用量\\nvt. 给药, (用药)医治\\nvi. 服药", "en": "dose", "level": 5000}
+{"id": "w_incentive", "cn": "n. 动机\\na. 激励的", "en": "incentive", "level": 5000}
+{"id": "w_correspondent", "cn": "n. 通讯记者, 通信者\\n[经] 客户, 代理商行, 代理银行", "en": "correspondent", "level": 5000}
+{"id": "w_kevin", "cn": "n. 凯文（男子名）", "en": "kevin", "level": 5000}
+{"id": "w_stimulus", "cn": "n. 刺激, 激励, 刺激品\\n[医] 刺激特, 刺激", "en": "stimulus", "level": 5000}
+{"id": "w_directive", "cn": "a. 指导的, 指挥的, 方向的\\nn. 指令\\n[计] 指令; 命令", "en": "directive", "level": 5000}
+{"id": "w_gaze", "cn": "n. 注视, 凝视\\nvi. 注视, 凝视", "en": "gaze", "level": 5000}
+{"id": "w_mortality", "cn": "n. 必死的命运, 死亡数目, 死亡率\\n[医] 必死性, 死亡率", "en": "mortality", "level": 5000}
+{"id": "w_federation", "cn": "n. 联邦, 联合, 联盟\\n[法] 联邦, 联盟, 联邦政府", "en": "federation", "level": 5000}
+{"id": "w_diana", "cn": "n. 狄安娜, 独身女子", "en": "Diana", "level": 5000}
+{"id": "w_allocation", "cn": "n. 配置, 分配, 拨给\\n[经] 分配, 拨款, 分摊", "en": "allocation", "level": 5000}
+{"id": "w_voter", "cn": "n. 选民, 投票人\\n[法] 选民, 选举人, 投票人", "en": "voter", "level": 5000}
+{"id": "w_darling", "cn": "n. 亲爱的, 可爱的人, 可爱的物\\na. 可爱的, 亲爱的", "en": "darling", "level": 5000}
+{"id": "w_hypothesis", "cn": "n. 假设\\n[化] 假设", "en": "hypothesis", "level": 5000}
+{"id": "w_molecule", "cn": "n. 分子, 些微\\n[化] 分子", "en": "molecule", "level": 5000}
+{"id": "w_interface", "cn": "n. 分界面, 接触面, 界面\\n[计] 接口, 界面", "en": "interface", "level": 5000}
+{"id": "w_reliable", "cn": "a. 可靠的, 可信赖的\\n[法] 可靠的, 可信赖的, 确实的", "en": "reliable", "level": 5000}
+{"id": "w_identical", "cn": "a. 同一的, 恒等的, 完全相同的\\n[医] 同一的, 同等的", "en": "identical", "level": 5000}
+{"id": "w_isle", "cn": "n. 小岛, 群岛\\nvt. 使成为岛状\\nvi. 住在岛屿上", "en": "isle", "level": 5000}
+{"id": "w_sole", "cn": "n. 脚掌, 鞋底, 底部\\na. 唯一的, 仅有的, 单独的, 独身的\\nvt. 上鞋底, 触底", "en": "sole", "level": 5000}
+{"id": "w_kit", "cn": "n. 装备, 工具箱, 成套工具\\n[计] 成套部件; 成套零件", "en": "kit", "level": 5000}
+{"id": "w_accountant", "cn": "n. 会计人员, 会计师\\n[经] 会计师, 会计人员", "en": "accountant", "level": 5000}
+{"id": "w_satisfactory", "cn": "a. 满意的, 赎罪的\\n[法] 令人满意的, 令当事人满意的, 充分的", "en": "satisfactory", "level": 5000}
+{"id": "w_tide", "cn": "n. 潮, 潮汐, 趋势, 潮流, 涨潮, 高潮\\nvt. 使随潮漂流\\nvi. 顺潮行驶", "en": "tide", "level": 5000}
+{"id": "w_acre", "cn": "n. 英亩", "en": "acre", "level": 5000}
+{"id": "w_distinctive", "cn": "a. 有特色的, 出众的", "en": "distinctive", "level": 5000}
+{"id": "w_westminster", "cn": "n. 威斯敏斯特", "en": "Westminster", "level": 5000}
+{"id": "w_atlantic", "cn": "n. 大西洋\\na. 大西洋的", "en": "Atlantic", "level": 5000}
+{"id": "w_ford", "cn": "n. 浅滩, 福特汽车\\nv. 涉过, 涉水", "en": "ford", "level": 5000}
+{"id": "w_multiple", "cn": "n. 倍数, 并联\\na. 多样的, 许多的, 多功能的", "en": "multiple", "level": 5000}
+{"id": "w_angel", "cn": "n. 天使, 守护神, 善人", "en": "angel", "level": 5000}
+{"id": "w_egypt", "cn": "n. 埃及", "en": "Egypt", "level": 5000}
+{"id": "w_clinic", "cn": "n. 诊所, 临床教学\\n[医] 诊所(门诊部); 临床(讲解); 临床(学)科", "en": "clinic", "level": 5000}
+{"id": "w_liable", "cn": "a. 有义务的, 应负责的, 有...倾向的\\n[法] 有责任的, 可受处理的, 应受罚的", "en": "liable", "level": 5000}
+{"id": "w_mutual", "cn": "a. 相互的, 共有的\\n[经] 相互的", "en": "mutual", "level": 5000}
+{"id": "w_insight", "cn": "n. 察看, 洞察力, 见识\\n[医] 自知力, 洞察, 顿悟", "en": "insight", "level": 5000}
+{"id": "w_greet", "cn": "vt. 问候, 致敬, 欢迎, 映入眼帘", "en": "greet", "level": 5000}
+{"id": "w_thirteen", "cn": "num. 十三, 十三个", "en": "thirteen", "level": 5000}
+{"id": "w_jew", "cn": "n. 犹太人, 守财奴, 犹太教信徒\\nvt. 欺骗, 杀价", "en": "Jew", "level": 5000}
+{"id": "w_california", "cn": "n. 加利福尼亚", "en": "California", "level": 5000}
+{"id": "w_era", "cn": "n. 时代, 纪元, 时期", "en": "era", "level": 5000}
+{"id": "w_wholly", "cn": "adv. 完全地, 整个, 统统, 全部\\n[法] 完全地, 统统地", "en": "wholly", "level": 5000}
+{"id": "w_render", "cn": "vt. 回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施\\nvi. 给予补偿\\nn. 交纳, 打底", "en": "render", "level": 5000}
+{"id": "w_jewish", "cn": "a. 犹太人的, 犹太族的", "en": "Jewish", "level": 5000}
+{"id": "w_stuart", "cn": "n. 英国斯图亚特王室；斯图尔特（男子名, 等于Stewart）", "en": "stuart", "level": 5000}
+{"id": "w_laughter", "cn": "n. 笑, 笑声\\n[医] 笑, 大笑", "en": "laughter", "level": 5000}
+{"id": "w_disability", "cn": "n. 无力, 无能, 残疾\\n[医] 劳动能力丧失, 病废", "en": "disability", "level": 5000}
+{"id": "w_latin", "cn": "n. 拉丁人, 拉丁语\\na. 拉丁人的, 拉丁语的", "en": "Latin", "level": 5000}
+{"id": "w_satellite", "cn": "n. 人造卫星\\n[医] 伴行静脉, 陪静脉, 陪病部, 随体, 卫星", "en": "satellite", "level": 5000}
+{"id": "w_induce", "cn": "vt. 引诱, 招致, 归纳出, 感应\\n[医] 诱导, 感应", "en": "induce", "level": 5000}
+{"id": "w_competitor", "cn": "n. 竞争者\\n[经] 竞争者, 竞争对手", "en": "competitor", "level": 5000}
+{"id": "w_albert", "cn": "n. 艾伯特（男子名）", "en": "albert", "level": 5000}
+{"id": "w_lawrence", "cn": "n. 劳伦斯（男子名）", "en": "lawrence", "level": 5000}
+{"id": "w_yield", "cn": "n. 生产量, 投资收益\\nvt. 出产, 给予, 让出, 放弃, 使屈服\\nvi. 出产, 屈服, 投降, 倒塌", "en": "yield", "level": 5000}
+{"id": "w_underlying", "cn": "a. 在下面的\\n[经] 优先的, 基础的, 放在下面的", "en": "underlying", "level": 5000}
+{"id": "w_complexity", "cn": "n. 复杂, 复杂性, 复杂的事物", "en": "complexity", "level": 5000}
+{"id": "w_managing", "cn": "a. 管理的, 节约的\\n[法] 管理的, 主管的, 善于经营的", "en": "managing", "level": 5000}
+{"id": "w_coverage", "cn": "n. 覆盖的范围, 保险总额, 新闻报导\\n[化] 可达范围; 覆盖度", "en": "coverage", "level": 5000}
+{"id": "w_miner", "cn": "n. 矿工, 开矿机, 坑道工兵\\n[经] 矿工", "en": "miner", "level": 5000}
+{"id": "w_constable", "cn": "n. 治安官, 警官, 总管\\n[法] 警察, 警官, 巡警", "en": "constable", "level": 5000}
+{"id": "w_stability", "cn": "n. 安定, 稳定性, 坚实, 巩固\\n[化] 稳定性", "en": "stability", "level": 5000}
+{"id": "w_pond", "cn": "n. 池塘\\nv. 筑成池塘", "en": "pond", "level": 5000}
+{"id": "w_domain", "cn": "n. 领域, 领土, 产业, 范围\\n[计] 域, 区域, 支配命令", "en": "domain", "level": 5000}
+{"id": "w_namely", "cn": "adv. 即, 就是, 换句话说", "en": "namely", "level": 5000}
+{"id": "w_processor", "cn": "n. 信息处理机, 加工者, 处理者\\n[计] 处理器", "en": "processor", "level": 5000}
+{"id": "w_integrate", "cn": "vt. 综合, 使完整, 使成整体\\nvi. 成一体\\na. 完整的, 完全的", "en": "integrate", "level": 5000}
+{"id": "w_billy", "cn": "n. 警棍, 伙伴", "en": "billy", "level": 5000}
+{"id": "w_fragment", "cn": "n. 碎片, 破片, 片段\\n[计] 段落; 片段; 分段", "en": "fragment", "level": 5000}
+{"id": "w_owen", "cn": "n. 欧文（男子名）", "en": "owen", "level": 5000}
+{"id": "w_ruling", "cn": "n. 判决, 裁定, 统治\\na. 统治的, 支配的, 普遍的", "en": "ruling", "level": 5000}
+{"id": "w_equity", "cn": "n. 公平, 公正\\n[经] 权益, 产权", "en": "equity", "level": 5000}
+{"id": "w_electoral", "cn": "a. 选举人的, 选举的, (有关)选举的\\n[法] 选举的, 选举人的, 由选举人组成的", "en": "electoral", "level": 5000}
+{"id": "w_statute", "cn": "n. 法令, 成文法律, 法规, 章程, 条例\\n[法] 法令, 法规, 成文法", "en": "statute", "level": 5000}
+{"id": "w_daddy", "cn": "n. 爸爸", "en": "daddy", "level": 5000}
+{"id": "w_rachel", "cn": "n. 雷切尔（女子名）", "en": "rachel", "level": 5000}
+{"id": "w_marginal", "cn": "a. 边缘的, 最低限度的, 有旁注的\\n[医] 缘的", "en": "marginal", "level": 5000}
+{"id": "w_murmur", "cn": "n. 低语, 低声的怨言\\nvi. 低语, 低声而言\\nvt. 低声说", "en": "murmur", "level": 5000}
+{"id": "w_server", "cn": "n. 服伺者, 上菜用具, 发球员\\nn. 服务器\\n[计] 服务器, 服务器启动程序, 服务台程序", "en": "server", "level": 5000}
+{"id": "w_sheer", "cn": "a. 绝对的, 全然的, 纯粹的, 透明的, 峻峭的\\nvi. 偏转, 偏航\\nvt. 使急转向, 使偏航\\nadv. 完全, 全然, 峻峭\\nn. 偏航", "en": "sheer", "level": 5000}
+{"id": "w_bulk", "cn": "n. 大小, 体积, 大块, 大多数\\nvt. 显得大, 显得重要", "en": "bulk", "level": 5000}
+{"id": "w_necessity", "cn": "n. 需要, 必需品, 必然\\n[法] 必要性, 必然性, 必要", "en": "necessity", "level": 5000}
+{"id": "w_grip", "cn": "n. 紧握, 柄, 握力, 握手方式, 手提包, 掌握, 支配, 控制\\nvt. 抓紧, 抱住, 吸住, 掌握\\nvi. 握牢, 有吸引力", "en": "grip", "level": 5000}
+{"id": "w_exclusive", "cn": "a. 排外的, 独占的, 唯一的\\n[计] 独占的", "en": "exclusive", "level": 5000}
+{"id": "w_marked", "cn": "a. 有记号的, 显著的, 醒目的\\n[化] 有记号的; 显著的", "en": "marked", "level": 5000}
+{"id": "w_everyday", "cn": "a. 每天的, 日常的, 平常的", "en": "everyday", "level": 5000}
+{"id": "w_nursery", "cn": "n. 托儿所, 苗圃, 温床\\n[医] 婴儿室, 托儿所", "en": "nursery", "level": 5000}
+{"id": "w_illustration", "cn": "n. 例证, 插图\\n[化] 插图", "en": "illustration", "level": 5000}
+{"id": "w_superb", "cn": "a. 极度的, 华丽的, 极好的", "en": "superb", "level": 5000}
+{"id": "w_await", "cn": "vt. 等候\\nvi. 等待着", "en": "await", "level": 5000}
+{"id": "w_encouraging", "cn": "a. 鼓励的, 促进的", "en": "encouraging", "level": 5000}
+{"id": "w_overlook", "cn": "vt. 俯瞰, 远眺, 没注意到\\nn. 眺望, 俯瞰到的景色", "en": "overlook", "level": 5000}
+{"id": "w_photo", "cn": "n. 相片, 照片, 逼真的描绘\\nv. 照相\\na. 照相的, 摄影用的, 详细记录的, 逼真的, 酷似的", "en": "photo", "level": 5000}
+{"id": "w_episode", "cn": "n. 插曲, 插话, 有趣的事件, 一段情节\\n[医] 插话, 插曲, 发作", "en": "episode", "level": 5000}
+{"id": "w_lion", "cn": "n. 狮子, 狮子(星)座, 国际狮子会会员", "en": "lion", "level": 5000}
+{"id": "w_accommodate", "cn": "vt. 使适应, 调和, 通融, 容纳, 向...提供\\nvi. 适应", "en": "accommodate", "level": 5000}
+{"id": "w_shortage", "cn": "n. 不足, 缺乏\\n[化] 缺额", "en": "shortage", "level": 5000}
+{"id": "w_motive", "cn": "n. 动机, 目的, 主题, 基调\\na. 运动的, 成为动机的", "en": "motive", "level": 5000}
+{"id": "w_desirable", "cn": "a. 令人想望的, 可取的", "en": "desirable", "level": 5000}
+{"id": "w_undermine", "cn": "vt. 在...下面挖, 渐渐破坏, 暗地里破坏\\n[法] 暗中破坏, 以阴谋中伤伤害", "en": "undermine", "level": 5000}
+{"id": "w_flee", "cn": "vt. 逃避, 逃跑, 逃走\\nvi. 逃, 消失", "en": "flee", "level": 5000}
+{"id": "w_myth", "cn": "n. 神话, 虚构的事, 虚构的人", "en": "myth", "level": 5000}
+{"id": "w_transformation", "cn": "n. 变形, 变质, 变化, 改革, 变换\\n[化] 转化; 变换", "en": "transformation", "level": 5000}
+{"id": "w_invasion", "cn": "n. 侵犯, 侵入, 侵害\\n[医] 侵袭, 侵入, 发病", "en": "invasion", "level": 5000}
+{"id": "w_fleet", "cn": "n. 舰队, 港湾, 小河\\na. 快速的, 敏捷的, 浅的, 短暂的\\nadv. 浅\\nvi. 疾驰, 飞逝, 掠过\\nvt. 消磨, 变换船(或船员)的位置", "en": "fleet", "level": 5000}
+{"id": "w_crystal", "cn": "n. 水晶, 水晶装饰品, 结晶\\na. 水晶的, 水晶一样的, 透明的", "en": "crystal", "level": 5000}
+{"id": "w_initiate", "cn": "n. 入会, 开始\\na. 新加入的\\nvt. 开始, 传授基本知识给", "en": "initiate", "level": 5000}
+{"id": "w_continued", "cn": "a. 继续的, 延续的\\n[医] 连续的", "en": "continued", "level": 5000}
+{"id": "w_adjustment", "cn": "n. 调整, 调节, 校正\\n[化] 调节", "en": "adjustment", "level": 5000}
+{"id": "w_leap", "cn": "n. 跳跃, 剧增, 急变, 被越过之物\\nvi. 跳跃, 突然经过\\nvt. 跃过, 使跃过", "en": "leap", "level": 5000}
+{"id": "w_russell", "cn": "n. 拉塞尔（英国工程师, 整流器发明人）", "en": "russell", "level": 5000}
+{"id": "w_raid", "cn": "n. 袭击, 突袭, 搜捕\\nv. 奇袭, 搜捕\\n[计] 廉价磁盘冗余阵列", "en": "raid", "level": 5000}
+{"id": "w_fred", "cn": "n. 佛瑞德（男子名）", "en": "fred", "level": 5000}
+{"id": "w_bible", "cn": "n. 圣经", "en": "bible", "level": 5000}
+{"id": "w_fiction", "cn": "n. 小说, 虚构故事\\n[法] 虚构的事实, 捏造, 拟制", "en": "fiction", "level": 5000}
+{"id": "w_louis", "cn": "n. 路易斯（男子名）", "en": "louis", "level": 5000}
+{"id": "w_bernard", "cn": "n. 伯纳德（男子名）", "en": "bernard", "level": 5000}
+{"id": "w_maria", "cn": "n. 玛丽亚（女名）", "en": "Maria", "level": 5000}
+{"id": "w_hardware", "cn": "n. 硬件, 五金器具, 零件\\n[计] 硬件", "en": "hardware", "level": 5000}
+{"id": "w_assert", "cn": "vt. 主张, 坚称, 断言\\n[法] 宣称, 断言, 维护", "en": "assert", "level": 5000}
+{"id": "w_criticise", "cn": "v. 批评, 吹毛求疵, 非难", "en": "criticise", "level": 5000}
+{"id": "w_comply", "cn": "vi. 顺从, 依从\\n[法] 遵守, 承诺, 照做", "en": "comply", "level": 5000}
+{"id": "w_therapy", "cn": "n. 治疗\\n[医] 疗法, 治疗", "en": "therapy", "level": 5000}
+{"id": "w_colony", "cn": "n. 殖民地, 移民队\\n[医] 菌(集)落, 菌丛; 移民区", "en": "colony", "level": 5000}
+{"id": "w_controversial", "cn": "a. 争论的, 论争的, 被议论的", "en": "controversial", "level": 5000}
+{"id": "w_evolve", "cn": "vi. 进展, 进化, 展开\\nvt. 使发展, 使推断出, 使进化", "en": "evolve", "level": 5000}
+{"id": "w_monopoly", "cn": "n. 垄断, 专卖权, 独占事业\\n[经] 垄断, 专利品, 垄断(权)独占", "en": "monopoly", "level": 5000}
+{"id": "w_banking", "cn": "n. 银行业务\\n[经] 银行业, 银行事务", "en": "banking", "level": 5000}
+{"id": "w_temple", "cn": "n. 圣堂, 庙宇, 教堂, 礼拜堂, 太阳穴, 鬓角\\n[医] 颞颥, 颞部", "en": "temple", "level": 5000}
+{"id": "w_hugh", "cn": "n. 休（男子名）", "en": "hugh", "level": 5000}
+{"id": "w_stewart", "cn": "n. 斯图尔特（男子名）", "en": "stewart", "level": 5000}
+{"id": "w_poland", "cn": "n. 波兰", "en": "Poland", "level": 5000}
+{"id": "w_nottingham", "cn": "n. 诺丁汉郡(英格兰郡名), 诺丁汉市", "en": "Nottingham", "level": 5000}
+{"id": "w_rebel", "cn": "n. 叛徒, 反叛者\\nvi. 造反, 反抗, 抵抗, 反感\\na. 造反的, 反抗的", "en": "rebel", "level": 5000}
+{"id": "w_organic", "cn": "a. 器官的, 有机的, 组织的, 根本的\\n[医] 器官的, 有生命的, 有机的, 器质的", "en": "organic", "level": 5000}
+{"id": "w_specification", "cn": "n. 规格, 详述, 详细说明书\\n[计] 规范; 形式说明; 说明; 说明书; 规格", "en": "specification", "level": 5000}
+{"id": "w_allegation", "cn": "n. 断言, 主张, 申辩\\n[法] 声明, 事实陈述, 断言", "en": "allegation", "level": 5000}
+{"id": "w_controversy", "cn": "n. 论争, 辩论, 论战, 争论\\n[法] 论战, 争论, 争吵", "en": "controversy", "level": 5000}
+{"id": "w_walker", "cn": "n. 徒步者, 轻便鞋\\n[法] 山林巡视官", "en": "walker", "level": 5000}
+{"id": "w_sheffield", "cn": "n. 谢菲尔德（英国城市）", "en": "sheffield", "level": 5000}
+{"id": "w_villa", "cn": "n. 别墅", "en": "villa", "level": 5000}
+{"id": "w_kelly", "cn": "n. 凯利（男子名）；[古]战士", "en": "Kelly", "level": 5000}
+{"id": "w_am", "cn": "be的单数第一人称\\n[计] 存取管理程序, 寻址方式, 地址标记, 变址数, 调幅, 辅助存储器", "en": "AM", "level": 5000}
+{"id": "w_clarke", "cn": "n. 克拉克（姓氏）", "en": "clarke", "level": 5000}
+{"id": "w_tribunal", "cn": "n. 法庭, 法官席, 裁决\\n[法] 法庭, 裁判所, 裁判", "en": "tribunal", "level": 5000}
+{"id": "w_oral", "cn": "n. 口试\\na. 口头的, 口述的, 口部的", "en": "oral", "level": 5000}
+{"id": "w_clare", "cn": "n. 克莱尔（女子名）", "en": "clare", "level": 5000}
+{"id": "w_improved", "cn": "a. 改良的", "en": "improved", "level": 5000}
+{"id": "w_susan", "cn": "n. 苏珊（女子名）", "en": "susan", "level": 5000}
+{"id": "w_capitalist", "cn": "n. 资本家, 资本主义者\\na. 资本主义的", "en": "capitalist", "level": 5000}
+{"id": "w_trustee", "cn": "n. 受托人, 理事\\n[计] 委托者", "en": "trustee", "level": 5000}
+{"id": "w_presidential", "cn": "a. 总统制的, 总统的, 首长的, 统辖的\\n[法] 总统的, 议长的, 总经理的", "en": "presidential", "level": 5000}
+{"id": "w_merger", "cn": "n. 合并, 归并\\n[经] 购并", "en": "merger", "level": 5000}
+{"id": "w_jurisdiction", "cn": "n. 司法权, 审判权, 管辖权\\n[经] 法律管辖权, 审判权", "en": "jurisdiction", "level": 5000}
+{"id": "w_effectiveness", "cn": "n. 效力\\n[经] 有效性, 能行性", "en": "effectiveness", "level": 5000}
+{"id": "w_statistical", "cn": "a. 统计的, 统计上的, 统计学的\\n[经] 统计的, 统计学的", "en": "statistical", "level": 5000}
+{"id": "w_davies", "cn": "n. 戴维斯（男子名）", "en": "Davies", "level": 5000}
+{"id": "w_mutter", "cn": "n. 喃喃低语\\nvi. 喃喃自语, 作低沉声\\nvt. 出怨言, 抱怨地说", "en": "mutter", "level": 5000}
+{"id": "w_tournament", "cn": "n. 比赛, 竞赛, 锦标赛, 联赛", "en": "tournament", "level": 5000}
+{"id": "w_emission", "cn": "n. 发射, 射出, 发行\\n[医] 发射, 遗精", "en": "emission", "level": 5000}
+{"id": "w_swindon", "cn": "n. 史云顿（英国城市名）", "en": "Swindon", "level": 5000}
+{"id": "w_gastric", "cn": "a. 胃的\\n[医] 胃的", "en": "gastric", "level": 5000}
+{"id": "w_clue", "cn": "n. 线索, 暗示\\nvt. 暗示, 提供线索", "en": "clue", "level": 5000}
+{"id": "w_straightforward", "cn": "a. 笔直的, 率直的, 明确的, 简单的, 直接的", "en": "straightforward", "level": 5000}
+{"id": "w_hint", "cn": "n. 暗示, 提示\\nv. 暗示, 示意", "en": "hint", "level": 5000}
+{"id": "w_recruit", "cn": "n. 新兵, 新手, 新会员, 补给品\\nvt. 恢复, 补充, 充实, 征募\\nvi. 征募新兵, 复原, 得到补充", "en": "recruit", "level": 5000}
+{"id": "w_widow", "cn": "n. 寡妇, 孀妇\\nvt. 使成寡妇", "en": "widow", "level": 5000}
+{"id": "w_tremendous", "cn": "a. 巨大的, 非常的, 可怕的", "en": "tremendous", "level": 5000}
+{"id": "w_attendance", "cn": "n. 出席, 出席的人数, 照料\\n[法] 管理, 照料, 资助", "en": "attendance", "level": 5000}
+{"id": "w_fade", "cn": "vi. 褪色, 消失, 凋谢\\nvt. 使褪色\\nn. 淡入, 淡出\\na. 平淡的", "en": "fade", "level": 5000}
+{"id": "w_tragedy", "cn": "n. 悲剧, 惨案, 悲剧作品\\n[法] 惨事, 灾难, 不辛", "en": "tragedy", "level": 5000}
+{"id": "w_fraction", "cn": "n. 小部分, 破片, 分数\\n[医] 部分, 成分, 分散", "en": "fraction", "level": 5000}
+{"id": "w_rape", "cn": "n. 抢夺, 掠夺, 强奸, 葡萄渣, 芸苔\\nvt. 掠夺, 抢夺, 强奸", "en": "rape", "level": 5000}
+{"id": "w_reluctant", "cn": "a. 不情愿的, 勉强的\\n[法] 不愿的, 勉强的, 难以处理的", "en": "reluctant", "level": 5000}
+{"id": "w_literally", "cn": "adv. 逐字地, 按照字面上地, 不夸张地", "en": "literally", "level": 5000}
+{"id": "w_echo", "cn": "n. 回声, 回音, 回波\\nvi. 发回声, 随声附和\\nvt. 摹仿, 重复, 反射\\n[计] 回显; DOS批处理命令:控制MS-DOS命令是否在屏幕上显示", "en": "echo", "level": 5000}
+{"id": "w_shore", "cn": "n. 海岸, 海滨, 斜撑柱\\nvt. 把...送上岸, 支撑, 支持", "en": "shore", "level": 5000}
+{"id": "w_mechanical", "cn": "a. 机械的, 机械性的, 力学的\\n[医] 机械的, 力学的", "en": "mechanical", "level": 5000}
+{"id": "w_drift", "cn": "n. 漂流物, 漂流, 动向\\nv. (使)漂流", "en": "drift", "level": 5000}
+{"id": "w_known", "cn": "a. 已知的, 有名的\\nknow的过去分词", "en": "known", "level": 5000}
+{"id": "w_harbour", "cn": "n. 港, 避难所\\nv. 庇护, 藏匿, (使)入港停泊", "en": "harbour", "level": 5000}
+{"id": "w_situate", "cn": "vt. 使位于, 使处于", "en": "situate", "level": 5000}
+{"id": "w_dock", "cn": "n. 码头, 船坞, 被告席, 尾巴的骨肉部分\\nvt. 使靠码头, 使(船)进港, 剪短\\nvi. 进港", "en": "dock", "level": 5000}
+{"id": "w_magnificent", "cn": "a. 华丽的, 高尚的, 宏伟的", "en": "magnificent", "level": 5000}
+{"id": "w_required", "cn": "a. 必需的", "en": "required", "level": 5000}
+{"id": "w_essence", "cn": "n. 实质, 本质, 香精\\n[化] 香精", "en": "essence", "level": 5000}
+{"id": "w_beg", "cn": "v. 乞求, 乞讨, 请求", "en": "beg", "level": 5000}
+{"id": "w_landing", "cn": "n. 登陆, 码头, 降落\\n[经] 上岸, 登陆, 降落", "en": "landing", "level": 5000}
+{"id": "w_jackson", "cn": "n. 杰克逊（男子名）；杰克逊（美国密西西比州的城市）", "en": "jackson", "level": 5000}
+{"id": "w_verse", "cn": "n. 诗, 韵文, 诗句\\nvt. 用诗表达\\nvi. 作诗", "en": "verse", "level": 5000}
+{"id": "w_ghost", "cn": "n. 鬼, 灵魂, 幻影, 一丝, 一点\\nv. 鬼似地游荡", "en": "ghost", "level": 5000}
+{"id": "w_devil", "cn": "n. 魔鬼\\nvt. 折磨, 戏弄", "en": "devil", "level": 5000}
+{"id": "w_receiver", "cn": "n. 接收器；接受者；收信机；收款员, 接待者", "en": "receiver", "level": 5000}
+{"id": "w_proposition", "cn": "n. 建议, 命题, 主张\\nvt. 向...提议, 向...提出猥亵的要求", "en": "proposition", "level": 5000}
+{"id": "w_theft", "cn": "n. 盗窃, 失窃, 盗窃罪, 赃物\\n[法] 盗窃行为, 偷窃, 失窃", "en": "theft", "level": 5000}
+{"id": "w_triumph", "cn": "n. 凯旋, 胜利, 欢欣\\nvi. 得胜, 成功", "en": "triumph", "level": 5000}
+{"id": "w_testing", "cn": "n. 测试\\na. 吃力的, 试验的", "en": "testing", "level": 5000}
+{"id": "w_gang", "cn": "n. 队, 群, 帮\\nvi. 成群结队, 结成一伙\\nvt. 使成群结队", "en": "gang", "level": 5000}
+{"id": "w_cliff", "cn": "n. 悬崖, 绝壁", "en": "cliff", "level": 5000}
+{"id": "w_airline", "cn": "n. 航线, 航线的设备, 航空公司", "en": "airline", "level": 5000}
+{"id": "w_champagne", "cn": "n. 香槟酒, 香槟酒色\\n[化] 香槟酒", "en": "champagne", "level": 5000}
+{"id": "w_provoke", "cn": "vt. 激怒, 惹起, 诱导\\n[法] 刺激, 煽动, 激怒", "en": "provoke", "level": 5000}
+{"id": "w_loyalty", "cn": "n. 忠贞, 忠诚, 忠实\\n[法] 忠诚, 忠心", "en": "loyalty", "level": 5000}
+{"id": "w_stimulate", "cn": "vt. 刺激, 激励, 鼓舞\\nvi. 起刺激作用", "en": "stimulate", "level": 5000}
+{"id": "w_functional", "cn": "a. 功能的\\n[医] 机能的, 功能的, 官能的", "en": "functional", "level": 5000}
+{"id": "w_eighteenth", "cn": "num. 第十八, 十八分之一", "en": "eighteenth", "level": 5000}
+{"id": "w_chap", "cn": "n. 小伙子, 颌, 龟裂\\nv. 皲裂", "en": "chap", "level": 5000}
+{"id": "w_colonel", "cn": "n. 陆军上校, 长官", "en": "colonel", "level": 5000}
+{"id": "w_diplomatic", "cn": "a. 外交的, 老练的\\n[法] 外交的, 外交上的, 文献上的", "en": "diplomatic", "level": 5000}
+{"id": "w_whereby", "cn": "adv. 靠什么, 如何, 为何, 靠那个, 因此, 由此\\n[法] 因此, 由是", "en": "whereby", "level": 5000}
+{"id": "w_successor", "cn": "n. 继承者, 接任者\\n[计] 后继", "en": "successor", "level": 5000}
+{"id": "w_established", "cn": "a. (被)建立的, 固定的, 既定的, 确定的, 确认的, 确立的, (被)制定的\\n[计] 确定的, 既定的", "en": "established", "level": 5000}
+{"id": "w_leaflet", "cn": "n. 小叶, 传单\\n[医] 小叶", "en": "leaflet", "level": 5000}
+{"id": "w_abbey", "cn": "n. 大修道院", "en": "abbey", "level": 5000}
+{"id": "w_heritage", "cn": "n. 遗产, 祖先遗留物, 继承物\\n[医] 遗传性", "en": "heritage", "level": 5000}
+{"id": "w_indicator", "cn": "n. 指示器, 指示剂, 指标\\n[计] 指示器", "en": "indicator", "level": 5000}
+{"id": "w_sussex", "cn": "n. 苏塞克斯（英国郡名）", "en": "sussex", "level": 5000}
+{"id": "w_filter", "cn": "n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器\\nvt. 过滤, 渗透, 走漏\\nvi. 滤过, 渗入\\n[计] 过滤器, 筛选", "en": "filter", "level": 5000}
+{"id": "w_enforce", "cn": "vt. 强迫, 执行, 坚持\\n[经] 予以强制执行", "en": "enforce", "level": 5000}
+{"id": "w_restoration", "cn": "n. 恢复, 归还, 复位\\n[医] 恢复, 康复, 复位, 回复, 修复", "en": "restoration", "level": 5000}
+{"id": "w_marine", "cn": "n. 舰队, 水兵, 海景画\\na. 海的, 海产的, 海底的, 船舶的, 海运的", "en": "marine", "level": 5000}
+{"id": "w_spectrum", "cn": "n. 光谱, 范围, 系列\\n[化] 光谱", "en": "spectrum", "level": 5000}
+{"id": "w_miller", "cn": "n. 厂主, 蛾\\n[机] 铣床", "en": "miller", "level": 5000}
+{"id": "w_ann", "cn": "n. 安（女子名）", "en": "ann", "level": 5000}
+{"id": "w_derek", "cn": "n. 德里克（男名）", "en": "derek", "level": 5000}
+{"id": "w_biological", "cn": "a. 生物学的\\n[医] 生物学的", "en": "biological", "level": 5000}
+{"id": "w_baker", "cn": "n. 面包师\\n[医] 烤箱(骨科用)", "en": "baker", "level": 5000}
+{"id": "w_pensioner", "cn": "n. 领取抚恤金者, (英国剑桥大学的)自费生, 为金钱所收买的人, 帮佣\\n[法] 领取退休金者, 领取抚恤金者", "en": "pensioner", "level": 5000}
+{"id": "w_hierarchy", "cn": "n. 等级制度, 僧侣统治, 等级体系\\n[计] 分级结构; 分层结构; 新闻组, 新闻组分层", "en": "hierarchy", "level": 5000}
+{"id": "w_discrimination", "cn": "n. 差别, 岐视, 辨别力\\n[化] 鉴别", "en": "discrimination", "level": 5000}
+{"id": "w_pope", "cn": "n. 罗马教皇, 主教", "en": "pope", "level": 5000}
+{"id": "w_compound", "cn": "n. 混合物, 复合词, 化合物, 院子\\na. 复合的, 混合的, 化合的\\nvi. 化合, 和解, 妥协\\nvt. 使复合, 使化合", "en": "compound", "level": 5000}
+{"id": "w_flexibility", "cn": "n. 弹性, 适应性\\n[计] 灵活性; 适应性", "en": "flexibility", "level": 5000}
+{"id": "w_wildlife", "cn": "n. 野生动植物", "en": "wildlife", "level": 5000}
+{"id": "w_digital", "cn": "a. 数字显示的, 数字的\\nn. 数字仪表, 数字式电子表(或时钟)\\n[计] 数字, 数字式", "en": "digital", "level": 5000}
+{"id": "w_lords", "cn": "n. 上议院；（前面与the连用）上院议员", "en": "lords", "level": 5000}
+{"id": "w_retail", "cn": "n. 零售\\na. 零售的\\nvt. 零售, 详述, 传播\\nvi. 零售", "en": "retail", "level": 5000}
+{"id": "w_wright", "cn": "n. 制作者, 工人", "en": "wright", "level": 5000}
+{"id": "w_raf", "cn": "abbr. 英国皇家空军（Royal Air Force）", "en": "raf", "level": 5000}
+{"id": "w_institutional", "cn": "a. 制度的, 公共机构的, 学会的\\n[法] 组织机构的, 制度的, 公共机构的", "en": "institutional", "level": 5000}
+{"id": "w_productivity", "cn": "n. 生产力\\n[经] 生产率, 生产能力", "en": "productivity", "level": 5000}
+{"id": "w_doctrine", "cn": "n. 教条, 学说\\n[医] 学说", "en": "doctrine", "level": 5000}
+{"id": "w_phil", "cn": "abbr. 哲学（philosophy）", "en": "phil", "level": 5000}
+{"id": "w_gender", "cn": "n. 性\\nvt. 产生", "en": "gender", "level": 5000}
+{"id": "w_graphics", "cn": "n. 制图法, 制图学, 图解算法, 图形显示\\n[计] 图形; DOS外部命令:打印图形方式下的屏幕内容", "en": "graphics", "level": 5000}
+{"id": "w_iran", "cn": "n. 伊朗", "en": "Iran", "level": 5000}
+{"id": "w_creditor", "cn": "n. 债权人\\n[法] 债权人, 债主, 贷方", "en": "creditor", "level": 5000}
+{"id": "w_sociology", "cn": "n. 社会学\\n[医] 社会学", "en": "sociology", "level": 5000}
+{"id": "w_emily", "cn": "n. 埃米莉（女子名）", "en": "emily", "level": 5000}
+{"id": "w_clinton", "cn": "n. 克林顿（男子名）", "en": "clinton", "level": 5000}
+{"id": "w_microsoft", "cn": "n. (美国)微软公司\\n[电] 微软公司", "en": "Microsoft", "level": 5000}
+{"id": "w_lifetime", "cn": "n. 一生, 终生\\na. 一生的, 终生的", "en": "lifetime", "level": 5000}
+{"id": "w_consume", "cn": "vt. 消耗, 消费, 消灭\\nvi. 耗尽, 毁灭", "en": "consume", "level": 5000}
+{"id": "w_liberty", "cn": "n. 自由, 特权, 许可, 冒失\\n[法] 自由, 自由权, 自由区域", "en": "liberty", "level": 5000}
+{"id": "w_avenue", "cn": "n. 大街, 途径, 林荫路", "en": "avenue", "level": 5000}
+{"id": "w_carrier", "cn": "n. 运送者, 邮递员, 带菌者\\n[计] 载波", "en": "carrier", "level": 5000}
+{"id": "w_merit", "cn": "n. 优点, 功绩, 价值, 功过, 真相\\nvt. 值得\\nvi. 应受", "en": "merit", "level": 5000}
+{"id": "w_fantasy", "cn": "n. 幻想, 想象的产物\\n[医] 幻想", "en": "fantasy", "level": 5000}
+{"id": "w_equip", "cn": "vt. 装备, 配备\\n[机] 设备, 装置", "en": "equip", "level": 5000}
+{"id": "w_spectacular", "cn": "a. 公开展示的, 惊人的, 壮观的\\nn. 奇观, 惊人之举, 展览物", "en": "spectacular", "level": 5000}
+{"id": "w_oak", "cn": "n. 橡树, 橡木\\na. 橡木制的", "en": "oak", "level": 5000}
+{"id": "w_nasty", "cn": "a. 污秽的, 下流的, 险恶的", "en": "nasty", "level": 5000}
+{"id": "w_speculation", "cn": "n. 沉思, 推测, 投机\\n[经] 投机交易, 买空卖空", "en": "speculation", "level": 5000}
+{"id": "w_hopefully", "cn": "adv. 有希望地, 如果希望能实现的话", "en": "hopefully", "level": 5000}
+{"id": "w_sin", "cn": "n. 罪, 犯罪, 过失, 失礼\\nv. 犯", "en": "sin", "level": 5000}
+{"id": "w_monthly", "cn": "n. 月刊\\na. 每月的, 每月一次的", "en": "monthly", "level": 5000}
+{"id": "w_dialogue", "cn": "n. 对话\\nvi. 对话\\nvt. 用对话表达", "en": "dialogue", "level": 5000}
+{"id": "w_suicide", "cn": "n. 自杀, 自杀者\\nv. 自杀\\na. 自杀的", "en": "suicide", "level": 5000}
+{"id": "w_copper", "cn": "n. 铜, 警察\\n[化] 铜Cu", "en": "copper", "level": 5000}
+{"id": "w_builder", "cn": "n. 建立者\\n[机] 组份", "en": "builder", "level": 5000}
+{"id": "w_residence", "cn": "n. 住宅, 居留, 驻扎, 居住期间\\n[医] 住房", "en": "residence", "level": 5000}
+{"id": "w_fraud", "cn": "n. 欺骗, 欺诈, 诡计, 骗子\\n[经] 欺诈, 舞弊, 骗子", "en": "fraud", "level": 5000}
+{"id": "w_fool", "cn": "n. 愚人, 受骗者, 奶油拌水果\\nvt. 愚弄, 欺骗, 浪费\\nvi. 干傻事, 开玩笑, 游荡\\na. 傻的", "en": "fool", "level": 5000}
+{"id": "w_recipe", "cn": "n. 食谱, 处方, 秘诀\\n[医] 取(处方头语), 处方", "en": "recipe", "level": 5000}
+{"id": "w_heading", "cn": "n. 标题, 起始字, 方向\\n[计] 上标题", "en": "heading", "level": 5000}
+{"id": "w_bureau", "cn": "n. 局, 办公处\\n[经] 局, 司, 处", "en": "bureau", "level": 5000}
+{"id": "w_isolation", "cn": "n. 隔绝, 孤立, 隔离\\n[化] 分离; 生物分离", "en": "isolation", "level": 5000}
+{"id": "w_sandwich", "cn": "n. 三明治, 夹心面包, 夹层板\\nvt. 插入, 夹入, 把...制成三明治", "en": "sandwich", "level": 5000}
+{"id": "w_reporter", "cn": "n. 记者, 报告者\\n[化] 指示器", "en": "reporter", "level": 5000}
+{"id": "w_rod", "cn": "n. 竿, 笞鞭, 小枝\\n[化] 棒", "en": "rod", "level": 5000}
+{"id": "w_sword", "cn": "n. 刀, 剑, 战争, 武力, 剑状物", "en": "sword", "level": 5000}
+{"id": "w_fluid", "cn": "n. 液体, 分泌液, 流体\\na. 流动的, 可改变的", "en": "fluid", "level": 5000}
+{"id": "w_discretion", "cn": "n. 慎重, 辨别力, 考虑, 处理权\\n[法] 有决定权的", "en": "discretion", "level": 5000}
+{"id": "w_collector", "cn": "n. 收集家, 收取款项的人\\n[化] 集电极; 捕收剂", "en": "collector", "level": 5000}
+{"id": "w_joan", "cn": "n. 琼（女子名）", "en": "joan", "level": 5000}
+{"id": "w_directory", "cn": "n. 目录, 工商名录, 指南\\n[计] 目录", "en": "directory", "level": 5000}
+{"id": "w_decent", "cn": "a. 有分寸的, 得体的, 大方的", "en": "decent", "level": 5000}
+{"id": "w_convey", "cn": "vt. 传达, 运输, 转让\\n[经] 转让(财产等), 搬运", "en": "convey", "level": 5000}
+{"id": "w_compromise", "cn": "n. 妥协, 折中, 折中方案, 和解\\nvi. 妥协处理\\nvt. 危害", "en": "compromise", "level": 5000}
+{"id": "w_killer", "cn": "n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器\\n[计] 删除程序; 断路器", "en": "killer", "level": 5000}
+{"id": "w_graduate", "cn": "n. 毕业生, 量杯\\na. 已得学位的, 研究生的, 毕业的\\nvi. 毕业, 得学位, 逐渐变为\\nvt. 准予...毕业, 授予...学位, 分等级, 刻刻度", "en": "graduate", "level": 5000}
+{"id": "w_robin", "cn": "n. 旅鸫\\n[医] 刺槐毒素", "en": "robin", "level": 5000}
+{"id": "w_leicester", "cn": "莱斯特(英国城市)", "en": "Leicester", "level": 5000}
+{"id": "w_duration", "cn": "n. 持续时间, 持续\\n[计] 持续时间", "en": "duration", "level": 5000}
+{"id": "w_breeding", "cn": "n. 教养, 生育, 饲养\\n[医] 生育, 繁殖, 育种, 饲养", "en": "breeding", "level": 5000}
+{"id": "w_administer", "cn": "vt. 管理, 料理, 执行\\nvi. 执行遗产管理人的职责, 给予帮助", "en": "administer", "level": 5000}
+{"id": "w_succession", "cn": "n. 连续, 继承权, 继位, 演替, 地层次序\\n[法] 继承, 继承权, 继位", "en": "succession", "level": 5000}
+{"id": "w_palm", "cn": "n. 手掌, 棕榈, 胜利\\nvt. 与...握手, 藏...于掌中", "en": "palm", "level": 5000}
+{"id": "w_execute", "cn": "vt. 执行, 实行, 完成, 处死, 制成\\n[计] 执行", "en": "execute", "level": 5000}
+{"id": "w_eric", "cn": "abbr. 科教资源信息中心（Educational Resources Information Center）；电子遥控与独立控制（Electronic Remote and Independent Control）", "en": "eric", "level": 5000}
+{"id": "w_walter", "cn": "n. 沃尔特（男子名）", "en": "Walter", "level": 5000}
+{"id": "w_barry", "cn": "n. 巴里（男子名）", "en": "Barry", "level": 5000}
+{"id": "w_justification", "cn": "n. 辩护, 证明正当, 释罪\\n[计] 调整", "en": "justification", "level": 5000}
+{"id": "w_dean", "cn": "n. 院长, 主持牧师\\n[法] 外交团长, 学院院长, 教务长", "en": "dean", "level": 5000}
+{"id": "w_shakespeare", "cn": "n. 莎士比亚", "en": "Shakespeare", "level": 5000}
+{"id": "w_duck", "cn": "n. 鸭子\\nvi. 没入水中, 闪避\\nvt. 猛按...入水, 躲避", "en": "duck", "level": 5000}
+{"id": "w_harris", "cn": "n. 哈里斯（英国苏格兰一地区）；哈里斯（姓氏）", "en": "harris", "level": 5000}
+{"id": "w_stance", "cn": "n. 准备击球姿势, 站立的姿势, 位置, 姿态\\n[经] 地位, 形势", "en": "stance", "level": 5000}
+{"id": "w_whisky", "cn": "n. 威士忌酒, 轻便马车\\n[化] 威士忌酒", "en": "whisky", "level": 5000}
+{"id": "w_probability", "cn": "n. 可能性, 或然率, 几率, 概率\\n[化] 概率; 几率", "en": "probability", "level": 5000}
+{"id": "w_norm", "cn": "n. 基准, 模范, 标准, 准则, 平均数\\n[化] 定额", "en": "norm", "level": 5000}
+{"id": "w_oxygen", "cn": "n. 氧\\n[化] 氧O-2", "en": "oxygen", "level": 5000}
+{"id": "w_explicit", "cn": "a. 详述的, 清楚的, 直言的", "en": "explicit", "level": 5000}
+{"id": "w_moore", "cn": "n. 摩尔（男子名）", "en": "moore", "level": 5000}
+{"id": "w_asian", "cn": "n. 亚洲人\\na. 亚洲的, 亚洲人的", "en": "Asian", "level": 5000}
+{"id": "w_seminar", "cn": "n. 研究班, 专题讨论会\\n[经] 讨论会, 专家讨论会", "en": "seminar", "level": 5000}
+{"id": "w_doorway", "cn": "n. 门口, 途径", "en": "doorway", "level": 5000}
+{"id": "w_evans", "cn": "n. 埃文斯（姓氏）", "en": "evans", "level": 5000}
+{"id": "w_abstract", "cn": "a. 抽象的, 深奥的\\nn. 摘要, 抽象概念\\nvt. 摘要, 提炼, 使抽象化\\n[计] 摘录; 摘要; 抽象", "en": "abstract", "level": 5000}
+{"id": "w_delegate", "cn": "n. 代表\\nvt. 委派...为代表", "en": "delegate", "level": 5000}
+{"id": "w_ross", "cn": "n. 罗丝（女性名）", "en": "ross", "level": 5000}
+{"id": "w_defender", "cn": "n. 防卫者, 防护者, 辩护者\\n[法] 辩护人, 保护人", "en": "defender", "level": 5000}
+{"id": "w_portfolio", "cn": "n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑\\n[法] 公文包, 文件夹, 阁员职务", "en": "portfolio", "level": 5000}
+{"id": "w_sculpture", "cn": "n. 雕刻, 雕塑\\nvt. 雕刻, 雕塑\\nvi. 当雕刻师", "en": "sculpture", "level": 5000}
+{"id": "w_successive", "cn": "a. 继承的, 连续的\\n[经] 接续承运人; 连续的", "en": "successive", "level": 5000}
+{"id": "w_abolish", "cn": "vt. 废止, 革除, 消灭\\n[经] 废除, 取消, 裁撤", "en": "abolish", "level": 5000}
+{"id": "w_sensation", "cn": "n. 感觉, 轰动\\n[医] 感觉", "en": "sensation", "level": 5000}
+{"id": "w_allege", "cn": "vt. 宣称, 主张, 提出, 断言\\n[法] 断言, 指称, 指证", "en": "allege", "level": 5000}
+{"id": "w_diagnosis", "cn": "n. 诊断\\n[计] 诊断", "en": "diagnosis", "level": 5000}
+{"id": "w_developer", "cn": "n. 开发者\\n[计] 显影器", "en": "developer", "level": 5000}
+{"id": "w_comparable", "cn": "a. 可比较的, 比得上的", "en": "comparable", "level": 5000}
+{"id": "w_analyst", "cn": "n. 分析者, 精神分析学家\\n[化] 分析员; 化验员", "en": "analyst", "level": 5000}
+{"id": "w_premium", "cn": "n. 额外补贴, 奖金, 奖赏, 保险费\\n[医] 保险费", "en": "premium", "level": 5000}
+{"id": "w_density", "cn": "n. 密度\\n[化] 密度", "en": "density", "level": 5000}
+{"id": "w_availability", "cn": "n. 有效性, 可利用性, 可利用的人\\n[计] 有效性; 可用性", "en": "availability", "level": 5000}
+{"id": "w_installation", "cn": "n. 安装, 装置, 就职\\n[医] 结构, 装置, 设立", "en": "installation", "level": 5000}
+{"id": "w_appendix", "cn": "n. 附录, 附加物, 阑尾\\n[化] 增补", "en": "appendix", "level": 5000}
+{"id": "w_missile", "cn": "n. 发射物, 导弹, 飞弹, 火箭\\na. 可发射的", "en": "missile", "level": 5000}
+{"id": "w_bastard", "cn": "n. 私生子, 劣货\\na. 私生的, 杂种的, 不合标准的", "en": "bastard", "level": 5000}
+{"id": "w_modification", "cn": "n. 修正, 修饰, 修改\\n[化] 修饰; 修改", "en": "modification", "level": 5000}
+{"id": "w_alex", "cn": "[计] 开放网络文件系统", "en": "Alex", "level": 5000}
+{"id": "w_classification", "cn": "n. 分类, 分级\\n[化] 分级; 分粒; 分类", "en": "classification", "level": 5000}
+{"id": "w_offender", "cn": "n. 罪犯, 无礼的人, 得罪人的人", "en": "offender", "level": 5000}
+{"id": "w_associated", "cn": "a. 联合的\\n[计] 关联的; 结合的", "en": "associated", "level": 5000}
+{"id": "w_forum", "cn": "n. 论坛, 公开讨论的广场, 法庭, 讨论会\\n[法] 讨论会, 专题讨论, 公共论坛", "en": "forum", "level": 5000}
+{"id": "w_aids", "cn": "n. 爱滋病(获得性免疫缺陷综合征)\\n[计] 高级综合数据系统, 先进交互调试系统, 自动图解文档编制系统\\n美国决策学学会, 信息自动显示系统, 自动综合调试系统", "en": "AIDS", "level": 5000}
+{"id": "w_capitalism", "cn": "n. 资本主义\\n[经] 资本主义", "en": "capitalism", "level": 5000}
+{"id": "w_frown", "cn": "n. 皱眉\\nvi. 皱眉头\\nvt. 皱眉表示", "en": "frown", "level": 5000}
+{"id": "w_korea", "cn": "n. 朝鲜, 韩国", "en": "Korea", "level": 5000}
+{"id": "w_caroline", "cn": "n. 凯若琳（女子名）", "en": "caroline", "level": 5000}
+{"id": "w_polytechnic", "cn": "a. 各种工艺的, 工艺教育的\\nn. 工艺专科学校, 理工专科学校", "en": "polytechnic", "level": 5000}
+{"id": "w_marx", "cn": "n. 马克思（无产阶级的伟大领袖）", "en": "marx", "level": 5000}
+{"id": "w_computing", "cn": "[计] 计算", "en": "computing", "level": 5000}
+{"id": "w_legislative", "cn": "n. 立法机构\\na. 立法的, 有立法权的", "en": "legislative", "level": 5000}
+{"id": "w_shit", "cn": "vi. 拉屎\\nvt. 欺骗, 在...拉屎\\nn. 粪, 屎\\ninterj. 狗屁", "en": "shit", "level": 5000}
+{"id": "w_eliot", "cn": "n. 艾略特（姓氏）", "en": "eliot", "level": 5000}
+{"id": "w_timing", "cn": "n. 时间选择, 时间测定, 定时, 调速\\n[计] 定时器时钟", "en": "timing", "level": 5000}
+{"id": "w_interfere", "cn": "vi. 妨碍, 冲突, 干涉, 抵触\\n[医] 干扰, 干涉, 阻碍, 碰腿(马)", "en": "interfere", "level": 5000}
+{"id": "w_sooner", "cn": "n. (美)(非正式)抢先占有土地者, 抢先而获得不正当利益的人", "en": "sooner", "level": 5000}
+{"id": "w_panic", "cn": "n. 恐慌, 惊慌\\na. 惊慌的, 没有理由的, 恐慌的\\nvt. 使惊慌, 使狂热\\nvi. 惊慌", "en": "panic", "level": 5000}
+{"id": "w_plead", "cn": "vi. 辩护, 恳求\\nvt. 为...辩护, 提出...借口, 托称, 恳求", "en": "plead", "level": 5000}
+{"id": "w_bonus", "cn": "n. 奖金, 红利\\n[经] 奖金, 红利, 额外补贴", "en": "bonus", "level": 5000}
+{"id": "w_casual", "cn": "a. 偶然的, 不经意的, 便装的\\nn. 临时工, 待命士兵", "en": "casual", "level": 5000}
+{"id": "w_bean", "cn": "n. 豆子\\n[化] 油嘴; 豆", "en": "bean", "level": 5000}
+{"id": "w_seventeen", "cn": "num. 十七, 十七个", "en": "seventeen", "level": 5000}
+{"id": "w_riot", "cn": "n. 暴动, 喧闹, 放纵\\nvi. 发动, 暴动, 纵情, 放荡\\nvt. 浪费, 挥霍", "en": "riot", "level": 5000}
+{"id": "w_persist", "cn": "vi. 坚持, 固执, 持续, 坚称\\n[经] 持续", "en": "persist", "level": 5000}
+{"id": "w_inherit", "cn": "vt. 继承, 遗传\\nvi. 接受遗产", "en": "inherit", "level": 5000}
+{"id": "w_extract", "cn": "n. 榨出物, 精汁, 摘录, 选段\\nvt. (费力地)取出, 采掘, 榨取, 摘录, 吸取\\n[计] 提取", "en": "extract", "level": 5000}
+{"id": "w_simultaneously", "cn": "adv. 同时发生, 一齐, 同时, 同时存在", "en": "simultaneously", "level": 5000}
+{"id": "w_lesser", "cn": "a. 较少的, 较小的, 次要的", "en": "lesser", "level": 5000}
+{"id": "w_subtle", "cn": "a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的\\n[医] 锐敏的; 精细的", "en": "subtle", "level": 5000}
+{"id": "w_nightmare", "cn": "n. 梦魇, 恶梦, 可怕的事物(或情景、人物)\\n[医] 梦魇, 恶梦", "en": "nightmare", "level": 5000}
+{"id": "w_glory", "cn": "n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣\\nvi. 自豪", "en": "glory", "level": 5000}
+{"id": "w_twentieth", "cn": "num. 第二十, 二十分之一", "en": "twentieth", "level": 5000}
+{"id": "w_partial", "cn": "a. 部分的, 偏袒的, 偏爱的\\nn. 分音", "en": "partial", "level": 5000}
+{"id": "w_conceive", "cn": "vt. 构思, 认为\\nvi. 怀孕", "en": "conceive", "level": 5000}
+{"id": "w_cater", "cn": "v. 提供饮食及服务, 投合, 迎合", "en": "cater", "level": 5000}
+{"id": "w_morris", "cn": "n. 莫里斯舞", "en": "morris", "level": 5000}
+{"id": "w_random", "cn": "n. 随意, 随机\\na. 任意的, 随便的, 胡乱的, 随机的\\nadv. 胡乱地", "en": "random", "level": 5000}
+{"id": "w_teenager", "cn": "n. 十三岁到十九岁的少年", "en": "teenager", "level": 5000}
+{"id": "w_pregnancy", "cn": "n. 怀孕；丰富, 多产；意义深长", "en": "pregnancy", "level": 5000}
+{"id": "w_thames", "cn": "n. 泰晤士河", "en": "Thames", "level": 5000}
+{"id": "w_scandal", "cn": "n. 丑闻, 中伤, 耻辱, 反感, 流言蜚语\\n[法] 丑事, 丑闻, 干丑事的人", "en": "scandal", "level": 5000}
+{"id": "w_assignment", "cn": "n. 分配, 功课, 任务, 转让, 归因, 陈述\\n[计] 赋值", "en": "assignment", "level": 5000}
+{"id": "w_marvellous", "cn": "a. 奇异的, 神奇的, 奇迹般的, 惊人的, 不可思议的, 绝妙的, 妙极的", "en": "marvellous", "level": 5000}
+{"id": "w_instruct", "cn": "vt. 教, 教育, 命令, 通知\\n[法] 托办, 指导, 指示", "en": "instruct", "level": 5000}
+{"id": "w_resemble", "cn": "vt. 相似, 类似", "en": "resemble", "level": 5000}
+{"id": "w_tactic", "cn": "n. 一项战术, 一条策略\\na. 战术的, 顺序的, 排列的", "en": "tactic", "level": 5000}
+{"id": "w_opt", "cn": "vi. 选择", "en": "opt", "level": 5000}
+{"id": "w_intensive", "cn": "a. 加强的, 内涵的, 集中的\\nn. 加强器", "en": "intensive", "level": 5000}
+{"id": "w_guilt", "cn": "n. 罪行, 内疚\\n[法] 罪, 犯罪, 罪行", "en": "guilt", "level": 5000}
+{"id": "w_basket", "cn": "n. 篮, 篮子\\nvt. 装入篮", "en": "basket", "level": 5000}
+{"id": "w_trader", "cn": "n. 商人, 商船\\n[经] 交易者, 商船", "en": "trader", "level": 5000}
+{"id": "w_isolate", "cn": "vt. 使隔离, 使孤立, 使绝缘\\nn. 隔离种群", "en": "isolate", "level": 5000}
+{"id": "w_horizon", "cn": "n. 地平线, 眼界, (天)视地平", "en": "horizon", "level": 5000}
+{"id": "w_envisage", "cn": "vt. 面对, 正视, 想象", "en": "envisage", "level": 5000}
+{"id": "w_concession", "cn": "n. 特许, 让步, 认可\\n[经] 核准, 许可, 特殊(权)", "en": "concession", "level": 5000}
+{"id": "w_resume", "cn": "vt. 重新开始, 取回, 恢复\\nvi. 再开始\\nn. 摘要, 个人简历\\n[计] 继续执行", "en": "resume", "level": 5000}
+{"id": "w_capability", "cn": "n. 能力, 性能, 约束力\\n[化] 能力", "en": "capability", "level": 5000}
+{"id": "w_tutor", "cn": "n. 家庭教师, 导师, 助教, 监护人\\nvt. 当...的教师, 教, 指导, 约束, 克制\\nvi. 当家庭教师, 受家庭教师的指导", "en": "tutor", "level": 5000}
+{"id": "w_instinct", "cn": "n. 本能, 直觉\\na. 充满着的", "en": "instinct", "level": 5000}
+{"id": "w_jet", "cn": "n. 喷射流, 喷嘴, 煤玉\\nv. 射出, 迸出, 喷射\\na. 黑而发亮的, 墨黑的", "en": "jet", "level": 5000}
+{"id": "w_besides", "cn": "prep. 除...之外\\nadv. 而且, 此外", "en": "besides", "level": 5000}
+{"id": "w_eagle", "cn": "n. 鹰, 鹰状标饰", "en": "eagle", "level": 5000}
+{"id": "w_preliminary", "cn": "n. 初步做法, 初步措施, 预试, 预选赛\\na. 初步的, 开始的, 预备的", "en": "preliminary", "level": 5000}
+{"id": "w_inn", "cn": "n. 旅馆, 客栈\\nvi. 住旅馆", "en": "inn", "level": 5000}
+{"id": "w_trainer", "cn": "n. 训练员, 驯马师\\n[电] 列车器", "en": "trainer", "level": 5000}
+{"id": "w_roy", "cn": "n. 罗伊（男子名）", "en": "roy", "level": 5000}
+{"id": "w_scholar", "cn": "n. 学者, 奖学金获得者, 有文化者, 学习者", "en": "scholar", "level": 5000}
+{"id": "w_pavement", "cn": "n. 路面, 人行道, 铺面路, 铺路材料", "en": "pavement", "level": 5000}
+{"id": "w_concede", "cn": "vt. 承认, 退让\\nvi. 让步", "en": "concede", "level": 5000}
+{"id": "w_sphere", "cn": "n. 球, 球面, 球体, 天体, 地球仪, 范围\\nvt. 包围, 使成球体, 放入球内", "en": "sphere", "level": 5000}
+{"id": "w_holding", "cn": "n. 把持, 支持, 保持\\n[法] 租借地, 占有物, 拥有的财产", "en": "holding", "level": 5000}
+{"id": "w_ray", "cn": "n. 光线, 射线, 闪烁, 光辉\\nvi. 射出光线, 浮现, 放射光线\\nvt. 放射, 显出", "en": "ray", "level": 5000}
+{"id": "w_malcolm", "cn": "n. 马尔科姆（男子名）", "en": "malcolm", "level": 5000}
+{"id": "w_reign", "cn": "v. 为王，为君；当政；统治\\nn. 为王，为君；当政；统治", "en": "reign", "level": 5000}
+{"id": "w_motivation", "cn": "n. 动机, 刺激, 推动\\n[医] 促动, 推动, 诱导", "en": "motivation", "level": 5000}
+{"id": "w_influential", "cn": "a. 有影响的, 有势力的", "en": "influential", "level": 5000}
+{"id": "w_clash", "cn": "n. 冲突, 撞击声, 抵触\\nvi. 冲突, 抵触\\nvt. 使发出撞击声\\n[计] 对撞", "en": "clash", "level": 5000}
+{"id": "w_entity", "cn": "n. 实体, 实存物, 存在\\n[计] 实体", "en": "entity", "level": 5000}
+{"id": "w_assign", "cn": "vt. 分配, 指派, 赋值\\n[计] 赋值", "en": "assign", "level": 5000}
+{"id": "w_redundancy", "cn": "n. 过多, 冗长, 累赘, 多余, 冗余位, 冗余度, 冗余码, 多余信息\\n[计] 冗余", "en": "redundancy", "level": 5000}
+{"id": "w_alleged", "cn": "a. 被断言的, 所谓的\\n[法] 提出而尚未证实的, 声称的, 宣称的", "en": "alleged", "level": 5000}
+{"id": "w_disclose", "cn": "vt. 揭露, 透露\\n[法] 揭发, 揭露, 公开", "en": "disclose", "level": 5000}
+{"id": "w_liberation", "cn": "n. 释放, 解放\\n[化] 发出; 释放; 放出", "en": "liberation", "level": 5000}
+{"id": "w_pat", "cn": "n. 轻拍\\nv. 轻拍\\nadv. 适时, 正好, 恰好, 毫不迟疑, 熟记地\\na. 恰好的, 合适的, 熟练的, 坚定的, 人为的", "en": "pat", "level": 5000}
+{"id": "w_jenny", "cn": "n. 纺纱机, 移动吊车, 母驴", "en": "jenny", "level": 5000}
+{"id": "w_update", "cn": "vt. 更新, 使现代化\\nn. 更新\\n[计] 更新", "en": "update", "level": 5000}
+{"id": "w_tray", "cn": "n. 托盘, 公文盘, 满盘, 发射箱\\n[化] 淋盘", "en": "tray", "level": 5000}
+{"id": "w_christianity", "cn": "n. 基督教, 基督教精神", "en": "Christianity", "level": 5000}
+{"id": "w_thesis", "cn": "n. 论题, 论文", "en": "thesis", "level": 5000}
+{"id": "w_morgan", "cn": "n. 摩根马", "en": "Morgan", "level": 5000}
+{"id": "w_allen", "cn": "n. 艾伦（男子名）", "en": "allen", "level": 5000}
+{"id": "w_regulate", "cn": "vt. 管理, 控制, 调节, 调整, 校准\\n[经] 控制, 管理", "en": "regulate", "level": 5000}
+{"id": "w_commonwealth", "cn": "n. 共和国；联邦；国民整体", "en": "commonwealth", "level": 5000}
+{"id": "w_radiation", "cn": "n. 辐射\\n[化] 放射", "en": "radiation", "level": 5000}
+{"id": "w_delegation", "cn": "n. 代表团, 派遣代表团, 代表的地位(或权力)\\n[经] 派遣, 委任, 委托", "en": "delegation", "level": 5000}
+{"id": "w_coup", "cn": "n. 砰然的一击, 妙计, 出乎意料的行动, 政变\\n[医] 发作, 中, 击", "en": "coup", "level": 5000}
+{"id": "w_marie", "cn": "n. 玛丽（女子名）", "en": "marie", "level": 5000}
+{"id": "w_consensus", "cn": "n. 合意, 一致, 同感\\n[计] 合意", "en": "consensus", "level": 5000}
+{"id": "w_genetic", "cn": "a. 创始的, 遗传的, 起源的, 遗传学的\\n[医] 生殖的, 遗传的", "en": "genetic", "level": 5000}
+{"id": "w_peer", "cn": "n. 同等的人, 匹敌, 贵族\\nvi. 凝视, 窥视, 费力地看, 隐现\\nvt. 与...同等, 封为贵族", "en": "peer", "level": 5000}
+{"id": "w_vietnam", "cn": "n. 越南", "en": "Vietnam", "level": 5000}
+{"id": "w_hey", "cn": "interj. 嗨", "en": "hey", "level": 5000}
+{"id": "w_cardiff", "cn": "n. 加的夫（英国港市）", "en": "cardiff", "level": 5000}
+{"id": "w_subsidiary", "cn": "n. 子公司, 附件, 辅助者\\na. 辅助的, 次要的, 津贴的", "en": "subsidiary", "level": 5000}
+{"id": "w_pakistan", "cn": "n. 巴基斯坦", "en": "Pakistan", "level": 5000}
+{"id": "w_incidence", "cn": "n. 发生, 发生率, 影响, 负担者, 入射, 倾角\\n[医] 入射, 发生率, 发生数", "en": "incidence", "level": 5000}
+{"id": "w_subsidy", "cn": "n. 补助金, 津贴\\n[经] 补助金, 津贴, 补贴", "en": "subsidy", "level": 5000}
+{"id": "w_autonomy", "cn": "n. 自治, 自治权\\n[医] 自主性", "en": "autonomy", "level": 5000}
+{"id": "w_ira", "cn": "abbr. 爱尔兰共和军（Irish Republican Army）；个人退休帐户（Individual Retirement Account）", "en": "ira", "level": 5000}
+{"id": "w_dc", "cn": "直流电\\n[计] 数据单元, 数据中心, 数据代码, 数据通信, 数据控制, 数字控制, 直流", "en": "DC", "level": 5000}
+{"id": "w_organism", "cn": "n. 生物, 有机体, 社会组织\\n[医] 生物[体],[有]机体", "en": "organism", "level": 5000}
+{"id": "w_correlation", "cn": "n. 相互关系, 相关, 关联\\n[医] 相关, 联系", "en": "correlation", "level": 5000}
+{"id": "w_plc", "cn": "[计] 可编程逻辑控制器", "en": "plc", "level": 5000}
+{"id": "w_auditor", "cn": "n. 审计员, 听者, 旁听生\\n[经] 审计(查帐)员, 审计师, 会计检查员", "en": "auditor", "level": 5000}
+{"id": "w_fucking", "cn": "a. 该死的, 难完成的, 难做的, 低劣的, 讨厌的, 丑恶的, 混乱的, 乱糟糟的", "en": "fucking", "level": 5000}
+{"id": "w_faster", "cn": "[计] 加快", "en": "faster", "level": 5000}
+{"id": "w_boom", "cn": "n. 繁荣, 隆隆声\\nvi. 急速发展, 发隆隆声\\nvt. 使兴旺, 发隆隆声", "en": "boom", "level": 5000}
+{"id": "w_lighting", "cn": "n. 照明, 照明设备, 舞台灯光", "en": "lighting", "level": 5000}
+{"id": "w_deck", "cn": "n. 甲板, (汽车后部的)行李仓\\nvt. 装饰, 打扮, 装甲板\\n[计] 纸牌背面图案", "en": "deck", "level": 5000}
+{"id": "w_frustration", "cn": "n. 挫折, 顿挫\\n[医] 挫折", "en": "frustration", "level": 5000}
+{"id": "w_obliged", "cn": "a. 感激的；有责任的；必须的", "en": "obliged", "level": 5000}
+{"id": "w_assemble", "cn": "vt. 集合, 收集, 装配\\nvi. 集合\\n[计] 汇编", "en": "assemble", "level": 5000}
+{"id": "w_poster", "cn": "n. 海报, 招贴, 驿马", "en": "poster", "level": 5000}
+{"id": "w_harsh", "cn": "a. 粗糙的, 刺耳的, 严厉的\\n[法] 粗糙的, 严厉的, 苛刻的", "en": "harsh", "level": 5000}
+{"id": "w_fierce", "cn": "a. 凶猛的, 猛烈的, 热烈的, 暴躁的", "en": "fierce", "level": 5000}
+{"id": "w_fascinating", "cn": "a. 迷人的, 吸引人的, 使人神魂颠倒的", "en": "fascinating", "level": 5000}
+{"id": "w_drain", "cn": "n. 排水沟, 消耗, 排水\\nvt. 排出, 喝光, 耗尽\\nvi. 排水, 流干", "en": "drain", "level": 5000}
+{"id": "w_blanket", "cn": "n. 毛毯, 毯子\\nvt. 掩盖, 覆盖\\na. 总共的", "en": "blanket", "level": 5000}
+{"id": "w_tribute", "cn": "n. 贡物, 礼物, 颂辞", "en": "tribute", "level": 5000}
+{"id": "w_surgeon", "cn": "n. 外科医生, 军医, 船医\\n[医] 外科医师", "en": "surgeon", "level": 5000}
+{"id": "w_edit", "cn": "vt. 编辑, 编校, 修订, 剪辑\\n[计] 编辑; DOS外部命令:该命令是一个用于编辑文本文件的全屏幕编辑程序", "en": "edit", "level": 5000}
+{"id": "w_casualty", "cn": "n. 意外事故, 伤亡, 受害者\\n[化] 事故", "en": "casualty", "level": 5000}
+{"id": "w_beam", "cn": "n. 横梁, 杆, 光线, 容光焕发\\nvi. 用梁支承, 微笑, 射出光线\\nvt. 照耀, 感到欣喜\\n[计] 束", "en": "beam", "level": 5000}
+{"id": "w_slave", "cn": "n. 奴隶, 从动装置, 卑鄙的人\\nvi. 拼命工作\\n[计] 从设备", "en": "slave", "level": 5000}
+{"id": "w_engagement", "cn": "n. 诺言, 约会, 婚约, 交战\\n[医] 衔接", "en": "engagement", "level": 5000}
+{"id": "w_contemplate", "cn": "vt. 注视, 沉思, 盘算\\nvi. 冥思苦想", "en": "contemplate", "level": 5000}
+{"id": "w_excessive", "cn": "a. 过度的, 过多的, 极端的\\n[法] 过度的, 过分的, 额外的", "en": "excessive", "level": 5000}
+{"id": "w_starting", "cn": "n. 开端, 开始, 出发, 起动, 开动\\n[机] 开动, 起动", "en": "starting", "level": 5000}
+{"id": "w_splendid", "cn": "a. 光亮的, 了不起的, 灿烂的, 壮丽的, 显著的, 杰出的", "en": "splendid", "level": 5000}
+{"id": "w_remainder", "cn": "n. 剩余物, 其他人, 残余, 余数\\nv. 削价出售(图书)\\na. 剩余的, 出售削价剩书的\\n[计] 余数", "en": "remainder", "level": 5000}
+{"id": "w_intervene", "cn": "vi. 插入, 调停, 干涉\\n[经] 进场干预", "en": "intervene", "level": 5000}
+{"id": "w_accuracy", "cn": "n. 精确, 正确\\n[计] 准确度", "en": "accuracy", "level": 5000}
+{"id": "w_clay", "cn": "n. 泥土, 肉体, 黏土\\n[化] 粘土", "en": "clay", "level": 5000}
+{"id": "w_metropolitan", "cn": "n. 大都市居民, 都主教, 宗主国的公民\\na. 大都市的, 都主教区的, 宗主国的", "en": "metropolitan", "level": 5000}
+{"id": "w_sensitivity", "cn": "n. 敏感, 灵敏度\\n[计] 灵敏度", "en": "sensitivity", "level": 5000}
+{"id": "w_greece", "cn": "n. 希腊", "en": "Greece", "level": 5000}
+{"id": "w_embrace", "cn": "n. 拥抱\\nvt. 拥抱, 互相拥抱, 包含, 收买\\nvi. 拥抱", "en": "embrace", "level": 5000}
+{"id": "w_exceptional", "cn": "a. 例外的, 异常的, 特别的", "en": "exceptional", "level": 5000}
+{"id": "w_descend", "cn": "vi. 下降, 世代相传, 屈尊, 袭击\\nvt. 下降", "en": "descend", "level": 5000}
+{"id": "w_combined", "cn": "a. 结合的；组合的", "en": "combined", "level": 5000}
+{"id": "w_grasp", "cn": "n. 把握, 抓紧, 理解, 抓, 柄, 控制\\nvt. 抓住, 紧握, 领会\\nvi. 抓", "en": "grasp", "level": 5000}
+{"id": "w_firstly", "cn": "adv. 第一, 首先", "en": "firstly", "level": 5000}
+{"id": "w_supervision", "cn": "n. 监督, 管理\\n[经] 监督, 管理", "en": "supervision", "level": 5000}
+{"id": "w_limb", "cn": "n. 四肢, 枝干, 翼, 边缘\\nvt. 切断...之手足", "en": "limb", "level": 5000}
+{"id": "w_cling", "cn": "vi. 粘紧, 附着, 紧贴, 坚持", "en": "cling", "level": 5000}
+{"id": "w_monster", "cn": "n. 怪物, 恶人, 巨物\\n[医] 畸胎", "en": "monster", "level": 5000}
+{"id": "w_memorial", "cn": "n. 纪念物, 请愿书\\na. 记念的, 记忆的", "en": "memorial", "level": 5000}
+{"id": "w_execution", "cn": "n. 实行, 完成, 执行, 死刑\\n[计] 执行", "en": "execution", "level": 5000}
+{"id": "w_geoffrey", "cn": "n. 杰弗里（男子名）", "en": "geoffrey", "level": 5000}
+{"id": "w_dismissal", "cn": "n. 免职, 解雇\\n[经] 解雇", "en": "dismissal", "level": 5000}
+{"id": "w_solely", "cn": "adv. 仅仅, 单独地", "en": "solely", "level": 5000}
+{"id": "w_exclusively", "cn": "adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地", "en": "exclusively", "level": 5000}
+{"id": "w_conceal", "cn": "vt. 隐藏, 掩盖, 隐瞒\\n[法] 隐瞒, 隐匿, 保守秘密", "en": "conceal", "level": 5000}
+{"id": "w_hostility", "cn": "n. 敌意, 敌对, 反对", "en": "hostility", "level": 5000}
+{"id": "w_compulsory", "cn": "a. 被强制的, 强迫的, 义务的\\n[经] 强迫的, 强制的", "en": "compulsory", "level": 5000}
+{"id": "w_similarity", "cn": "n. 类似, 类似处\\n[法] 类似, 相似, 类似事例", "en": "similarity", "level": 5000}
+{"id": "w_jaw", "cn": "n. 颚, 颌\\nv. 闲谈, 教训, 唠叨", "en": "jaw", "level": 5000}
+{"id": "w_fighter", "cn": "n. 斗士, 战士, 好战者, 战斗机", "en": "fighter", "level": 5000}
+{"id": "w_ridge", "cn": "n. 脊, 山脊, 山脉\\n[医] 嵴, 脊, 棱线", "en": "ridge", "level": 5000}
+{"id": "w_exploration", "cn": "n. 探险, 踏勘, 探测\\n[医] 探察", "en": "exploration", "level": 5000}
+{"id": "w_rating", "cn": "n. 等级, 额定功率, 责骂\\n[经] 等级评定", "en": "rating", "level": 5000}
+{"id": "w_barbara", "cn": "n. 芭芭拉（女子名）", "en": "barbara", "level": 5000}
+{"id": "w_liver", "cn": "n. 肝脏, 生活者, 居民\\n[医] 肝", "en": "liver", "level": 5000}
+{"id": "w_progressive", "cn": "n. 改革论者, 进步论者\\na. 前进的, 累进的, 进步的", "en": "progressive", "level": 5000}
+{"id": "w_venue", "cn": "n. 犯罪地点, 审判地, 发生地点", "en": "venue", "level": 5000}
+{"id": "w_terminal", "cn": "n. 终端机, 终点, 末端, 极限, 终点站\\na. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的\\n[计] 终端; 终端设备", "en": "terminal", "level": 5000}
+{"id": "w_incur", "cn": "vt. 招致, 蒙受, 遭遇\\n[经] 招致, 蒙受, 担负", "en": "incur", "level": 5000}
+{"id": "w_continental", "cn": "a. 大陆的, 洲的\\nn. 欧洲大陆人", "en": "continental", "level": 5000}
+{"id": "w_cab", "cn": "n. 出租车, 出租汽车, 出租马车\\nvi. 乘出租马车(或汽车)", "en": "cab", "level": 5000}
+{"id": "w_hitler", "cn": "n. 希特勒（纳粹德国元首）", "en": "hitler", "level": 5000}
+{"id": "w_chronic", "cn": "a. 慢性的, 习惯性的\\nn. 慢性病患者", "en": "chronic", "level": 5000}
+{"id": "w_intensity", "cn": "n. 强烈, 紧张, 强度\\n[计] 强度; 亮度", "en": "intensity", "level": 5000}
+{"id": "w_relevance", "cn": "n. 中肯；关联；相关性", "en": "relevance", "level": 5000}
+{"id": "w_primitive", "cn": "n. 原始人, 早期艺术家\\na. 原始的, 上古的\\n[计] 图元; 原语; 基元", "en": "primitive", "level": 5000}
+{"id": "w_legend", "cn": "n. 传说, 传奇文学, 图例\\n[计] 图例", "en": "legend", "level": 5000}
+{"id": "w_sweden", "cn": "n. 瑞典", "en": "Sweden", "level": 5000}
+{"id": "w_boost", "cn": "n. 推进, 吹捧\\nvt. 推进, 提高, 宣扬, 促进", "en": "boost", "level": 5000}
+{"id": "w_lancashire", "cn": "n. 兰开夏郡(英格兰郡名)", "en": "Lancashire", "level": 5000}
+{"id": "w_bronze", "cn": "n. 青铜, 铜像\\na. 青铜色的", "en": "bronze", "level": 5000}
+{"id": "w_bruce", "cn": "n. 布鲁斯", "en": "Bruce", "level": 5000}
+{"id": "w_orchestra", "cn": "n. 管弦乐队, 乐队演奏处", "en": "orchestra", "level": 5000}
+{"id": "w_scarcely", "cn": "adv. 简直不, 一定不, 仅仅", "en": "scarcely", "level": 5000}
+{"id": "w_counterpart", "cn": "n. 副本, 复本, 配对物, 相应物\\n[经] 副本, 正副二份中之一", "en": "counterpart", "level": 5000}
+{"id": "w_advocate", "cn": "n. 提倡者, 拥护者\\nvt. 主张, 提倡", "en": "advocate", "level": 5000}
+{"id": "w_operational", "cn": "a. 操作的, 运作的\\n[法] 操作上的, 业务上的, 可起作用的", "en": "operational", "level": 5000}
+{"id": "w_handsome", "cn": "a. 英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的", "en": "handsome", "level": 5000}
+{"id": "w_clark", "cn": "n. 克拉克（男子名）", "en": "clark", "level": 5000}
+{"id": "w_occupational", "cn": "a. 职业的, 军事占领的\\n[医] 职业的", "en": "occupational", "level": 5000}
+{"id": "w_horrible", "cn": "a. 可怕的, 遭透的, 极讨厌的", "en": "horrible", "level": 5000}
+{"id": "w_archbishop", "cn": "n. 大主教", "en": "archbishop", "level": 5000}
+{"id": "w_faculty", "cn": "n. 才能, 能力, 全体教员, (大学的)系\\n[医] 能力, [大学]院系", "en": "faculty", "level": 5000}
+{"id": "w_socialism", "cn": "n. 社会主义, 社会主义运动", "en": "socialism", "level": 5000}
+{"id": "w_exclusion", "cn": "n. 排除, 除外, 逐出\\n[医] 排除, 除外, 分离术", "en": "exclusion", "level": 5000}
+{"id": "w_questionnaire", "cn": "n. 调查表, 问卷\\n[经] 调查表", "en": "questionnaire", "level": 5000}
+{"id": "w_facilitate", "cn": "vt. 使容易, 促进, 帮助\\n[法] 使容易, 使便利, 推进", "en": "facilitate", "level": 5000}
+{"id": "w_systematic", "cn": "a. 有系统的, 分类上的, 体系的\\n[医] 系统的, 系的, 分类的", "en": "systematic", "level": 5000}
+{"id": "w_hughes", "cn": "[计] 体斯", "en": "Hughes", "level": 5000}
+{"id": "w_brazil", "cn": "n. 巴西", "en": "Brazil", "level": 5000}
+{"id": "w_organiser", "cn": "[经] 组织者, 创立人, 发起人", "en": "organiser", "level": 5000}
+{"id": "w_constituent", "cn": "n. 成分, 选民, 构成物\\na. 构成的, 组织的, 选举的", "en": "constituent", "level": 5000}
+{"id": "w_payable", "cn": "a. 可付的, 到期的, 应付的, 有利益的\\n[经] 应付的", "en": "payable", "level": 5000}
+{"id": "w_pardon", "cn": "n. 原谅, 赦免\\nvt. 宽恕, 原谅", "en": "pardon", "level": 5000}
+{"id": "w_t", "cn": "[计] 表, 终端, 测试, 磁道, 树, 真, 太, 万亿\\n[医] 温度, 胸的, 胸廓的, 眼球内压, 眼压, 垓, 千京, 兆兆", "en": "T", "level": 5000}
+{"id": "w_monitoring", "cn": "[计] 监控, 监督, 监视\\n[经] 检验, 检查, 控制", "en": "monitoring", "level": 5000}
+{"id": "w_interim", "cn": "a. 暂时的, 临时的, 间歇的\\nn. 过渡时期", "en": "interim", "level": 5000}
+{"id": "w_liz", "cn": "n. 莉斯（女子名）", "en": "liz", "level": 5000}
+{"id": "w_estimated", "cn": "a. 估算的；估计的；预计的", "en": "estimated", "level": 5000}
+{"id": "w_integrated", "cn": "a. 综合的, 完整的, 互相协调的\\n[法] 成为整体的, 综合的, 统筹的", "en": "integrated", "level": 5000}
+{"id": "w_ideological", "cn": "a. 意识形态的, 空想的\\n[法] 思想的, 思想上的, 意识形态的", "en": "ideological", "level": 5000}
+{"id": "w_gp", "cn": "普通医师, 普通医生开业医生\\n[计] 通用程序设计, 图形处理器", "en": "GP", "level": 5000}
+{"id": "w_benjamin", "cn": "[医] 安息香", "en": "benjamin", "level": 5000}
+{"id": "w_republican", "cn": "n. 共和主义者, 共和党员\\na. 共和政体的, 共和国的, 共和主义的", "en": "republican", "level": 5000}
+{"id": "w_parameter", "cn": "n. 参变数, 参变量, 参数, 参量\\n[计] 参量; 参数", "en": "parameter", "level": 5000}
+{"id": "w_equilibrium", "cn": "n. 平衡, 平静, 均衡\\n[化] 平衡", "en": "equilibrium", "level": 5000}
+{"id": "w_matrix", "cn": "n. 母体, 子宫, 基质, 脉石, 模型, 矩阵\\n[计] 矩阵", "en": "matrix", "level": 5000}
+{"id": "w_premier", "cn": "n. 总理, 首相\\na. 首位的, 最初的", "en": "premier", "level": 5000}
+{"id": "w_striker", "cn": "n. 打击者, 罢工者\\n[经] 罢工者", "en": "striker", "level": 5000}
+{"id": "w_cleveland", "cn": "n. 克利夫兰", "en": "Cleveland", "level": 5000}
+{"id": "w_ussr", "cn": "苏联", "en": "USSR", "level": 5000}
+{"id": "w_harriet", "cn": "n. 哈里特（女子名）", "en": "harriet", "level": 5000}
+{"id": "w_carer", "cn": "n. 负责照顾（老人, 病人, 小孩）的人", "en": "carer", "level": 5000}
+{"id": "w_gorbachev", "cn": "[经] 戈尔巴乔夫", "en": "Gorbachev", "level": 5000}
+{"id": "w_lea", "cn": "n. 草地", "en": "lea", "level": 5000}
+{"id": "w_iraqi", "cn": "n. 伊拉克人, 伊拉克阿拉伯语\\na. 伊拉克的, 伊拉克人的", "en": "Iraqi", "level": 5000}
+{"id": "w_tempt", "cn": "vt. 诱惑, 引诱, 引起...的兴趣, 吸引, 冒...风险", "en": "tempt", "level": 5000}
+{"id": "w_fortunately", "cn": "adv. 幸运地, 幸亏", "en": "fortunately", "level": 5000}
+{"id": "w_pursuit", "cn": "n. 追踪, 追求, 追赶, 娱乐, 职业\\n[法] 追捕, 追求", "en": "pursuit", "level": 5000}
+{"id": "w_cutting", "cn": "n. 切断, 切下, 路堑\\n[化] 切屑", "en": "cutting", "level": 5000}
+{"id": "w_chaos", "cn": "n. 大混乱, 混沌\\n[化] 混沌; 浑沌", "en": "chaos", "level": 5000}
+{"id": "w_sue", "cn": "vt. 控告, 起诉, 请求\\nvi. 提出诉讼, 提出请求", "en": "sue", "level": 5000}
+{"id": "w_nowadays", "cn": "n. 现在, 现时, 当今\\nadv. 时下, 现今", "en": "nowadays", "level": 5000}
+{"id": "w_endless", "cn": "a. 不停的, 无穷尽的, 无尽的\\n[机] 无端的, 环状的", "en": "endless", "level": 5000}
+{"id": "w_breakdown", "cn": "n. 崩溃, 故障\\n[化] 事故; 击穿", "en": "breakdown", "level": 5000}
+{"id": "w_invariably", "cn": "adv. 不变化地, 恒定地, 始终如一地", "en": "invariably", "level": 5000}
+{"id": "w_dispose", "cn": "vt. 处理, 排列, 布置\\nvi. 处置", "en": "dispose", "level": 5000}
+{"id": "w_confess", "cn": "v. 承认, 坦白, 忏悔, 供认", "en": "confess", "level": 5000}
+{"id": "w_grace", "cn": "n. 优雅, 风度, 慈悲, 恩惠, 体面, 赦免, 恩典, 谢恩祷告\\nvt. 使优美", "en": "grace", "level": 5000}
+{"id": "w_isolated", "cn": "a. 孤立的, 孤零零的\\n[计] 隔离的, 绝缘的", "en": "isolated", "level": 5000}
+{"id": "w_precious", "cn": "a. 宝贵的, 珍贵的, 过于精致的, 珍爱的", "en": "precious", "level": 5000}
+{"id": "w_miracle", "cn": "n. 奇迹, 奇事", "en": "miracle", "level": 5000}
+{"id": "w_dining", "cn": "n. 正餐, 宴会", "en": "dining", "level": 5000}
+{"id": "w_prejudice", "cn": "n. 偏见, 成见, 侵害\\nvt. 使存偏见, 使有成见, 侵害", "en": "prejudice", "level": 5000}
+{"id": "w_shield", "cn": "n. 盾, 防卫物, 保护者, 屏蔽\\nvt. 保护, 遮蔽, 屏蔽, 庇护, 挡开, 避开\\nvi. 起保护作用", "en": "shield", "level": 5000}
+{"id": "w_wealthy", "cn": "a. 富有的, 丰裕的, 充分的", "en": "wealthy", "level": 5000}
+{"id": "w_scatter", "cn": "n. 消散, 分散, 散播, 散射, 散布, 酒馆\\nvi. 散布, 散播, 消散\\nvt. 使消散, 使分散, 撒, 散布, 散播, 散射\\n[计] 散点图", "en": "scatter", "level": 5000}
+{"id": "w_forthcoming", "cn": "a. 即将来临的\\nn. 来临", "en": "forthcoming", "level": 5000}
+{"id": "w_hedge", "cn": "n. 树篱, 障碍, 套头交易\\nvt. 用树篱围, 套期保值, 妨碍, 两面下注以防...的损失\\nvi. 筑树篱, 躲闪, 两面下注以防损失\\na. 树篱的, 偷偷摸摸的", "en": "hedge", "level": 5000}
+{"id": "w_brass", "cn": "n. 黄铜, 黄铜制品\\na. 黄铜的, 铜管乐器的\\nv. 镀以黄铜, 支付", "en": "brass", "level": 5000}
+{"id": "w_terror", "cn": "n. 恐怖, 可怕的人\\n[医] 惊吓, 惊悸", "en": "terror", "level": 5000}
+{"id": "w_neutral", "cn": "n. 中立者, 中立国, 非彩色, 空档\\na. 中立的, 中性的, 无色的", "en": "neutral", "level": 5000}
+{"id": "w_mature", "cn": "a. 成熟的, 到期的, 充分考虑的\\nvt. 使成熟\\nvi. 成熟, 到期", "en": "mature", "level": 5000}
+{"id": "w_instantly", "cn": "adv. 立即地, 即刻地", "en": "instantly", "level": 5000}
+{"id": "w_holland", "cn": "n. 荷兰", "en": "Holland", "level": 5000}
+{"id": "w_vanish", "cn": "vi. 消失, 不见, 成为零", "en": "vanish", "level": 5000}
+{"id": "w_script", "cn": "n. 手迹, 手稿, 正本, 手写体\\nvt. 改编为演出本\\n[计] 手写体, 小型程序", "en": "script", "level": 5000}
+{"id": "w_virgin", "cn": "n. 处女\\na. 处女的, 贞洁的, 纯洁的, 初始的, 纯的", "en": "virgin", "level": 5000}
+{"id": "w_coincide", "cn": "vi. 一致, 符合\\n[化] 重合", "en": "coincide", "level": 5000}
+{"id": "w_ladder", "cn": "n. 梯, 梯状物, 发迹的途径\\nvi. 袜子抽丝, 成名", "en": "ladder", "level": 5000}
+{"id": "w_lap", "cn": "n. 膝盖, 舔, 一圈, 下摆, 衣兜, 山坳\\nvi. 重叠, 围住, 轻拍, 舔\\nvt. 包围, 抱...在膝上, 使重叠, 舔, 拍打, 泼溅\\n[计] 链接访问程序", "en": "lap", "level": 5000}
+{"id": "w_keeper", "cn": "n. 监护人, 管理人, 看守人\\n[机] 保管人, 看守人, 保持片", "en": "keeper", "level": 5000}
+{"id": "w_catherine", "cn": "n. 轮圈外缘装有倒钩的车轮, 侧翻筋斗, 轮转烟火, 车轮窗", "en": "catherine", "level": 5000}
+{"id": "w_hostile", "cn": "a. 敌人的, 怀敌意的, 敌对的\\nn. 敌对分子", "en": "hostile", "level": 5000}
+{"id": "w_formulate", "cn": "vt. 用公式表示, 明确叙述, 制订\\n[机] 公式化, 公式表示", "en": "formulate", "level": 5000}
+{"id": "w_sponsor", "cn": "n. 保证人, 赞助者, 发起者, 倡议者, 教父\\nvt. 发起, 赞助, 倡议", "en": "sponsor", "level": 5000}
+{"id": "w_correspondence", "cn": "n. 相符, 通信, 信件\\n[医] 对应, 相对", "en": "correspondence", "level": 5000}
+{"id": "w_supper", "cn": "n. 晚餐", "en": "supper", "level": 5000}
+{"id": "w_super", "cn": "n. 跑龙套角色, 冗员, 特级品, 特大号, 管理人\\na. 上等的, 特大的, 超级的, 极好的, 十分的, 过分的\\nadv. 非常", "en": "super", "level": 5000}
+{"id": "w_creep", "cn": "n. 爬, 徐行, 蠕动\\nvi. 爬, 蔓延, 潜行", "en": "creep", "level": 5000}
+{"id": "w_le", "cn": "[计] 小于或等于", "en": "LE", "level": 5000}
+{"id": "w_helicopter", "cn": "n. 直升机\\nvt. 由直升机运送\\nvi. 乘直升机", "en": "helicopter", "level": 5000}
+{"id": "w_contractor", "cn": "n. 立契约的人, 承包商\\n[化] 承包者; 承包工厂", "en": "contractor", "level": 5000}
+{"id": "w_cave", "cn": "n. 洞, 穴\\nvi. 凹陷, 塌落\\nvt. 挖洞, 使凹陷, 损坏...的基础", "en": "cave", "level": 5000}
+{"id": "w_accessible", "cn": "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的", "en": "accessible", "level": 5000}
+{"id": "w_verdict", "cn": "n. 裁决, 判决, 判断性意见, 定论, 结论\\n[法] 定论, 判断, 意见", "en": "verdict", "level": 5000}
+{"id": "w_deem", "cn": "v. 认为, 相信", "en": "deem", "level": 5000}
+{"id": "w_inhabitant", "cn": "n. 居民, 居住者\\n[医] 居民", "en": "inhabitant", "level": 5000}
+{"id": "w_prediction", "cn": "n. 预言, 预报\\n[化] 预测", "en": "prediction", "level": 5000}
+{"id": "w_classify", "cn": "vt. 分类, 归类, 分等\\n[建] 分类, 分级, 分粒", "en": "classify", "level": 5000}
+{"id": "w_lamb", "cn": "n. 小羊, 羔羊\\nv. 产羊羔", "en": "lamb", "level": 5000}
+{"id": "w_candle", "cn": "n. 蜡烛\\nvt. 对着光检查", "en": "candle", "level": 5000}
+{"id": "w_robinson", "cn": "n. 罗宾逊（男子名）", "en": "robinson", "level": 5000}
+{"id": "w_mexico", "cn": "n. 墨西哥", "en": "Mexico", "level": 5000}
+{"id": "w_fist", "cn": "n. 拳头, 手\\nvt. 拳打, 握成拳, 紧握", "en": "fist", "level": 5000}
+{"id": "w_submission", "cn": "n. 屈服, 服从, 谦恭, 呈递, 提交, 意见\\n[经] 提交, 提出, 提交公断", "en": "submission", "level": 5000}
+{"id": "w_turkey", "cn": "n. 火鸡, 无用的家伙, 土耳其", "en": "turkey", "level": 5000}
+{"id": "w_prey", "cn": "n. 被掠食者, 牺牲者\\nvi. 捕食", "en": "prey", "level": 5000}
+{"id": "w_consistently", "cn": "adv. 坚固, 坚实, 一致, 始终如一, 连贯\\n[计] 相容地", "en": "consistently", "level": 5000}
+{"id": "w_predecessor", "cn": "n. 前任, 先辈, 前身\\n[医] 初牙, 前辈, 祖先", "en": "predecessor", "level": 5000}
+{"id": "w_provincial", "cn": "n. 外地人, 粗野的人\\na. 省的, 外地的, 偏狭的", "en": "provincial", "level": 5000}
+{"id": "w_pie", "cn": "n. 馅饼, 财富, 总额, 贪污受贿, 杂乱, 喜鹊\\n[计] 饼图", "en": "pie", "level": 5000}
+{"id": "w_commerce", "cn": "n. 商业, 商务, 贸易\\n[经] 商业, 贸易, 商务", "en": "commerce", "level": 5000}
+{"id": "w_surrey", "cn": "n. 四轮双座轻便游览马车", "en": "surrey", "level": 5000}
+{"id": "w_sterling", "cn": "n. 英国货币, 标准纯银\\na. 英国货币的, 标准纯银的, 含标准成分的", "en": "sterling", "level": 5000}
+{"id": "w_hitherto", "cn": "adv. 迄今, 至今", "en": "hitherto", "level": 5000}
+{"id": "w_undertaking", "cn": "n. 事业, 企业, 保证\\n[经] 企业, 事业, 承担", "en": "undertaking", "level": 5000}
+{"id": "w_coffin", "cn": "n. 棺材, 灵柩\\nvt. 把...装进棺材", "en": "coffin", "level": 5000}
+{"id": "w_notable", "cn": "n. 著名人士, 值得注意之事物\\na. 值得注意的, 显著的", "en": "notable", "level": 5000}
+{"id": "w_equality", "cn": "n. 平等, 均匀, 相等\\n[法] 同等, 平等, 相等", "en": "equality", "level": 5000}
+{"id": "w_transmission", "cn": "n. 传输, 传送, 变速器\\n[计] 传输", "en": "transmission", "level": 5000}
+{"id": "w_marble", "cn": "n. 大理石, 石弹, 雕刻品\\na. 大理石的, 冷酷无情的, 有大理石花纹的", "en": "marble", "level": 5000}
+{"id": "w_endorse", "cn": "vt. 支持, 赞同, 背书于, 签署\\n[经] 赞成, 背书", "en": "endorse", "level": 5000}
+{"id": "w_competence", "cn": "n. 胜任, 职称, 能力\\n[医] 能力, 活性", "en": "competence", "level": 5000}
+{"id": "w_barn", "cn": "n. 谷仓\\n[化] 靶(恩)(核反应截面单位)", "en": "barn", "level": 5000}
+{"id": "w_donald", "cn": "n. 唐纳德（男子名）", "en": "donald", "level": 5000}
+{"id": "w_collar", "cn": "n. 衣领, 颈圈\\nvt. 控制, 扭住衣领, 给...装上领子", "en": "collar", "level": 5000}
+{"id": "w_founder", "cn": "n. 创立者, 建立者\\nvt. 使沉没, 使摔倒, 弄跛, 浸水, 破坏\\nvi. 沉没, 摔到, 变跛, 倒塌, 失败", "en": "founder", "level": 5000}
+{"id": "w_fitness", "cn": "n. 适合, 合宜, 合理, 恰当, 健康\\n[医] 适合性, 适应性", "en": "fitness", "level": 5000}
+{"id": "w_hut", "cn": "n. 小屋, 茅舍, 临时军营\\nv. (使)住在茅舍", "en": "hut", "level": 5000}
+{"id": "w_utility", "cn": "n. 功用, 有用之物, 实用, 公用事业, 实用程序\\na. 实用的, 有多种用途的\\n[计] 实用程序, 工具", "en": "utility", "level": 5000}
+{"id": "w_trophy", "cn": "n. 战利品, 奖品\\nvt. 用战利品装饰", "en": "trophy", "level": 5000}
+{"id": "w_medal", "cn": "n. 奖牌, 勋章\\nvt. 授勋予", "en": "medal", "level": 5000}
+{"id": "w_hollywood", "cn": "n. 好莱坞, 美国电影界, 美国电影工业, 美国式电影", "en": "Hollywood", "level": 5000}
+{"id": "w_jonathan", "cn": "n. 乔纳森（男子名）", "en": "jonathan", "level": 5000}
+{"id": "w_elite", "cn": "n. 精华, 精锐, 中坚分子", "en": "elite", "level": 5000}
+{"id": "w_workforce", "cn": "n. 劳动力；工人总数, 职工总数", "en": "workforce", "level": 5000}
+{"id": "w_dynamic", "cn": "a. 动态的, 有活力的, 有力的, 动力的, 不断变化的\\nn. 动力, 动态\\n[计] 动态的", "en": "dynamic", "level": 5000}
+{"id": "w_recruitment", "cn": "n. 新兵征召\\n[医] 募集[反应], 募集[现象](生理), 复聪(耳科)", "en": "recruitment", "level": 5000}
+{"id": "w_adoption", "cn": "n. 采用, 采纳, 收养\\n[法] 收养, 采纳, 采用", "en": "adoption", "level": 5000}
+{"id": "w_scot", "cn": "n. 摊派的款项, 税赋\\n[化] 涂载体空心柱", "en": "scot", "level": 5000}
+{"id": "w_technological", "cn": "a. 技术的\\n[经] 工艺的, 技术的", "en": "technological", "level": 5000}
+{"id": "w_economist", "cn": "n. 经济学者, 经济家\\n[经] 经济学家", "en": "economist", "level": 5000}
+{"id": "w_kenneth", "cn": "n. 肯尼思（男子名）；[古]英俊的领导者", "en": "kenneth", "level": 5000}
+{"id": "w_broadcasting", "cn": "n. 广播\\n[电] 广播", "en": "broadcasting", "level": 5000}
+{"id": "w_sanction", "cn": "n. 核准, 制裁, 处罚, 约束力\\nvt. 制定制裁规则, 认可, 核准, 同意", "en": "sanction", "level": 5000}
+{"id": "w_rally", "cn": "n. 重振旗鼓, 集合, 群众集会, 跌停回升\\nv. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑", "en": "rally", "level": 5000}
+{"id": "w_charlotte", "cn": "n. 水果奶油布丁", "en": "charlotte", "level": 5000}
+{"id": "w_gay", "cn": "a. 欢快的, 艳丽的, 快乐的, 放荡的", "en": "gay", "level": 5000}
+{"id": "w_dolphin", "cn": "n. 海豚", "en": "dolphin", "level": 5000}
+{"id": "w_advisory", "cn": "a. 顾问的, 咨询的, 劝告的\\n[法] 劝告的, 忠告的, 咨询的", "en": "advisory", "level": 5000}
+{"id": "w_geographical", "cn": "a. 地理学的, 地理的", "en": "geographical", "level": 5000}
+{"id": "w_marshall", "cn": "n. 马歇尔（姓氏, 男子名, 等于Mar'shal）", "en": "Marshall", "level": 5000}
+{"id": "w_f", "cn": "[计] 故障, 假, 法拉, 字段, 标记, 特征, 分数, 频率, 函数, 功能", "en": "F", "level": 5000}
+{"id": "w_johnny", "cn": "n. 男人, 家伙", "en": "johnny", "level": 5000}
+{"id": "w_campbell", "cn": "n. 坎贝尔（姓氏）", "en": "campbell", "level": 5000}
+{"id": "w_karen", "cn": "n. 凯伦（人名）；克伦邦（缅甸邦名）", "en": "karen", "level": 5000}
+{"id": "w_oxfordshire", "cn": "n. 牛津郡", "en": "Oxfordshire", "level": 5000}
+{"id": "w_stitch", "cn": "n. 一针, 疼痛, 针法, 碎布条, 针脚\\nv. 缝, 缝合, 装订", "en": "stitch", "level": 5000}
+{"id": "w_bloke", "cn": "n. 小子, 家伙", "en": "bloke", "level": 5000}
+{"id": "w_owl", "cn": "n. 猫头鹰\\n[法] 走私", "en": "owl", "level": 5000}
+{"id": "w_freud", "cn": "n. 佛洛伊德（856-1939, 奥地利心理分析学家及精神病学家）", "en": "freud", "level": 5000}
+{"id": "w_tumour", "cn": "n. 瘤, 肿块", "en": "tumour", "level": 5000}
+{"id": "w_debut", "cn": "n. 初次登台, 开张\\nv. 初次登台", "en": "debut", "level": 5000}
+{"id": "w_ac", "cn": "公元前\\n[计] 存取周期, 累加器, 声耦合器, 交流, 应用控制, 自动检查, 自动计算机", "en": "AC", "level": 5000}
+{"id": "w_respondent", "cn": "a. 回答的, 应答的, 反射的\\nn. 应答者, 被告", "en": "respondent", "level": 5000}
+{"id": "w_electron", "cn": "n. 电子\\n[化] 电子", "en": "electron", "level": 5000}
+{"id": "w_kuwait", "cn": "n. 科威特", "en": "Kuwait", "level": 5000}
+{"id": "w_hiv", "cn": "abbr. 艾滋病病毒（human immunodeficiency virus）", "en": "hiv", "level": 5000}
+{"id": "w_ph", "cn": "氢离子指数\\n[医] 药典; 苯基", "en": "pH", "level": 5000}
+{"id": "w_corbett", "cn": "科比特（人名）\\n科比特（地名）", "en": "Corbett", "level": 5000}
+{"id": "w_antibody", "cn": "n. 抗体\\n[化] 抗体", "en": "antibody", "level": 5000}
+{"id": "w_workstation", "cn": "n. 工作站\\n[计] 工作站", "en": "workstation", "level": 5000}
+{"id": "w_relieve", "cn": "vt. 减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著\\nvi. 救济, 当替补投手, 呈鲜明突出", "en": "relieve", "level": 5000}
+{"id": "w_handful", "cn": "n. 少数, 一把, 棘手事", "en": "handful", "level": 5000}
+{"id": "w_worthwhile", "cn": "a. 值得花时间的, 值得做的, 有真实价值的", "en": "worthwhile", "level": 5000}
+{"id": "w_vague", "cn": "a. 含糊的, 不清楚的, 茫然的", "en": "vague", "level": 5000}
+{"id": "w_odds", "cn": "n. 可能性, 几率, 机会, 胜算, 不平等", "en": "odds", "level": 5000}
+{"id": "w_portion", "cn": "n. 部分, 一份, 命运, 嫁妆\\nvt. 分配, 给...嫁妆", "en": "portion", "level": 5000}
+{"id": "w_seventh", "cn": "num. 第七, 七分之一", "en": "seventh", "level": 5000}
+{"id": "w_conscience", "cn": "n. 良心\\n[法] 良心, 道德感, 正义感", "en": "conscience", "level": 5000}
+{"id": "w_drinking", "cn": "n. 喝, 喝酒", "en": "drinking", "level": 5000}
+{"id": "w_tobacco", "cn": "n. 烟草, 香烟\\n[医] 烟草", "en": "tobacco", "level": 5000}
+{"id": "w_wisdom", "cn": "n. 智慧, 明智行为, 学识, 名言, 贤人", "en": "wisdom", "level": 5000}
+{"id": "w_regardless", "cn": "a. 不管, 不注意, 不顾", "en": "regardless", "level": 5000}
+{"id": "w_certainty", "cn": "n. 确定, 确实的事情\\n[法] 确定, 肯定, 必然的事", "en": "certainty", "level": 5000}
+{"id": "w_inspect", "cn": "vt. 检查, 检阅, 检验\\nvi. 检查", "en": "inspect", "level": 5000}
+{"id": "w_distress", "cn": "n. 苦恼, 贫困, 痛苦\\nvt. 使苦恼\\na. 亏本出售的", "en": "distress", "level": 5000}
+{"id": "w_fortnight", "cn": "n. 两星期", "en": "fortnight", "level": 5000}
+{"id": "w_circulation", "cn": "n. 流通, 循环, 发行量\\n[化] 环流", "en": "circulation", "level": 5000}
+{"id": "w_suite", "cn": "n. 随员, 套房, (一)组, (一)套, 组曲, 继之而来的事\\n[电] 程序组", "en": "suite", "level": 5000}
+{"id": "w_disturbance", "cn": "n. 扰乱, 不安, 忧虑\\n[化] 扰动; 干扰; 失调", "en": "disturbance", "level": 5000}
+{"id": "w_tighten", "cn": "vt. 勒紧, 使变紧\\nvi. 变紧, 绷紧", "en": "tighten", "level": 5000}
+{"id": "w_ambitious", "cn": "a. 有野心的, 抱负不凡的, 雄心勃勃的", "en": "ambitious", "level": 5000}
+{"id": "w_added", "cn": "a. 额外的；更多的", "en": "added", "level": 5000}
+{"id": "w_straw", "cn": "n. 稻草, 麦管, 吸管, 一文不值的东西, 草帽\\na. 稻草的, 稻草色的, 琐碎的, 无价值的", "en": "straw", "level": 5000}
+{"id": "w_erect", "cn": "a. 直立的, 竖立的, 笔直的\\nvt. 使竖立, 使直立, 树立, 建立\\nvi. 勃起", "en": "erect", "level": 5000}
+{"id": "w_rejection", "cn": "n. 拒绝, 抛弃, 驳回, 被抛弃的东西, 呕出物\\n[化] 报废; 拒收", "en": "rejection", "level": 5000}
+{"id": "w_handling", "cn": "n. 处理\\na. 操作的", "en": "handling", "level": 5000}
+{"id": "w_evidently", "cn": "adv. 明显地, 根据现有证据来看", "en": "evidently", "level": 5000}
+{"id": "w_destination", "cn": "n. 目的地, 目标, 目的\\n[计] 目的文件, 目的单元", "en": "destination", "level": 5000}
+{"id": "w_verbal", "cn": "a. 用言辞的, 言语的, 口头的, 逐字的, 动词的\\n[医] 言语的, 口述的", "en": "verbal", "level": 5000}
+{"id": "w_mask", "cn": "n. 面具, 假面具, 掩饰, 石膏面模\\nvt. 戴面具, 掩饰, 使模糊\\nvi. 化装, 戴面具, 掩饰, 参加化装舞会\\n[计] 屏蔽; 掩码", "en": "mask", "level": 5000}
+{"id": "w_enclose", "cn": "vt. 围绕, 圈起, 放入封套, 附上", "en": "enclose", "level": 5000}
+{"id": "w_discharge", "cn": "vt. 卸下, 放出, 解雇, 拔染, 履行, 放电\\nvi. 卸货, 流出\\nn. 卸货, 流出, 放电", "en": "discharge", "level": 5000}
+{"id": "w_pump", "cn": "n. 抽水机, 打气筒, 泵, 抽吸\\nvt. 用唧筒抽水, 打气, 盘问, 倾注, 使疲惫\\nvi. 抽水, 上下(或往复)运动", "en": "pump", "level": 5000}
+{"id": "w_commence", "cn": "v. (使)开始, 得学位", "en": "commence", "level": 5000}
+{"id": "w_hazard", "cn": "n. 冒险, 危险, 机会\\nvt. 冒...的危险, 赌运气, 使冒危险\\n[计] 相关危险; 冒险", "en": "hazard", "level": 5000}
+{"id": "w_log", "cn": "n. 记录, 圆木, 日志, 计程仪\\nvt. 伐木, 切, 航行\\nvi. 伐木\\n[计] 日志", "en": "log", "level": 5000}
+{"id": "w_elephant", "cn": "n. 象", "en": "elephant", "level": 5000}
+{"id": "w_maturity", "cn": "n. 成熟, 完备, 到期\\n[医] 成熟, 成熟期, 发育期", "en": "maturity", "level": 5000}
+{"id": "w_seldom", "cn": "a. 不常的, 稀少的\\nadv. 很少, 不常", "en": "seldom", "level": 5000}
+{"id": "w_shared", "cn": "a. 共享的", "en": "shared", "level": 5000}
+{"id": "w_precede", "cn": "vt. 在...之前, 优于, 较...优先\\nvi. 在前面", "en": "precede", "level": 5000}
+{"id": "w_legitimate", "cn": "a. 合法的, 正当的, 婚生的\\nvt. 认为正当, 立为嫡嗣, 使合法", "en": "legitimate", "level": 5000}
+{"id": "w_trail", "cn": "n. 踪迹, 痕迹, 一串, 尾部, 小径, 持枪姿势\\nvt. 拖, 尾随, 追踪, 落后于, 开出路\\nvi. 拖曳, 垂下, 落后, 飘出, 蔓生", "en": "trail", "level": 5000}
+{"id": "w_grief", "cn": "n. 伤心, 忧愁, 悲痛, 不幸, 灾难", "en": "grief", "level": 5000}
+{"id": "w_banker", "cn": "n. 银行家, 庄家\\n[经] 银行业者, 银行家", "en": "banker", "level": 5000}
+{"id": "w_switzerland", "cn": "n. 瑞士", "en": "Switzerland", "level": 5000}
+{"id": "w_tuck", "cn": "n. 缝褶, 活力, 鼓声, 船尾突出部, 食品\\nvt. 打褶, 卷起, 挤进, 塞, 收藏\\nvi. 缝褶裥, 缩拢", "en": "tuck", "level": 5000}
+{"id": "w_enquire", "cn": "v. 询问", "en": "enquire", "level": 5000}
+{"id": "w_abortion", "cn": "n. 流产, 堕胎, 失败, 夭折, 中止\\n[医] 流产, 小产; 顿挫", "en": "abortion", "level": 5000}
+{"id": "w_corruption", "cn": "n. 腐败, 堕落, 贪污\\n[计] 论误", "en": "corruption", "level": 5000}
+{"id": "w_restraint", "cn": "n. 抑制, 克制, 束缚\\n[医] 约束, 拘束", "en": "restraint", "level": 5000}
+{"id": "w_mid", "cn": "a. 中间的, 中央的, 中部的\\nprep. 在...之中", "en": "mid", "level": 5000}
+{"id": "w_charm", "cn": "n. 吸引力, 魔力, 符咒\\nvt. 迷住, 使陶醉, 行魔法\\nvi. 用符咒, 有魅力", "en": "charm", "level": 5000}
+{"id": "w_alteration", "cn": "n. 变更, 改动\\n[医] 变更", "en": "alteration", "level": 5000}
+{"id": "w_omit", "cn": "vt. 省略, 删除, 疏忽, 遗漏\\n[化] 省略", "en": "omit", "level": 5000}
+{"id": "w_halt", "cn": "n. 停止, 立定, 休息\\nvt. 使停止, 使立定\\nvi. 立定, 停止, 蹒跚, 踌躇, 有缺点\\n[计] 停止", "en": "halt", "level": 5000}
+{"id": "w_contradiction", "cn": "n. 反驳, 矛盾\\n[法] 矛盾, 否认, 反驳", "en": "contradiction", "level": 5000}
+{"id": "w_suspension", "cn": "n. 悬挂, 暂停, 中止\\n[化] 悬浮; 悬浮体; 悬浮液", "en": "suspension", "level": 5000}
+{"id": "w_vein", "cn": "n. 血管, 静脉, 纹理, 气质, 情绪\\nvt. 使有脉络, 像脉络般分布于", "en": "vein", "level": 5000}
+{"id": "w_petition", "cn": "n. 请愿, 诉状, 陈情书, 申请, 祈求, 祷文\\nv. 正式请求, 恳求, 请愿", "en": "petition", "level": 5000}
+{"id": "w_basin", "cn": "n. 盆, 盆地\\n[医] 第三脑室, 骨盆", "en": "basin", "level": 5000}
+{"id": "w_favourable", "cn": "a. 有用的, 良好的, 赞成的, 顺利的\\n[医] 良好的, 顺利的", "en": "favourable", "level": 5000}
+{"id": "w_expedition", "cn": "n. 远征, 探险队, 迅速", "en": "expedition", "level": 5000}
+{"id": "w_administrator", "cn": "n. 管理人, 行政官\\n[经] 遗产管理人员", "en": "administrator", "level": 5000}
+{"id": "w_plea", "cn": "n. 恳求, 辩解, 抗辩, 诉讼, 请愿, 托词\\n[法] 抗辩, 申诉案件, 答辩", "en": "plea", "level": 5000}
+{"id": "w_integrity", "cn": "n. 正直, 廉正, 完整\\n[计] 完整性", "en": "integrity", "level": 5000}
+{"id": "w_commodity", "cn": "n. 农产品, 商品, 有用的物品\\n[经] 商品, 货物, 日用品", "en": "commodity", "level": 5000}
+{"id": "w_academy", "cn": "n. 学院, 院校, 学会", "en": "academy", "level": 5000}
+{"id": "w_goodness", "cn": "n. 仁慈, 善良", "en": "goodness", "level": 5000}
+{"id": "w_cluster", "cn": "n. 串, 丛, 群, 簇\\nvi. 成串, 丛生\\nvt. 使聚集\\n[计] 簇", "en": "cluster", "level": 5000}
+{"id": "w_auction", "cn": "n. 拍卖\\nvt. 拍卖", "en": "auction", "level": 5000}
+{"id": "w_supplement", "cn": "n. 补充物, 增刊, 补充, 补遗, 补编, 附录, 补角\\nvt. 补充, 增补", "en": "supplement", "level": 5000}
+{"id": "w_profound", "cn": "a. 极深的, 深厚的, 深刻的, 渊博的", "en": "profound", "level": 5000}
+{"id": "w_depict", "cn": "vt. 描述, 描写", "en": "depict", "level": 5000}
+{"id": "w_dawn", "cn": "n. 破晓, 黎明\\nvi. 破晓", "en": "dawn", "level": 5000}
+{"id": "w_parking", "cn": "n. 停车\\na. 停车的", "en": "parking", "level": 5000}
+{"id": "w_naval", "cn": "a. 海军的, 军舰的, 有舰队的\\n[法] 海军的, 军舰的, 船的", "en": "naval", "level": 5000}
+{"id": "w_daniel", "cn": "n. 丹尼尔（男子名）", "en": "daniel", "level": 5000}
+{"id": "w_tile", "cn": "n. 砖瓦, 瓷砖, 瓦片\\nvt. 铺以瓦, 铺以瓷砖\\n[计] 平铺", "en": "tile", "level": 5000}
+{"id": "w_pulse", "cn": "n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类\\nvi. 跳动, 脉跳\\nvt. 使跳动, 用脉冲调制\\n[计] 脉冲", "en": "pulse", "level": 5000}
+{"id": "w_manual", "cn": "n. 手册, 指南\\na. 手的, 手动的, 手工的, 体力的\\n[计] 人工的, 手动的", "en": "manual", "level": 5000}
+{"id": "w_norwich", "cn": "n. 诺威奇（英国城市）", "en": "norwich", "level": 5000}
+{"id": "w_norway", "cn": "n. 挪威", "en": "Norway", "level": 5000}
+{"id": "w_mining", "cn": "n. 采矿\\n[经] 采矿, 采矿业", "en": "mining", "level": 5000}
+{"id": "w_originate", "cn": "vt. 创始, 发明, 发起\\nvi. 发源, 发生, 起航\\n[计] 发自", "en": "originate", "level": 5000}
+{"id": "w_brussels", "cn": "n. 布鲁塞尔", "en": "Brussels", "level": 5000}
+{"id": "w_moor", "cn": "n.荒野；旷野\\nMoor: 摩尔人.\\nv.系住；停泊", "en": "moor", "level": 5000}
+{"id": "w_embassy", "cn": "n. 大使馆, 大使馆全体人员\\n[经] 大使馆", "en": "embassy", "level": 5000}
+{"id": "w_regiment", "cn": "n. （军队）团, 大量（人或物）\\nv. 组编成团，组织，严格管制", "en": "regiment", "level": 5000}
+{"id": "w_chelsea", "cn": "n. 切尔西（伦敦自治城市, 为文艺界人士聚居地）", "en": "chelsea", "level": 5000}
+{"id": "w_developed", "cn": "a. 发达的（国家或地区）；成熟的", "en": "developed", "level": 5000}
+{"id": "w_custody", "cn": "n. 监护, 拘留, 监禁\\n[经] 保管, 照顾, 保护", "en": "custody", "level": 5000}
+{"id": "w_terrorist", "cn": "n. 恐怖分子\\n[法] 恐怖份子, 恐怖主义", "en": "terrorist", "level": 5000}
+{"id": "w_electronics", "cn": "n. 电子学\\n[计] 电子学", "en": "electronics", "level": 5000}
+{"id": "w_brighton", "cn": "n. 布赖顿（英国南部城市）", "en": "brighton", "level": 5000}
+{"id": "w_handicap", "cn": "n. 障碍, 困难, 不利条件\\nvt. 加障碍于, 妨碍", "en": "handicap", "level": 5000}
+{"id": "w_milton", "cn": "n. 米尔顿（男子名, 英国诗人）", "en": "milton", "level": 5000}
+{"id": "w_manor", "cn": "n. 庄园\\n[法] 采邑, 庄园, 采地", "en": "manor", "level": 5000}
+{"id": "w_defect", "cn": "n. 缺点\\n[医] 缺损, 缺陷", "en": "defect", "level": 5000}
+{"id": "w_segment", "cn": "n. 片段, 部分, 分节, 段\\nv. 分割, 分裂\\n[计] 段", "en": "segment", "level": 5000}
+{"id": "w_breeze", "cn": "n. 微风, 煤屑, 轻而易举的事\\nvi. 吹微风, 逃走", "en": "breeze", "level": 5000}
+{"id": "w_hamilton", "cn": "n. 汉密尔顿（男子名）；哈密尔顿（美国城市名）", "en": "hamilton", "level": 5000}
+{"id": "w_mobility", "cn": "n. 可动性, 流动性, 机动性\\n[化] 迁移率", "en": "mobility", "level": 5000}
+{"id": "w_anderson", "cn": "n. 安德森市（美国印第安纳州）；安德森（男子名）", "en": "anderson", "level": 5000}
+{"id": "w_spine", "cn": "n. 背骨, 脊柱, 尖刺\\n[医] 脊柱; 棘, 刺; 马蹄嵴", "en": "spine", "level": 5000}
+{"id": "w_lounge", "cn": "n. 闲逛, 休闲室, 长沙发\\nvi. 闲混, (懒洋洋地)躺\\nvt. 闲混", "en": "lounge", "level": 5000}
+{"id": "w_imprisonment", "cn": "n. 监禁, 下狱, 坐牢\\n[法] 监禁, 徒刑, 拘禁", "en": "imprisonment", "level": 5000}
+{"id": "w_dennis", "cn": "n. 丹尼斯（男子名）", "en": "dennis", "level": 5000}
+{"id": "w_hungary", "cn": "n. 匈牙利", "en": "Hungary", "level": 5000}
+{"id": "w_duncan", "cn": "n. 邓肯（姓氏）", "en": "duncan", "level": 5000}
+{"id": "w_colonial", "cn": "a. 殖民的, 殖民地的\\n[法] 殖民地居民", "en": "colonial", "level": 5000}
+{"id": "w_newton", "cn": "n. 牛顿\\n[化] 牛顿", "en": "newton", "level": 5000}
+{"id": "w_magnetic", "cn": "a. 有磁性的, 有吸引力的, 催眠术的\\n[医] 磁[性]的", "en": "magnetic", "level": 5000}
+{"id": "w_jordan", "cn": "n. 约旦, 约旦河, 尿壶", "en": "jordan", "level": 5000}
+{"id": "w_bureaucracy", "cn": "n. 官僚, 官吏\\n[法] 官僚主义, 官僚政治, 官僚机构", "en": "bureaucracy", "level": 5000}
+{"id": "w_ballet", "cn": "n. 芭蕾舞", "en": "ballet", "level": 5000}
+{"id": "w_sally", "cn": "n. 突击, 出击, 远足\\nvi. 突击, 出击, 出发", "en": "sally", "level": 5000}
+{"id": "w_prevention", "cn": "n. 阻止, 妨碍, 预防\\n[医] 预防", "en": "prevention", "level": 5000}
+{"id": "w_roberts", "cn": "n. 罗伯茨（姓氏）", "en": "roberts", "level": 5000}
+{"id": "w_tourism", "cn": "n. 观光业, 游览\\n[经] 旅游业", "en": "tourism", "level": 5000}
+{"id": "w_emma", "cn": "n. 艾玛（女子名）", "en": "emma", "level": 5000}
+{"id": "w_voting", "cn": "n. 投票, 选举\\na. 投票的, 选举的", "en": "voting", "level": 5000}
+{"id": "w_takeover", "cn": "n. 接管, 接收\\n[经] 接收", "en": "takeover", "level": 5000}
+{"id": "w_louise", "cn": "n. 路易丝（女子名）", "en": "louise", "level": 5000}
+{"id": "w_julia", "cn": "n. 朱莉娅（女子名）", "en": "julia", "level": 5000}
+{"id": "w_bowel", "cn": "n. 肠, 内脏, 内部\\nvt. 挖...的内脏", "en": "bowel", "level": 5000}
+{"id": "w_tremble", "cn": "n. 战栗, 颤抖\\nvi. 战栗, 忧虑, 摇晃", "en": "tremble", "level": 5000}
+{"id": "w_thigh", "cn": "n. 大腿, 股\\n[医] 股, 大腿", "en": "thigh", "level": 5000}
+{"id": "w_mick", "cn": "n. 爱尔兰人", "en": "Mick", "level": 5000}
+{"id": "w_composer", "cn": "n. 作曲家, 作家, 调停者", "en": "composer", "level": 5000}
+{"id": "w_inequality", "cn": "n. 不平等, 不同, 不平坦, 不平均\\nn. 不平等, 不等式\\n[计] 不等式", "en": "inequality", "level": 5000}
+{"id": "w_squadron", "cn": "n. 骑兵营, 分遣队, 小舰队", "en": "squadron", "level": 5000}
+{"id": "w_loch", "cn": "n. 湖, 海湾", "en": "loch", "level": 5000}
+{"id": "w_gloucestershire", "cn": "格洛斯特郡[英国英格兰郡名]", "en": "Gloucestershire", "level": 5000}
+{"id": "w_nato", "cn": "北大西洋公约组织, 北约组织\\n[经] 北大西洋公约组织", "en": "NATO", "level": 5000}
+{"id": "w_quid", "cn": "n. 一镑金币, 一镑, 咀嚼物", "en": "quid", "level": 5000}
+{"id": "w_m", "cn": "[计] 尾数, 主要, 媒体, 介质, 中等, 存储器, 方式, 分, 模, 乘法器, 兆, 毫\\n[医] 容积克分子(溶液), 容模的", "en": "M", "level": 5000}
+{"id": "w_ulcer", "cn": "n. 溃疡, 腐烂物\\n[医] 溃疡", "en": "ulcer", "level": 5000}
+{"id": "w_empirical", "cn": "a. 完全跟据经验的, 经验主义的\\n[医] 经验主义的", "en": "empirical", "level": 5000}
+{"id": "w_referendum", "cn": "n. （就重大政治或社会问题进行的）全民公决，全民投票", "en": "referendum", "level": 5000}
+{"id": "w_israeli", "cn": "a. 以色列的, 以色列人(语)的\\nn. 以色列人", "en": "Israeli", "level": 5000}
+{"id": "w_reportedly", "cn": "adv. 根据传说, 根据传闻, 据报道", "en": "reportedly", "level": 5000}
+{"id": "w_vol", "cn": "[计] DOS外部命令:显示卷标及其序号", "en": "VOL", "level": 5000}
+{"id": "w_ca", "cn": "[医] 钙(20号元素); 阴极, 负极", "en": "Ca", "level": 5000}
+{"id": "w_desktop", "cn": "n. 桌面\\n[计] 桌面", "en": "desktop", "level": 5000}
+{"id": "w_kinnock", "cn": "n. (Kinnock)人名；(英)金诺克", "en": "Kinnock", "level": 5000}
+{"id": "w_fa", "cn": "(英国)足球协会, 战地救护车, 野战救护队, 野战炮, 野战炮兵, 美术, 急救\\n[医] 脂肪酸", "en": "FA", "level": 5000}
+{"id": "w_gen", "cn": "n. 消息, 真相, 情报\\n[医] 基因, 遗传因子", "en": "gen", "level": 5000}
+{"id": "w_meantime", "cn": "n. 间隔时间, 其时\\nadv. 其间", "en": "meantime", "level": 5000}
+{"id": "w_weaken", "cn": "vt. 削弱, 减弱, 使虚弱\\nvi. 变弱, 变软弱", "en": "weaken", "level": 5000}
+{"id": "w_fatal", "cn": "a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的\\n[医] 致命的, 致死的", "en": "fatal", "level": 5000}
+{"id": "w_compensate", "cn": "v. 偿还, 补偿, 付报酬", "en": "compensate", "level": 5000}
+{"id": "w_onwards", "cn": "adv. 向前, 在前面", "en": "onwards", "level": 5000}
+{"id": "w_barrel", "cn": "n. 桶\\nvt. 装入桶内", "en": "barrel", "level": 5000}
+{"id": "w_bow", "cn": "n. 弓, 眼睛框\\nv. 用弓拉琴, 弯成弓形\\nn. 鞠躬, 屈服", "en": "bow", "level": 5000}
+{"id": "w_bold", "cn": "a. 大胆的\\nn. 粗体\\n[计] 粗体", "en": "bold", "level": 5000}
+{"id": "w_rigid", "cn": "a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的", "en": "rigid", "level": 5000}
+{"id": "w_peculiar", "cn": "a. 奇特的, 罕见的, 特殊的, 特别的\\nn. 特有财产, 特权", "en": "peculiar", "level": 5000}
+{"id": "w_neglect", "cn": "n. 疏忽, 忽略, 漏做\\nvt. 疏忽, 忽视, 不顾", "en": "neglect", "level": 5000}
+{"id": "w_shed", "cn": "n. 车棚, 小屋, 脱落之物, 分水岭\\nvt. 使流出, 放射, 脱落, 散发, 摆脱\\nvi. 流出, 散布, 脱落", "en": "shed", "level": 5000}
+{"id": "w_making", "cn": "n. 制造, (手工)制造业, 制作, 形成, 发展, 要素, 内在因素, 赚头, 制造物", "en": "making", "level": 5000}
+{"id": "w_fare", "cn": "n. 费用, 旅客, 食物\\nvi. 进展, 进步, 经营, 过活", "en": "fare", "level": 5000}
+{"id": "w_circulate", "cn": "v. (使)流通, (使)循环, (使)传播", "en": "circulate", "level": 5000}
+{"id": "w_spill", "cn": "n. 溢出, 溅出, 摔下, 溢出量, 木片, 小塞子\\nvt. 使溢出, 使散落, 洒, 使流出, 倒出, 使摔下\\nvi. 溢出, 涌流, 摔下", "en": "spill", "level": 5000}
+{"id": "w_profitable", "cn": "a. 有利润的, 有利益的, 赚钱的\\n[经] 有利(可图)的, 合算的", "en": "profitable", "level": 5000}
+{"id": "w_headline", "cn": "n. 大标题, 新闻摘要\\nvt. 为...做标题, 写标题", "en": "headline", "level": 5000}
+{"id": "w_deprive", "cn": "vt. 剥夺, 使丧失\\n[法] 剥夺, 剥夺, 夺去", "en": "deprive", "level": 5000}
+{"id": "w_warehouse", "cn": "n. 仓库, 货栈, 大商店\\nvt. 储入仓库", "en": "warehouse", "level": 5000}
+{"id": "w_drown", "cn": "vi. 淹死\\nvt. 把...淹死, 淹没", "en": "drown", "level": 5000}
+{"id": "w_lecturer", "cn": "n. 演讲者, 讲师\\n[法] 讲演人, 讲课人, 讲师", "en": "lecturer", "level": 5000}
+{"id": "w_bucket", "cn": "n. 桶\\n[计] 存储桶; 桶", "en": "bucket", "level": 5000}
+{"id": "w_compact", "cn": "a. 紧凑的, 紧密的, 简洁的\\nvt. 使紧密结合, 压缩\\nvi. 变坚实", "en": "compact", "level": 5000}
+{"id": "w_embark", "cn": "vi. 乘船, 着手, 从事, 上飞机\\nvt. 使上船, 使上飞机, 使从事", "en": "embark", "level": 5000}
+{"id": "w_depart", "cn": "vi. 离开, 出发, 背离, 违反, 去世", "en": "depart", "level": 5000}
+{"id": "w_irrelevant", "cn": "a. 不恰当的, 无关系的, 不相干的\\n[法] 无关的, 不相干的, 离题的", "en": "irrelevant", "level": 5000}
+{"id": "w_inspiration", "cn": "n. 灵感, 鼓舞人心的人或物, 妙计, 吸气\\n[医] 吸[气]", "en": "inspiration", "level": 5000}
+{"id": "w_extended", "cn": "a. 延续的, 伸出的, 竭尽全力的, 广大的, 扩大范围的\\n[法] 展期的, 延期的, 延长的", "en": "extended", "level": 5000}
+{"id": "w_eager", "cn": "a. 热心的, 渴望的, 热望的", "en": "eager", "level": 5000}
+{"id": "w_crude", "cn": "a. 天然的, 未成熟的, 粗糙的, 粗鲁的\\nn. 天然的物质", "en": "crude", "level": 5000}
+{"id": "w_summon", "cn": "vt. 召唤, 召集, 号召, 振奋, 唤起, 鼓起\\n[经] 传唤, 传讯", "en": "summon", "level": 5000}
+{"id": "w_lifestyle", "cn": "n. 生活方式", "en": "lifestyle", "level": 5000}
+{"id": "w_outlet", "cn": "n. 出口, 发泄方法, 市场\\n[医] 出口", "en": "outlet", "level": 5000}
+{"id": "w_dick", "cn": "n. 家伙, 词典, 誓言(书)\\n[医] 二氯乙胂(毒气)", "en": "dick", "level": 5000}
+{"id": "w_belgium", "cn": "n. 比利时", "en": "Belgium", "level": 5000}
+{"id": "w_passive", "cn": "a. 消极的, 被动的, 冷漠的, 顺从的, 无源的\\n[医] 被动的", "en": "passive", "level": 5000}
+{"id": "w_interference", "cn": "n. 冲突, 干涉\\n[计] 干扰", "en": "interference", "level": 5000}
+{"id": "w_beast", "cn": "n. 畜生, 动物, 野兽, 兽性", "en": "beast", "level": 5000}
+{"id": "w_symbolic", "cn": "a. 象征的, 符号的\\n[电] 符号化", "en": "symbolic", "level": 5000}
+{"id": "w_ritual", "cn": "n. 仪式, 典礼, 宗教仪式\\na. 仪式的, 依仪式进行的", "en": "ritual", "level": 5000}
+{"id": "w_skull", "cn": "n. 头盖骨, 头脑, 好学生\\n[医] 头颅", "en": "skull", "level": 5000}
+{"id": "w_dealing", "cn": "n. 经营行为, 行为, 交易\\n[法] 待遇, 处置, 行为", "en": "dealing", "level": 5000}
+{"id": "w_overwhelming", "cn": "a. 压倒性的, 无法抵抗的", "en": "overwhelming", "level": 5000}
+{"id": "w_widen", "cn": "vt. 弄宽, 加宽, 扩大\\nvi. 变宽, 扩大", "en": "widen", "level": 5000}
+{"id": "w_obstacle", "cn": "n. 障碍, 妨害物, 阻碍", "en": "obstacle", "level": 5000}
+{"id": "w_diminish", "cn": "v. (使)减少, (使)变小", "en": "diminish", "level": 5000}
+{"id": "w_stem", "cn": "n. 茎, 干, 柄, 船首, 血统, 堵塞物\\nvt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行\\nvi. 堵住, 逆行", "en": "stem", "level": 5000}
+{"id": "w_revive", "cn": "vt. 使苏醒, 使复兴, 使振奋, 回想起, 重播\\nvi. 苏醒, 复活, 复兴, 恢复精神", "en": "revive", "level": 5000}
+{"id": "w_reassure", "cn": "vt. 使...安心, 向...再保证\\n[法] 重新保证, 再保险, 使清除疑虑", "en": "reassure", "level": 5000}
+{"id": "w_transmit", "cn": "vt. 传输, 传染, 传达, 遗传, 发射, 传播\\nvi. 发射信号, 留传下来\\n[计] 传送", "en": "transmit", "level": 5000}
+{"id": "w_stall", "cn": "n. 厩, 停车处, 牧师职位, 货摊, 托辞, 拖延\\nvt. 关入厩, 停顿, 推托, 支吾, 使陷于泥中\\nvi. 被关在厩内, 陷于泥中, 停止, 支吾", "en": "stall", "level": 5000}
+{"id": "w_plunge", "cn": "n. 钻进, 跳进, 跳水, 跳水池, 猛跌, 落下, 投入, 开始从事, 盲目投资\\nvi. 投入, 投身于, 跳进, 陷入, 下降\\nvt. 使投入, 使插入, 使陷入, 使遭受", "en": "plunge", "level": 5000}
+{"id": "w_treasure", "cn": "n. 宝物, 财富\\nvt. 珍爱, 重视, 秘藏", "en": "treasure", "level": 5000}
+{"id": "w_excess", "cn": "n. 过度, 剩于, 超过, 超额\\na. 过量的, 额外的", "en": "excess", "level": 5000}
+{"id": "w_canvas", "cn": "n. 帆布, 画布, 油画\\n[化] 帆布", "en": "canvas", "level": 5000}
+{"id": "w_activate", "cn": "vt. 使活动, 使激活, 正式建成\\nvi. 有活力", "en": "activate", "level": 5000}
+{"id": "w_suppress", "cn": "vt. 镇压, 使止住, 禁止, 抑制, 查禁\\n[法] 镇压, 平定, 禁止出版", "en": "suppress", "level": 5000}
+{"id": "w_immense", "cn": "a. 极广大的, 无边的, 非常好的", "en": "immense", "level": 5000}
+{"id": "w_arouse", "cn": "vt. 唤醒, 鼓励, 引起\\nvi. 醒来", "en": "arouse", "level": 5000}
+{"id": "w_minimal", "cn": "a. 最小的, 极微的, 最小限度的\\n[医] 最小的, 最低的", "en": "minimal", "level": 5000}
+{"id": "w_revelation", "cn": "n. 揭露, 泄露, 发觉, 默示, 启示", "en": "revelation", "level": 5000}
+{"id": "w_neighbouring", "cn": "a. 邻近的, 接壤的, 附近的\\n[法] 邻近的, 附近的, 接壤的", "en": "neighbouring", "level": 5000}
+{"id": "w_dilemma", "cn": "n. 困境, (进退两难的)窘境", "en": "dilemma", "level": 5000}
+{"id": "w_clarify", "cn": "vi. 澄清, 阐明\\nvt. 使明晰", "en": "clarify", "level": 5000}
+{"id": "w_frontier", "cn": "n. 边界, 边境\\n[法] 国境, 边境, 边界", "en": "frontier", "level": 5000}
+{"id": "w_charming", "cn": "a. 迷人的, 有吸引力的", "en": "charming", "level": 5000}
+{"id": "w_canadian", "cn": "a. 加拿大的", "en": "Canadian", "level": 5000}
+{"id": "w_productive", "cn": "a. 能生产的, 有生产价值的, 多产的\\n[医] 产出性的, 产生性的", "en": "productive", "level": 5000}
+{"id": "w_entail", "cn": "vt. 使成为必需, 需要, 使承担, 遗传给\\nn. 限定继承", "en": "entail", "level": 5000}
+{"id": "w_motorway", "cn": "n. 高速公路", "en": "motorway", "level": 5000}
+{"id": "w_stanley", "cn": "n. 斯坦利（男子名）", "en": "stanley", "level": 5000}
+{"id": "w_kennedy", "cn": "n. 肯尼迪（姓氏, 美国第35任总统）", "en": "kennedy", "level": 5000}
+{"id": "w_strand", "cn": "n. (绳索的)股, 绳, 串, 海滨, 河岸\\nvi. 搁浅\\nvt. 使搁浅, 使落后, 使陷于困境, 弄断, 搓", "en": "strand", "level": 5000}
+{"id": "w_occurrence", "cn": "n. 发生, 事件, 出现\\n[医] 发生", "en": "occurrence", "level": 5000}
+{"id": "w_layout", "cn": "n. 布局, 陈列, 规划图, 页面布局, 版面编排\\n[计] 页面布局, 版面", "en": "layout", "level": 5000}
+{"id": "w_injection", "cn": "n. 注射, 注射剂\\n[化] 注入; 注射", "en": "injection", "level": 5000}
+{"id": "w_compile", "cn": "vt. 编译, 编辑, 编纂, 收集\\n[计] 编译", "en": "compile", "level": 5000}
+{"id": "w_moderate", "cn": "a. 适度的, 稳健的, 中等的, 节制的\\nvt. 节制, 减轻, 使缓和\\nvi. 变缓和, 主持会议", "en": "moderate", "level": 5000}
+{"id": "w_thereafter", "cn": "adv. 其后, 从那时以后", "en": "thereafter", "level": 5000}
+{"id": "w_dreadful", "cn": "a. 可怕的", "en": "dreadful", "level": 5000}
+{"id": "w_bang", "cn": "n. 重击, 突然巨响, 刘海\\nv. 发巨响, 重击\\nadv. 砰然地, 突然巨响地, 直接地\\n[计] 撞击符", "en": "bang", "level": 5000}
+{"id": "w_norfolk", "cn": "n. 诺福克(英格兰郡名)", "en": "Norfolk", "level": 5000}
+{"id": "w_fling", "cn": "n. 投掷, 急冲, 嘲弄\\nvt. 投, 丢下, 抛弃, 使陷入, 挥动, 嘲笑, 扫视\\nvi. 猛冲", "en": "fling", "level": 5000}
+{"id": "w_registered", "cn": "a. 注册的, 登记过的, 记名的, 挂号的\\n[法] 已注册的, 已登记的, 挂号的", "en": "registered", "level": 5000}
+{"id": "w_beneficial", "cn": "a. 有益的, 受益的\\n[经] 有使用权的, 可享利益的", "en": "beneficial", "level": 5000}
+{"id": "w_davis", "cn": "n. 戴维斯（男子名）", "en": "davis", "level": 5000}
+{"id": "w_churchill", "cn": "n. 邱吉尔", "en": "Churchill", "level": 5000}
+{"id": "w_thrust", "cn": "n. 插, 戳, 刺, 猛推, 口头攻击, 推力\\nvt. 插入, 猛推, 刺, 戳, 强加, 延伸\\nvi. 插, 刺, 戳, 延伸, (用力)推", "en": "thrust", "level": 5000}
+{"id": "w_coastal", "cn": "a. 海岸的, 沿海的, 沿岸的\\n[法] 海岸的, 沿海的", "en": "coastal", "level": 5000}
+{"id": "w_amend", "cn": "vt. 修改, 改善, 改良\\nvi. 改过自新", "en": "amend", "level": 5000}
+{"id": "w_comparative", "cn": "a. 比较的, 相对的\\nn. 对手", "en": "comparative", "level": 5000}
+{"id": "w_albeit", "cn": "conj. 尽管, 虽然", "en": "albeit", "level": 5000}
+{"id": "w_popularity", "cn": "n. 名声, 受大众欢迎, 流行", "en": "popularity", "level": 5000}
+{"id": "w_lawn", "cn": "n. 草地, 草坪, 上等细麻布\\n[机] 细筛", "en": "lawn", "level": 5000}
+{"id": "w_ferry", "cn": "n. 渡船, 渡口\\n[法] 摆渡营业权, 轮渡", "en": "ferry", "level": 5000}
+{"id": "w_selected", "cn": "a. 挑选出来的, 精选的\\n[计] 被选的", "en": "selected", "level": 5000}
+{"id": "w_racial", "cn": "a. 人种的, 种族的\\n[医] 种族的", "en": "racial", "level": 5000}
+{"id": "w_booking", "cn": "n. 预约演出合同\\n[机] 书型模法", "en": "booking", "level": 5000}
+{"id": "w_spencer", "cn": "n. 针织短外衣, 斜桁纵帆", "en": "spencer", "level": 5000}
+{"id": "w_manuscript", "cn": "n. 手稿, 原稿, 底稿\\na. 手写的", "en": "manuscript", "level": 5000}
+{"id": "w_graph", "cn": "n. 曲线图, 图表, 图形\\n[计] 图形", "en": "graph", "level": 5000}
+{"id": "w_dwelling", "cn": "n. 住处\\n[医] 住房", "en": "dwelling", "level": 5000}
+{"id": "w_turkish", "cn": "n. 土耳其语\\na. 土耳其的, 土耳其人的, 土耳其语的", "en": "Turkish", "level": 5000}
+{"id": "w_continuity", "cn": "n. 连续性\\n[化] 连续性", "en": "continuity", "level": 5000}
+{"id": "w_planned", "cn": "a. 计划了的, 预定的, 根据计划的, 有组织的\\n[法] 有计划的, 计划的, 有秩序的", "en": "planned", "level": 5000}
+{"id": "w_tribe", "cn": "n. 宗族, 部落, 一群人\\n[医] 族(生物分类)", "en": "tribe", "level": 5000}
+{"id": "w_thou", "cn": "pron. 汝, 你, 尔", "en": "thou", "level": 5000}
+{"id": "w_quota", "cn": "n. 配额, 限额\\n[化] 定额", "en": "quota", "level": 5000}
+{"id": "w_reduced", "cn": "a. 减少的；简化的；缩减的", "en": "reduced", "level": 5000}
+{"id": "w_heir", "cn": "n. 继承人, 嗣子, 后嗣\\n[法] 继承人, 后嗣", "en": "heir", "level": 5000}
+{"id": "w_slam", "cn": "n. 砰然声, 猛然, 猛烈的抨击\\nvt. 猛然关上, 砰地关上, 猛烈抨击\\nvi. 砰地关上, 猛攻", "en": "slam", "level": 5000}
+{"id": "w_habitat", "cn": "n. 栖息地, 居留地, 自生地, 聚集处\\n[医] 习生地, 产地, 生境, 栖所", "en": "habitat", "level": 5000}
+{"id": "w_bias", "cn": "n. 偏见, 斜纹\\na. 偏斜的\\nadv. 偏斜\\nvt. 使有偏见\\n[计] 偏流; 偏压; 偏磁; 偏离", "en": "bias", "level": 5000}
+{"id": "w_thompson", "cn": "n. 汤普森（姓）", "en": "thompson", "level": 5000}
+{"id": "w_diameter", "cn": "n. 直径\\n[医] 直经, 径", "en": "diameter", "level": 5000}
+{"id": "w_ambassador", "cn": "n. 大使\\n[法] 大使, 使节, 代理", "en": "ambassador", "level": 5000}
+{"id": "w_protocol", "cn": "n. 草案, 礼仪, 协议\\nv. 拟定\\n[计] 协议, 协议列表实用程序", "en": "protocol", "level": 5000}
+{"id": "w_fox", "cn": "n. 狐狸, 狡猾的人\\nvi. 奸狡地行动, (书页)生斑, 变酸\\nvt. 欺骗, 使变酸, 为(鞋等)换面, 使生黄斑", "en": "fox", "level": 5000}
+{"id": "w_betty", "cn": "n. 贝蒂（女子名）", "en": "betty", "level": 5000}
+{"id": "w_collaboration", "cn": "n. 合作, 勾结\\n[法] 通敌卖国者, 奸细", "en": "collaboration", "level": 5000}
+{"id": "w_sexuality", "cn": "n. 性征, 性行为, 性欲\\n[医] 性别, 性欲", "en": "sexuality", "level": 5000}
+{"id": "w_eyebrow", "cn": "n. 眉毛\\n[医] 眉", "en": "eyebrow", "level": 5000}
+{"id": "w_yacht", "cn": "n. 快艇, 游艇\\nvi. 驾游艇, 乘游艇", "en": "yacht", "level": 5000}
+{"id": "w_faction", "cn": "n. 小派系, 内讧\\n[法] 宗派, 派别, 小集团", "en": "faction", "level": 5000}
+{"id": "w_psychologist", "cn": "n. 心理学家\\n[医] 心理学家", "en": "psychologist", "level": 5000}
+{"id": "w_alison", "cn": "n. 艾莉森（女子名）", "en": "alison", "level": 5000}
+{"id": "w_aberdeen", "cn": "n. 亚伯丁（英国苏格兰一郡 ）；苏格兰粗毛猎狐狗（等于Aberdeenterrier）", "en": "aberdeen", "level": 5000}
+{"id": "w_diesel", "cn": "n. 内燃机, 柴油机, 柴油", "en": "diesel", "level": 5000}
+{"id": "w_validity", "cn": "n. 有效性, 正确性\\n[计] 有效性", "en": "validity", "level": 5000}
+{"id": "w_applicable", "cn": "a. 合适的, 可应用的\\n[法] 适用的, 适应的", "en": "applicable", "level": 5000}
+{"id": "w_corresponding", "cn": "a. 相当的, 一致的, 通信的\\n[计] 对应", "en": "corresponding", "level": 5000}
+{"id": "w_commentator", "cn": "n. 评论员, 实况广播员, 注释者, 时事评论员", "en": "commentator", "level": 5000}
+{"id": "w_forehead", "cn": "n. 额, 前额, 前部\\n[医] 额", "en": "forehead", "level": 5000}
+{"id": "w_valuation", "cn": "n. 评价, 估价, 价值判断\\n[经] 估价, 计价, 评价", "en": "valuation", "level": 5000}
+{"id": "w_resulting", "cn": "[计] 结果的, 合成的", "en": "resulting", "level": 5000}
+{"id": "w_referee", "cn": "n. 仲裁人, 调解人, 裁判员\\nv. 仲裁, 裁判", "en": "referee", "level": 5000}
+{"id": "w_taxpayer", "cn": "n. 纳税人\\n[法] 纳税人, 纳税义务人", "en": "taxpayer", "level": 5000}
+{"id": "w_fossil", "cn": "n. 化石, 古物\\na. 化石的, 陈腐的, 守旧的", "en": "fossil", "level": 5000}
+{"id": "w_characterise", "cn": "vt. 表示...的特性, 成为/是...的特性, 刻划/描述...的性格\\nvi. 在文艺作品中塑造人物, 描绘性格", "en": "characterise", "level": 5000}
+{"id": "w_netherlands", "cn": "n. 荷兰", "en": "Netherlands", "level": 5000}
+{"id": "w_migration", "cn": "n. 移民, 移往, 移动\\n[计] 迁移", "en": "migration", "level": 5000}
+{"id": "w_verb", "cn": "n. 动词\\n[计] 动词", "en": "verb", "level": 5000}
+{"id": "w_diversity", "cn": "n. 差异, 多样性\\n[化] 多样性", "en": "diversity", "level": 5000}
+{"id": "w_julie", "cn": "n. 朱莉（女子名）", "en": "julie", "level": 5000}
+{"id": "w_yugoslavia", "cn": "n. 南斯拉夫\\n[经] 南斯拉夫", "en": "Yugoslavia", "level": 5000}
+{"id": "w_librarian", "cn": "n. 图书馆员, 图书管理员\\n[计] 程序库管理程序; 程序库生成程序", "en": "librarian", "level": 5000}
+{"id": "w_feminist", "cn": "n. 男女平等主义者", "en": "feminist", "level": 5000}
+{"id": "w_retailer", "cn": "n. 零售商人, 传播的人\\n[经] 零售商", "en": "retailer", "level": 5000}
+{"id": "w_bacterium", "cn": "n. 细菌\\n[医] [无芽胞]杆菌属", "en": "bacterium", "level": 5000}
+{"id": "w_clergy", "cn": "n. 牧师, 僧侣, 神职人员", "en": "clergy", "level": 5000}
+{"id": "w_rug", "cn": "n. 小块地毯, 揭露某人", "en": "rug", "level": 5000}
+{"id": "w_dioxide", "cn": "n. 二氧化物\\n[医] 二氧化物", "en": "dioxide", "level": 5000}
+{"id": "w_sunderland", "cn": "森德兰[英国英格兰东北部港市](或译散德兰)", "en": "Sunderland", "level": 5000}
+{"id": "w_cheltenham", "cn": "切尔滕纳姆[英国英格兰西南部城市]", "en": "Cheltenham", "level": 5000}
+{"id": "w_ranger", "cn": "n. 王室守林人, 骑警, 漫游者", "en": "ranger", "level": 5000}
+{"id": "w_covenant", "cn": "n. 契约, 盟约\\nv. 立契约, 缔结盟约", "en": "covenant", "level": 5000}
+{"id": "w_lily", "cn": "n. 百合, 百合花\\na. 洁白的, 纯白色的, 纯洁的", "en": "lily", "level": 5000}
+{"id": "w_ici", "cn": "abbr. 英国化学工业公司（Imperial Chemical Industries Ltd.）", "en": "ici", "level": 5000}
+{"id": "w_wicket", "cn": "n. 小门, 腰门, 售票窗", "en": "wicket", "level": 5000}
+{"id": "w_nt", "cn": "[医] 氡, 镭射气(86号元素)", "en": "Nt", "level": 5000}
+{"id": "w_worthy", "cn": "n. 杰出人物\\na. 有价值的, 可敬的, 值得的", "en": "worthy", "level": 5000}
+{"id": "w_doubtful", "cn": "a. 可疑的, 疑心的, 不明确的\\n[法] 怀疑的, 有疑问的, 未确的", "en": "doubtful", "level": 5000}
+{"id": "w_dictate", "cn": "vi. 听写, 口述, 口授\\nvt. 口述, 使听写, 命令\\nn. 命令, 指挥, 指令", "en": "dictate", "level": 5000}
+{"id": "w_protective", "cn": "a. 给予保护的, 保护的\\n[医] 保护的, 防护的, 保护剂, 保护物, 油绸", "en": "protective", "level": 5000}
+{"id": "w_promising", "cn": "a. 有希望的, 前途有望的\\n[经] 有希望的", "en": "promising", "level": 5000}
+{"id": "w_forbid", "cn": "vt. 禁止, 不准, 妨碍\\n[法] 不许, 禁止, 阻止", "en": "forbid", "level": 5000}
+{"id": "w_dedicate", "cn": "vt. 献出, 贡献", "en": "dedicate", "level": 5000}
+{"id": "w_tender", "cn": "a. 嫩的, 柔软的, 脆弱的, 温柔的, 亲切的, 未成熟的, 微妙的, 棘手的, 审慎的\\nvt. 使变嫩, 提供, 偿还\\nvi. 变柔软, 投标\\nn. 照料, 看管人, 供应船, 小船, 提出, 偿付, 投标", "en": "tender", "level": 5000}
+{"id": "w_supervise", "cn": "v. 监督, 管理, 指导", "en": "supervise", "level": 5000}
+{"id": "w_misery", "cn": "n. 痛苦, 悲惨, 不幸, 穷困", "en": "misery", "level": 5000}
+{"id": "w_illusion", "cn": "n. 幻影, 错觉, 幻想\\n[医] 错觉", "en": "illusion", "level": 5000}
+{"id": "w_fringe", "cn": "n. 边缘, 端, 流苏, 穗, 初步\\nvt. 加穗于, 加饰边于\\na. 边缘的, 附加的", "en": "fringe", "level": 5000}
+{"id": "w_printed", "cn": "a. 印刷的, 印好的, 印花样的\\n[电] 印刷的", "en": "printed", "level": 5000}
+{"id": "w_reminder", "cn": "n. 提醒的人, 暗示\\n[经] 催单", "en": "reminder", "level": 5000}
+{"id": "w_fortunate", "cn": "a. 幸运的, 幸福的", "en": "fortunate", "level": 5000}
+{"id": "w_temptation", "cn": "n. 诱惑, 诱惑物\\n[法] 诱惑, 诱惑物", "en": "temptation", "level": 5000}
+{"id": "w_inclined", "cn": "a. 倾向于...的, 想要...的, 可能的, 趋向于...的", "en": "inclined", "level": 5000}
+{"id": "w_continually", "cn": "adv. 不断地, 频繁地", "en": "continually", "level": 5000}
+{"id": "w_underline", "cn": "vt. 在...下面划线, 作...的衬里, 强调\\nn. 下划线, 图下说明文字\\n[计] 加下划线; 下划线", "en": "underline", "level": 5000}
+{"id": "w_merge", "cn": "vt. 使合并, 使消失, 吞没\\nvi. 合并, 渐渐消失\\n[计] 合并", "en": "merge", "level": 5000}
+{"id": "w_manipulate", "cn": "vt. 操纵, 利用, 操作, 巧妙地处理, 假造", "en": "manipulate", "level": 5000}
+{"id": "w_forth", "cn": "adv. 往前, 以后, 向外", "en": "forth", "level": 5000}
+{"id": "w_burning", "cn": "a. 燃烧的, 象燃烧一样的\\nn. 烧, 燃烧", "en": "burning", "level": 5000}
+{"id": "w_throne", "cn": "n. 王座, 君主", "en": "throne", "level": 5000}
+{"id": "w_sacred", "cn": "a. 神圣的, 献给上帝的, 庄严的, 祭祀的\\n[法] 神圣的, 不可侵犯的", "en": "sacred", "level": 5000}
+{"id": "w_grid", "cn": "n. 格子, 栅格\\n[计] 网格", "en": "grid", "level": 5000}
+{"id": "w_calendar", "cn": "n. 日历, 日程表\\nvt. 列入表中\\n[计] 日历", "en": "calendar", "level": 5000}
+{"id": "w_harmony", "cn": "n. 协调, 和睦, 调和\\n[电] 和声学", "en": "harmony", "level": 5000}
+{"id": "w_positively", "cn": "adv. 明确地, 肯定地, 无疑地, (非正式)确实地, 真正地", "en": "positively", "level": 5000}
+{"id": "w_appreciation", "cn": "n. 感激, 赏识, 鉴别\\n[经] 涨价, 增值", "en": "appreciation", "level": 5000}
+{"id": "w_intent", "cn": "n. 意图, 含义, 故意\\na. 专心的, 决心的, 热心的", "en": "intent", "level": 5000}
+{"id": "w_persistent", "cn": "a. 固执的, 坚持的, 持续的, 作用持久的\\n[法] 坚持的, 固执的, 持续的", "en": "persistent", "level": 5000}
+{"id": "w_outsider", "cn": "n. 外人, 局外人, 非会员, 外行, 门外汉, 比赛中获胜可能性不大的选手\\n[经] 外船公司", "en": "outsider", "level": 5000}
+{"id": "w_elaborate", "cn": "a. 精细的, 详尽的, 精心计划(或制作)的\\nvt. 详细地说明, 用心地制作, 发挥\\nvi. 变复杂, 作详细说明", "en": "elaborate", "level": 5000}
+{"id": "w_utterly", "cn": "adv. 完全地, 全然, 绝对", "en": "utterly", "level": 5000}
+{"id": "w_rebuild", "cn": "vt. 改建, 重建, 改造\\nvi. 重建", "en": "rebuild", "level": 5000}
+{"id": "w_slim", "cn": "a. 瘦的, 苗条的, 微小的, 稀少的, 微薄的\\nvi. 变苗条\\nvt. 使苗条", "en": "slim", "level": 5000}
+{"id": "w_circular", "cn": "a. 圆形的, 循环的, 间接的\\n[医] 环状的, 循环的", "en": "circular", "level": 5000}
+{"id": "w_toward", "cn": "prep. 向, 对于, 为了\\na. 即将来临的, 进行中的", "en": "toward", "level": 5000}
+{"id": "w_ash", "cn": "n. 灰, 灰烬\\n[化] 灰分", "en": "ash", "level": 5000}
+{"id": "w_eighth", "cn": "num. 第八, 八分之一", "en": "eighth", "level": 5000}
+{"id": "w_nursing", "cn": "n. 看护, 养育\\n[医] 护理[法], 喂乳[法]", "en": "nursing", "level": 5000}
+{"id": "w_offering", "cn": "n. 提供, 奉献物, 牲礼, 上市的股票(或证券等)\\n[经] 出售物", "en": "offering", "level": 5000}
+{"id": "w_fitting", "cn": "a. 适宜的\\nn. 试穿, 试衣, 装配, 装置", "en": "fitting", "level": 5000}
+{"id": "w_hidden", "cn": "a. 隐藏的\\nhide的过去分词\\n[计] 隐藏的", "en": "hidden", "level": 5000}
+{"id": "w_defensive", "cn": "a. 防卫的, 防备用的, 自卫的\\nn. 守势, 防卫姿势, 防卫物", "en": "defensive", "level": 5000}
+{"id": "w_caution", "cn": "n. 小心, 慎重, 警示\\nvt. 警告\\n[计] 警告", "en": "caution", "level": 5000}
+{"id": "w_partially", "cn": "adv. 部分地, 一部分地, 不公平地", "en": "partially", "level": 5000}
+{"id": "w_distinguished", "cn": "a. 卓著的, 著名的", "en": "distinguished", "level": 5000}
+{"id": "w_varying", "cn": "[计] 改变", "en": "varying", "level": 5000}
+{"id": "w_sunshine", "cn": "n. 阳光, 光明, 晴天", "en": "sunshine", "level": 5000}
+{"id": "w_stuck", "cn": "stick的过去式和过去分词", "en": "stuck", "level": 5000}
+{"id": "w_proclaim", "cn": "vt. 宣布, 公告, 宣言, 表明, 赞扬\\n[法] 宣布, 宣告, 公布", "en": "proclaim", "level": 5000}
+{"id": "w_shaft", "cn": "n. 轴, 箭杆, 矛, 矿井\\nvt. 装杆于, 利用", "en": "shaft", "level": 5000}
+{"id": "w_furious", "cn": "a. 狂怒的, 激烈的, 吵闹的", "en": "furious", "level": 5000}
+{"id": "w_monument", "cn": "n. 纪念碑, 纪念物, 石碑", "en": "monument", "level": 5000}
+{"id": "w_cornwall", "cn": "n. 康沃尔（英格兰西南部一郡, 加拿大城市名）", "en": "cornwall", "level": 5000}
+{"id": "w_prescribe", "cn": "v. 规定, 指定, 嘱咐, 开处方", "en": "prescribe", "level": 5000}
+{"id": "w_divine", "cn": "a. 神的, 神圣的, 非凡的\\nn. 神学家", "en": "divine", "level": 5000}
+{"id": "w_morality", "cn": "n. 道德, 教训, 品行\\n[法] 道德, 道义", "en": "morality", "level": 5000}
+{"id": "w_syndrome", "cn": "n. 并发症状, 综合征, 同时存在的事物\\n[计] 校验子; 并发位", "en": "syndrome", "level": 5000}
+{"id": "w_deed", "cn": "n. 行为, 实行, 契约\\nvt. 立契转让", "en": "deed", "level": 5000}
+{"id": "w_forwards", "cn": "adv. 向前；今后", "en": "forwards", "level": 5000}
+{"id": "w_invisible", "cn": "a. 看不见的, 无形的\\n[经] 无形的, 表面上看不见的, 未列在公开帐目的", "en": "invisible", "level": 5000}
+{"id": "w_dignity", "cn": "n. 尊严, 高贵\\n[法] 尊严, 高位, 高贵", "en": "dignity", "level": 5000}
+{"id": "w_despair", "cn": "n. 绝望, 失望\\nvi. 绝望", "en": "despair", "level": 5000}
+{"id": "w_eating", "cn": "n. 吃, 食物\\na. 侵蚀的, 腐蚀性的", "en": "eating", "level": 5000}
+{"id": "w_donation", "cn": "n. 捐赠物, 捐款, 捐赠\\n[经] 赠品, 捐款, 捐赠", "en": "donation", "level": 5000}
+{"id": "w_steward", "cn": "n. 管理人, 招待员, 管家, 乘务员\\n[经] 轮船, 飞机的服务员, (财务)管理员", "en": "steward", "level": 5000}
+{"id": "w_salmon", "cn": "n. 鲑鱼, 大麻哈鱼\\n[医] 鲑", "en": "salmon", "level": 5000}
+{"id": "w_contempt", "cn": "n. 轻视, 轻蔑\\n[法] 藐视, 侮辱, 轻视", "en": "contempt", "level": 5000}
+{"id": "w_relaxation", "cn": "n. 松弛, 放松, 减轻, 缓和, 休息, 休养\\n[化] 松弛; 驰豫", "en": "relaxation", "level": 5000}
+{"id": "w_loop", "cn": "n. 环, 圈, 弯曲部分, 循环\\nvt. 使成环, 以圈结, 以环连结\\nvi. 打环, 翻筋斗\\n[计] 循环", "en": "loop", "level": 5000}
+{"id": "w_trainee", "cn": "n. 实习生, 新兵, 受培训者\\n[经] 学徒工, 培训人员", "en": "trainee", "level": 5000}
+{"id": "w_gardener", "cn": "n. 园丁, 花匠, 园艺家", "en": "gardener", "level": 5000}
+{"id": "w_bat", "cn": "n. 蝙蝠, 球棒\\nv. 用球棒打, 眨眼\\n[计] 成批", "en": "bat", "level": 5000}
+{"id": "w_brochure", "cn": "n. 小册子, 小册", "en": "brochure", "level": 5000}
+{"id": "w_contrary", "cn": "a. 相反的, 矛盾的, 对立的\\nn. 相反, 对立面\\nadv. 相反地", "en": "contrary", "level": 5000}
+{"id": "w_aspiration", "cn": "n. 热望, 志向, 渴望\\n[医] 吸入; 吸[引], 吸引术", "en": "aspiration", "level": 5000}
+{"id": "w_prospective", "cn": "a. 预期的, 将来的\\n[经] 预期的, 未来的", "en": "prospective", "level": 5000}
+{"id": "w_inheritance", "cn": "n. 遗传, 遗产\\n[医] 遗传", "en": "inheritance", "level": 5000}
+{"id": "w_array", "cn": "n. 排列, 衣服, 大批, 军队\\nvt. 布署, 打扮, 排列\\n[计] 数组; 阵列", "en": "array", "level": 5000}
+{"id": "w_usage", "cn": "n. 用法, 使用, 习惯, 惯用法, 习惯法\\n[经] 使用情况, 使用用途, 惯例", "en": "usage", "level": 5000}
+{"id": "w_temper", "cn": "n. (钢等的)硬度, 脾气, 心情, 中和剂, 倾向, 回火\\nvt. 使回火, 锻炼, 调和, 使缓和\\nvi. 回火", "en": "temper", "level": 5000}
+{"id": "w_confer", "cn": "vt. 授予, 带来\\nvi. 协商", "en": "confer", "level": 5000}
+{"id": "w_bee", "cn": "n. 蜜蜂, 聚会", "en": "bee", "level": 5000}
+{"id": "w_arch", "cn": "n. 拱门, 拱形, 足弓\\nvt. 使成弓形\\nvi. 拱起, 成弓形\\na. 主要的, 调皮的, 傲慢无礼的, 狡猾的", "en": "arch", "level": 5000}
+{"id": "w_aggression", "cn": "n. 侵犯, 侵略\\n[医] 攻击", "en": "aggression", "level": 5000}
+{"id": "w_tiger", "cn": "n. 老虎, 虎, 凶暴的人", "en": "tiger", "level": 5000}
+{"id": "w_solar", "cn": "a. 太阳的, 日光的, 源自太阳的\\n[医] 太阳的; 腹腔丛的", "en": "solar", "level": 5000}
+{"id": "w_cage", "cn": "n. 笼, 牢房, 战俘营\\nvt. 关进笼内", "en": "cage", "level": 5000}
+{"id": "w_regain", "cn": "vt. 取回, 恢复, 重回, 复得\\n[化] 回潮", "en": "regain", "level": 5000}
+{"id": "w_misleading", "cn": "a. 引入歧途的, 使人误解的, 骗人的\\n[法] 误写姓名的, 误称的, 令人误解的", "en": "misleading", "level": 5000}
+{"id": "w_bounce", "cn": "n. 跳, 跳跃, 弹力, 撞击\\nvi. 反跳, 弹跳\\nvt. 使跳回, 撞击\\n[计] 打回", "en": "bounce", "level": 5000}
+{"id": "w_philosophical", "cn": "a. 哲学的, 冷静的, 达观的, 哲学上的, 哲学家似的", "en": "philosophical", "level": 5000}
+{"id": "w_don", "cn": "n. 西班牙贵族(或绅士), 先生, 阁下\\nvt. 穿上", "en": "don", "level": 5000}
+{"id": "w_realm", "cn": "n. 王国, 领土, 领域\\n[计] 领域", "en": "realm", "level": 5000}
+{"id": "w_devon", "cn": "n. 德文郡（等于Devon shire, 英国郡名）；德文岛（加拿大北部）", "en": "devon", "level": 5000}
+{"id": "w_mist", "cn": "n. 雾, 迷蒙, 朦胧不清\\nvt. 使模糊, 使蒙上雾\\nvi. 变模糊, 下雾", "en": "mist", "level": 5000}
+{"id": "w_brigade", "cn": "n. 旅, 队\\n[法] 团体, 队, 组", "en": "brigade", "level": 5000}
+{"id": "w_headmaster", "cn": "n. (中小学)校长, 监工", "en": "headmaster", "level": 5000}
+{"id": "w_minus", "cn": "n. 负号, 不足\\na. 减的, 负的, 阴性的\\nprep. 减, 缺\\n[计] 负差", "en": "minus", "level": 5000}
+{"id": "w_inappropriate", "cn": "a. 不适当的, 不相称的", "en": "inappropriate", "level": 5000}
+{"id": "w_insufficient", "cn": "a. 不够的, 不能胜任的, 不充足的\\n[法] 不足的, 不充分的, 不能胜任的", "en": "insufficient", "level": 5000}
+{"id": "w_conform", "cn": "vt. 使一致, 使遵守, 使符合\\nvi. 一致, 符合, 适应", "en": "conform", "level": 5000}
+{"id": "w_ancestor", "cn": "n. 祖先, 祖宗", "en": "ancestor", "level": 5000}
+{"id": "w_eligible", "cn": "a. 有资格当选的, 合格的\\nn. 有资格者, 合格者, 适任者", "en": "eligible", "level": 5000}
+{"id": "w_denmark", "cn": "n. 丹麦", "en": "Denmark", "level": 5000}
+{"id": "w_sunlight", "cn": "n. 日光\\n[医] 日光, 太阳光", "en": "sunlight", "level": 5000}
+{"id": "w_philosopher", "cn": "n. 哲学家, 哲人, 思想开创人, 达观的人\\n[法] 哲学家, 哲学研究者", "en": "philosopher", "level": 5000}
+{"id": "w_toss", "cn": "n. 投掷, 抛, 摇摆, 震荡, 掷钱币决定\\nvt. 投掷, 猛抬, 摇荡, 使不安, 掷钱币决定\\nvi. 被到处扔, 摇摆, 颠簸, 辗转, 掷钱币决定某事", "en": "toss", "level": 5000}
+{"id": "w_mistress", "cn": "n. 主妇, 女主人, 情妇", "en": "mistress", "level": 5000}
+{"id": "w_max", "cn": "[计] 最大", "en": "MAX", "level": 5000}
+{"id": "w_reproduction", "cn": "n. 再现, 复制, 生殖, 繁殖, 复制品\\n[医] 生殖, 复现(心理)", "en": "reproduction", "level": 5000}
+{"id": "w_gravel", "cn": "n. 砂砾, 碎石\\n[医] 沙砾, 尿沙", "en": "gravel", "level": 5000}
+{"id": "w_austria", "cn": "n. 奥地利", "en": "Austria", "level": 5000}
+{"id": "w_quarry", "cn": "n. 采石场, 方形石, 猎物, 被追求物, 来源\\nvt. 挖出, 努力挖掘\\nvi. 费力地找", "en": "quarry", "level": 5000}
+{"id": "w_noble", "cn": "n. 贵族\\na. 高贵的, 高尚的, 贵族的, 辉煌的", "en": "noble", "level": 5000}
+{"id": "w_mathematical", "cn": "a. 数学的, 精确的\\n[机] 数学上的", "en": "mathematical", "level": 5000}
+{"id": "w_samuel", "cn": "n. 撒母耳（希伯来先知）；塞缪尔（男子名）", "en": "samuel", "level": 5000}
+{"id": "w_whale", "cn": "n. 鲸\\nvi. 捕鲸\\nvt. 使惨败, 猛揍", "en": "whale", "level": 5000}
+{"id": "w_gospel", "cn": "n. 福音, 信仰, 真理", "en": "gospel", "level": 5000}
+{"id": "w_diverse", "cn": "a. 不同的, 变化多的", "en": "diverse", "level": 5000}
+{"id": "w_surplus", "cn": "n. 剩余, 过剩, 盈余\\na. 过剩的, 剩余的", "en": "surplus", "level": 5000}
+{"id": "w_somerset", "cn": "n. 有衬垫的马鞍（独腿者乘坐的）", "en": "somerset", "level": 5000}
+{"id": "w_monk", "cn": "n. 修道士, 僧侣, 和尚", "en": "monk", "level": 5000}
+{"id": "w_compliance", "cn": "n. 遵从, 顺从, 屈从\\n[化] 柔顺; 顺应", "en": "compliance", "level": 5000}
+{"id": "w_caravan", "cn": "n. 旅行队, 有篷顶的大车\\n[经] 商队, 结队商贩", "en": "caravan", "level": 5000}
+{"id": "w_cylinder", "cn": "n. 圆筒, 圆筒状物, 汽缸, 柱面\\n[计] 柱面", "en": "cylinder", "level": 5000}
+{"id": "w_archive", "cn": "vt. 把...存档\\nn. 档案馆, 档案文件\\n[计] 挡案库, 存档", "en": "archive", "level": 5000}
+{"id": "w_garment", "cn": "n. 衣服, 衣装, 外表", "en": "garment", "level": 5000}
+{"id": "w_nonetheless", "cn": "conj. 然而, 尽管, 不过\\nadv. 不过, 仍然, 尽管如此, 然而", "en": "nonetheless", "level": 5000}
+{"id": "w_textile", "cn": "n. 纺织品, 纺织业\\na. 织的, 纺织的", "en": "textile", "level": 5000}
+{"id": "w_woodland", "cn": "n. 林区, 林地", "en": "woodland", "level": 5000}
+{"id": "w_feedback", "cn": "n. 反馈, 反应\\n[计] 反馈", "en": "feedback", "level": 5000}
+{"id": "w_actress", "cn": "n. 女演员", "en": "actress", "level": 5000}
+{"id": "w_vienna", "cn": "n. 维也纳", "en": "Vienna", "level": 5000}
+{"id": "w_cabin", "cn": "n. 小屋, 客舱\\nvt. 关在小屋", "en": "cabin", "level": 5000}
+{"id": "w_counselling", "cn": "[法] 评议, 商议, 指导", "en": "counselling", "level": 5000}
+{"id": "w_testament", "cn": "n. 遗嘱, <<圣约书>>\\n[法] 遗言, 遗嘱, 确实的证明", "en": "testament", "level": 5000}
+{"id": "w_patent", "cn": "n. 专利权, 许可证, 执照, 专利品, 素质\\na. 专利的, 特许的, 显著的, 新奇的\\nvt. 取得...的专利权, 请准专利", "en": "patent", "level": 5000}
+{"id": "w_rage", "cn": "n. 愤怒, 情绪激动, 狂暴\\nvi. 大怒, 狂吹, 流行", "en": "rage", "level": 5000}
+{"id": "w_convict", "cn": "n. 囚犯, 罪犯\\nvt. 宣告有罪, 使知罪", "en": "convict", "level": 5000}
+{"id": "w_les", "cn": "abbr. 发射脱离系统（Launch Escape System）", "en": "les", "level": 5000}
+{"id": "w_carter", "cn": "n. 运货马车夫", "en": "carter", "level": 5000}
+{"id": "w_laser", "cn": "n. 激光\\n[计] 激光器", "en": "laser", "level": 5000}
+{"id": "w_dragon", "cn": "n. 龙, 凶暴的人\\n[法] 凶恶的人, 凶恶严厉的监护人", "en": "dragon", "level": 5000}
+{"id": "w_negligence", "cn": "n. 疏忽, 粗心大意, 忽视\\n[经] 疏忽, 过失", "en": "negligence", "level": 5000}
+{"id": "w_ron", "cn": "abbr. 研究法辛烷值（Research Octane Number）", "en": "ron", "level": 5000}
+{"id": "w_activist", "cn": "n. 激进主义分子", "en": "activist", "level": 5000}
+{"id": "w_parental", "cn": "a. 父母亲的, 做双亲的, 作为渊源的\\n[医] 父母的, 双亲的", "en": "parental", "level": 5000}
+{"id": "w_lace", "cn": "n. 饰带, 花边, 缎带, 鞋带\\nvt. 结带子, 饰以花边\\nvi. 系带子\\n[计] 全穿孔", "en": "lace", "level": 5000}
+{"id": "w_lab", "cn": "n. 实验室, 研究室\\n[医] 凝乳酶", "en": "lab", "level": 5000}
+{"id": "w_harvey", "cn": "n. 哈维（男子名）", "en": "harvey", "level": 5000}
+{"id": "w_inherent", "cn": "a. 固有的, 与生俱来的\\n[医] 固有的, 生来的", "en": "inherent", "level": 5000}
+{"id": "w_viewer", "cn": "n. 观察者, 看电视者, 视察员, 观察器\\n[化] 指示器", "en": "viewer", "level": 5000}
+{"id": "w_selective", "cn": "a. 选择的, 选择性的\\n[经] 选择的, 选择性的", "en": "selective", "level": 5000}
+{"id": "w_exploitation", "cn": "n. 开发, 开采, 剥削\\n[经] 开发, 剥削, 宜传", "en": "exploitation", "level": 5000}
+{"id": "w_dependence", "cn": "n. 依赖, 依存, 信赖\\n[医] 依赖(如对药物的依赖,即瘾或癖), 从属, 偏利共生", "en": "dependence", "level": 5000}
+{"id": "w_clutch", "cn": "n. 抓紧, 掌握, 离合器, 一窝小鸡\\nvt. 抓住, 踩汽车离合器踏板\\nvi. 抓\\n[计] 联轴器; 离合器", "en": "clutch", "level": 5000}
+{"id": "w_joyce", "cn": "n. 乔伊斯（女名）", "en": "joyce", "level": 5000}
+{"id": "w_derby", "cn": "n. 德比(英国中部都市), 德比赛马, 大赛马", "en": "derby", "level": 5000}
+{"id": "w_predator", "cn": "n. 食肉动物, 掠夺者\\n[医] 捕食者", "en": "predator", "level": 5000}
+{"id": "w_explicitly", "cn": "adv. 明确地；明白地", "en": "explicitly", "level": 5000}
+{"id": "w_borrowing", "cn": "[经] 借款, 贷款", "en": "borrowing", "level": 5000}
+{"id": "w_maxwell", "cn": "n. 麦克斯韦\\n[医] 麦克斯韦(磁通量单位)", "en": "maxwell", "level": 5000}
+{"id": "w_configuration", "cn": "n. 结构, 表面配置, 外形, 配置\\n[计] 配置", "en": "configuration", "level": 5000}
+{"id": "w_sufferer", "cn": "n. 受难者, 被害者, 患者\\n[法] 受害者, 受难者", "en": "sufferer", "level": 5000}
+{"id": "w_intermediate", "cn": "n. 中间物, 调停者, 中级\\na. 中间的, 中级的\\nvi. 起媒介作用\\n[计] 中级", "en": "intermediate", "level": 5000}
+{"id": "w_l", "cn": "n. 见习驾驶员\\n[计] 电感, 标记, 语言, 负载, 局部, 线路", "en": "L", "level": 5000}
+{"id": "w_vitamin", "cn": "n. 维生素\\n[化] 维生素", "en": "vitamin", "level": 5000}
+{"id": "w_craig", "cn": "n. 克雷格（男子名）", "en": "craig", "level": 5000}
+{"id": "w_preston", "cn": "n. 普勒斯顿（男子名；英国港市名字）", "en": "preston", "level": 5000}
+{"id": "w_managerial", "cn": "a. 管理的\\n[经] 管理上的, 经营上的", "en": "managerial", "level": 5000}
+{"id": "w_pete", "cn": "n. 皮特（等于Peter, 男子名）", "en": "Pete", "level": 5000}
+{"id": "w_guinness", "cn": "n. 吉尼斯黑啤酒", "en": "Guinness", "level": 5000}
+{"id": "w_enforcement", "cn": "n. 执行, 强制\\n[法] 实施, 加强, 厉行", "en": "enforcement", "level": 5000}
+{"id": "w_wimbledon", "cn": "温布尔登[英国英格兰东南部城市](位于伦敦附近, 是著名的国际网球比赛地)", "en": "Wimbledon", "level": 5000}
+{"id": "w_barnes", "cn": "n. 巴尔内斯（姓氏）", "en": "barnes", "level": 5000}
+{"id": "w_rover", "cn": "n. 漂泊者, 流浪者, 海盗\\n[法] 流浪者, 海盗, 海盗船", "en": "rover", "level": 5000}
+{"id": "w_edwards", "cn": "爱德华兹(姓氏)", "en": "Edwards", "level": 5000}
+{"id": "w_olympic", "cn": "a. 奥林匹亚的, 奥林匹斯山的, 强有力的, 巨大的", "en": "Olympic", "level": 5000}
+{"id": "w_ali", "cn": "[计] 异步线路接口", "en": "ALI", "level": 5000}
+{"id": "w_greater", "cn": "[计] 大的", "en": "greater", "level": 5000}
+{"id": "w_linear", "cn": "a. 线的, 直线的, 线状的\\n[计] 线性", "en": "linear", "level": 5000}
+{"id": "w_exemption", "cn": "n. 解除, 免除, 免税\\n[化] 免检", "en": "exemption", "level": 5000}
+{"id": "w_kim", "cn": "n. 金姆（人名）", "en": "kim", "level": 5000}
+{"id": "w_membrane", "cn": "n. 薄膜, 膜, 羊皮纸\\n[化] 膜; 隔膜", "en": "membrane", "level": 5000}
+{"id": "w_erosion", "cn": "n. 腐蚀, 冲蚀, 侵蚀\\n[化] 磨耗; 侵蚀", "en": "erosion", "level": 5000}
+{"id": "w_lordship", "cn": "n. 贵族身分, 主权, 支配", "en": "lordship", "level": 5000}
+{"id": "w_willie", "cn": "n. 威利（男子名, William的昵称）", "en": "willie", "level": 5000}
+{"id": "w_fiscal", "cn": "a. 财政的, 国库的\\n[经] 财政上的, 会计的, 国库的", "en": "fiscal", "level": 5000}
+{"id": "w_motif", "cn": "n. 主题, 基调, 动机, 基本图案\\n[法] 主旨, 主题, 动机", "en": "motif", "level": 5000}
+{"id": "w_lisa", "cn": "n. 丽莎（女子名）", "en": "lisa", "level": 5000}
+{"id": "w_utterance", "cn": "n. 发声, 言辞, 表达, 说话的方式, 死\\n[医] 发言, 言语, 语调", "en": "utterance", "level": 5000}
+{"id": "w_ace", "cn": "n. 幺点, 好手, 少许, 发球得分\\na. 一流的, 杰出的\\n[计] 应答允许, 自适应计算机试验, 自动呼叫设备, 自动执行控制", "en": "ace", "level": 5000}
+{"id": "w_promoter", "cn": "n. 促进者, 助长者\\n[化] 助催化剂", "en": "promoter", "level": 5000}
+{"id": "w_characterize", "cn": "vt. 描绘...的特性, 刻划...的性格", "en": "characterize", "level": 5000}
+{"id": "w_soccer", "cn": "n. 英式足球", "en": "soccer", "level": 5000}
+{"id": "w_telecommunication", "cn": "n. 电讯, 远距离通讯, 无线电通讯\\n[计] 远程通信, 电信", "en": "telecommunication", "level": 5000}
+{"id": "w_probe", "cn": "n. 探索, 调查, 探针, 探测器\\nv. 用探针探测, 调查, 探索", "en": "probe", "level": 5000}
+{"id": "w_ozone", "cn": "n. 新鲜的空气, 臭氧, 使人愉快的影响\\n[化] 臭氧", "en": "ozone", "level": 5000}
+{"id": "w_eec", "cn": "欧洲经济共同体", "en": "EEC", "level": 5000}
+{"id": "w_learner", "cn": "n. 学习者, 初学者", "en": "learner", "level": 5000}
+{"id": "w_sophie", "cn": "n. 索菲（女子名）", "en": "sophie", "level": 5000}
+{"id": "w_molecular", "cn": "a. 分子的, 由分子组成的\\n[医] 分子的", "en": "molecular", "level": 5000}
+{"id": "w_tel", "cn": "abbr. 试验仪器清单（Test Equipment List）", "en": "tel", "level": 5000}
+{"id": "w_islamic", "cn": "a. 伊斯兰教的, 穆斯林的", "en": "Islamic", "level": 5000}
+{"id": "w_guerrilla", "cn": "n. 游击队", "en": "guerrilla", "level": 5000}
+{"id": "w_sara", "cn": "n. 萨拉族, 萨拉人", "en": "Sara", "level": 5000}
+{"id": "w_ft", "cn": "n. 英尺", "en": "ft", "level": 5000}
+{"id": "w_calcium", "cn": "n. 钙\\n[化] 钙Ca", "en": "calcium", "level": 5000}
+{"id": "w_gabriel", "cn": "n. 加百利(<<经经>>中七大天使之一)", "en": "Gabriel", "level": 5000}
+{"id": "w_privatisation", "cn": "n. 私有化, 非国营化（将国营企业转为民营）", "en": "privatisation", "level": 5000}
+{"id": "w_node", "cn": "n. 节, 结节, 瘤\\n[计] 节点; 结点", "en": "node", "level": 5000}
+{"id": "w_reactor", "cn": "n. 反应者, 反应器, 反应堆, 电抗器\\n[化] 反应釜; 反应锅", "en": "reactor", "level": 5000}
+{"id": "w_semantic", "cn": "a. 语义的\\n[计] 语义", "en": "semantic", "level": 5000}
+{"id": "w_br", "cn": "[计] 总线请求\\n[化] 生物试剂", "en": "BR", "level": 5000}
+{"id": "w_isabel", "cn": "n. 伊莎贝尔（人名）", "en": "isabel", "level": 5000}
+{"id": "w_yep", "cn": "adv. 是（美国俚语=yes）", "en": "yep", "level": 5000}
+{"id": "w_serum", "cn": "n. 浆液, 血清, 乳清\\n[医] 血清; 浆液", "en": "serum", "level": 5000}
+{"id": "w_easier", "cn": "a. 更简单；较早的；容易些（easy的比较级形式）", "en": "easier", "level": 5000}
+{"id": "w_presume", "cn": "vt. 假定, 推测, 擅自, 意味着\\nvi. 擅自行动, 相信", "en": "presume", "level": 5000}
+{"id": "w_divert", "cn": "vt. 转移, 使欢娱\\nvi. 转移", "en": "divert", "level": 5000}
+{"id": "w_convincing", "cn": "a. 使人信服的, 有力的, 令人心悦诚服的", "en": "convincing", "level": 5000}
+{"id": "w_carve", "cn": "v. 雕刻, 切开", "en": "carve", "level": 5000}
+{"id": "w_renew", "cn": "vt. 使更新, 使恢复, 复兴, 修补, 补充, 继续, 重订, 重申, 续借\\nvi. 更新, 重新开始", "en": "renew", "level": 5000}
+{"id": "w_parcel", "cn": "n. 包裹, 部分, 片\\nvt. 分配, 打包\\na. 部分的\\nadv. 局部地", "en": "parcel", "level": 5000}
+{"id": "w_foreigner", "cn": "n. 外国人, 外地人\\n[法] 外国人, 进口货, 外国货", "en": "foreigner", "level": 5000}
+{"id": "w_crossing", "cn": "n. 横越, 横渡, 交叉点, 渡口\\n[经] 划线", "en": "crossing", "level": 5000}
+{"id": "w_gathering", "cn": "n. 聚集, 集中, 采集\\n[化] 富集", "en": "gathering", "level": 5000}
+{"id": "w_overnight", "cn": "n. 前一天晚上, 一夜的逗留\\na. 通宵的, 晚上的, 前夜的\\nadv. 在前一夜, 整夜, 昨晚一晚上", "en": "overnight", "level": 5000}
+{"id": "w_instant", "cn": "n. 立即, 瞬间\\na. 紧急的, 立即的, 即时的", "en": "instant", "level": 5000}
+{"id": "w_incredible", "cn": "a. 难以置信的", "en": "incredible", "level": 5000}
+{"id": "w_exhaust", "cn": "n. 排气, 排气装置, 废气\\nvt. 抽完, 用尽, 耗尽, 使精疲力尽\\nvi. 排气", "en": "exhaust", "level": 5000}
+{"id": "w_fantastic", "cn": "a. 奇妙的, 稀奇的, 空想的", "en": "fantastic", "level": 5000}
+{"id": "w_costly", "cn": "a. 昂贵的, 奢华的, 费用大的", "en": "costly", "level": 5000}
+{"id": "w_sketch", "cn": "n. 素描, 草图, 小品\\nv. 描绘略图, 画素描或速写", "en": "sketch", "level": 5000}
+{"id": "w_respectable", "cn": "a. 值得尊重的, 人格高尚的, 相当数量的\\nn. 品格高尚的人", "en": "respectable", "level": 5000}
+{"id": "w_relieved", "cn": "a. 宽慰的, 解除的, 减轻的", "en": "relieved", "level": 5000}
+{"id": "w_apology", "cn": "n. 道歉, 辩护\\n[法] 道歉, 谢罪, 辩解者", "en": "apology", "level": 5000}
+{"id": "w_sickness", "cn": "n. 疾病, 不健康, 呕吐\\n[医] 病", "en": "sickness", "level": 5000}
+{"id": "w_intact", "cn": "a. 尚未被人碰过的, 原封不动的, 完整的\\n[医] 完整的, 无伤的", "en": "intact", "level": 5000}
+{"id": "w_fond", "cn": "a. 喜欢的, 宠爱的, 温柔的", "en": "fond", "level": 5000}
+{"id": "w_gravity", "cn": "n. 地心引力, 重力\\n[化] 重力", "en": "gravity", "level": 5000}
+{"id": "w_corn", "cn": "n. 玉蜀黍, 谷类, 谷粒, 鸡眼\\nvt. 使成颗粒, 腌", "en": "corn", "level": 5000}
+{"id": "w_anonymous", "cn": "a. 姓氏不详的, 无名的, 无特色的\\n[计] 无记录", "en": "anonymous", "level": 5000}
+{"id": "w_tolerate", "cn": "vt. 宽容, 容许, 有耐力", "en": "tolerate", "level": 5000}
+{"id": "w_queue", "cn": "n. 辫子, 一队人, 队列\\nvt. 使排队, 将...梳成辫子\\nvi. 排队\\n[计] 队列", "en": "queue", "level": 5000}
+{"id": "w_trigger", "cn": "n. 触发器, 扳机\\nvt. 触发, 发射, 引起\\nvi. 松开扳柄\\n[计] 切换开关", "en": "trigger", "level": 5000}
+{"id": "w_optimistic", "cn": "a. 乐观的, 乐观主义的, 乐天的", "en": "optimistic", "level": 5000}
+{"id": "w_compel", "cn": "vt. 强迫, 迫使", "en": "compel", "level": 5000}
+{"id": "w_alert", "cn": "a. 警觉的, 灵敏的, 留心的\\nn. 警报\\nvt. 使警觉, 通知, 使意识到", "en": "alert", "level": 5000}
+{"id": "w_tragic", "cn": "a. 悲惨的, 悲剧的", "en": "tragic", "level": 5000}
+{"id": "w_redundant", "cn": "a. 多余的, 过多的, 冗长的\\n[医] 过多的, 多余的", "en": "redundant", "level": 5000}
+{"id": "w_decisive", "cn": "a. 决定性的, 坚定的, 果断的", "en": "decisive", "level": 5000}
+{"id": "w_confirmation", "cn": "n. 证实, 证明, 批准, 确认\\n[计] 确认", "en": "confirmation", "level": 5000}
+{"id": "w_parade", "cn": "n. 游行, 炫耀, 阅兵\\nv. 游行, 炫耀, (使)列队行进", "en": "parade", "level": 5000}
+{"id": "w_telegraph", "cn": "n. 电报, 电报机\\nvi. 打电报\\nvt. 打电报给, 电汇, 流露, 显示出要...的样子", "en": "telegraph", "level": 5000}
+{"id": "w_recorder", "cn": "n. 记录员, 录音机\\nn. 记录器\\n[计] 宏录制器, 记录器", "en": "recorder", "level": 5000}
+{"id": "w_foolish", "cn": "a. 愚蠢的, 傻的", "en": "foolish", "level": 5000}
+{"id": "w_static", "cn": "n. 静电, 静电干扰\\na. 静态的, 静止的, 固有的, 静电的", "en": "static", "level": 5000}
+{"id": "w_mechanic", "cn": "n. 机械工, 技工\\na. 手工的", "en": "mechanic", "level": 5000}
+{"id": "w_intake", "cn": "n. 入口, 吸入, 吸入量\\n[医] 摄取量", "en": "intake", "level": 5000}
+{"id": "w_cleaning", "cn": "n. 清洁, 扫除, 家畜的胞衣, 扫除出来的垃圾, 大败, 输得精光, 除伐, 巨额利润\\n[计] 清洗, 清除", "en": "cleaning", "level": 5000}
+{"id": "w_complication", "cn": "n. 复杂化, 复杂情况\\n[医] 并发症, 并发病", "en": "complication", "level": 5000}
+{"id": "w_seemingly", "cn": "adv. 看来似乎, 表面上看来", "en": "seemingly", "level": 5000}
+{"id": "w_unaware", "cn": "a. 未认识到的, 不知道的\\n[法] 不知道的, 不察觉的, 无意的", "en": "unaware", "level": 5000}
+{"id": "w_lengthy", "cn": "a. 冗长的, 漫长的", "en": "lengthy", "level": 5000}
+{"id": "w_dip", "cn": "v. 浸, 降下, 把(手、勺等)伸入, 舀取\\nn. 浸, 涉猎\\n[计] 双列直插式组件, 分布式输入输出系统, 双排直插封装", "en": "dip", "level": 5000}
+{"id": "w_alike", "cn": "a. 相似的, 同样的\\nadv. 一样, 以同样的方式", "en": "alike", "level": 5000}
+{"id": "w_threshold", "cn": "n. 门槛, 入口, 开端, 阈\\n[计] 阈; 阈值", "en": "threshold", "level": 5000}
+{"id": "w_mercy", "cn": "n. 仁慈, 宽恕, 慈悲, 怜悯, 幸运\\n[法] 权宜处置权, 决定权, 宽恕", "en": "mercy", "level": 5000}

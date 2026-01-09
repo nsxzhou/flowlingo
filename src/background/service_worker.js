@@ -1,0 +1,10 @@
+importScripts(
+  "../shared/globals.js",
+  "./db.js",
+  "./maintenance.js",
+  "./ai_cache_service.js",
+  "./llm_service.js",
+  "./planner.js",
+  "./user_model_service.js",
+  "./router.js",
+);

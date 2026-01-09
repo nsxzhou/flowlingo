@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "packages": [
+    {
+      "level": 3000,
+      "id": "core-3000",
+      "entries": 3461,
+      "hash": "d12916c9373a00bf369cbfb9cd8d03cb0e1c74cc5f88187f5fea6db0e1175d5d",
+      "publishedAt": "2026-01-08",
+      "minExtensionVersion": "0.0.1",
+      "path": "assets/dictionary/core-3000.jsonl"
+    },
+    {
+      "level": 5000,
+      "id": "plus-2000",
+      "entries": 2000,
+      "hash": "a07486065274e3826ef85b0cee5c0f24ebcd37c1e08a5a9708b5fe78c0395cea",
+      "publishedAt": "2026-01-08",
+      "minExtensionVersion": "0.0.1",
+      "path": "assets/dictionary/plus-2000.jsonl"
+    },
+    {
+      "level": 10000,
+      "id": "plus-5000",
+      "entries": 5000,
+      "hash": "7ab4edb830bf87321e12c59b7780f4ec297551c9e9f1e6cd3f4a06a76a533eb4",
+      "publishedAt": "2026-01-08",
+      "minExtensionVersion": "0.0.1",
+      "path": "assets/dictionary/plus-5000.jsonl"
+    }
+  ]
+}

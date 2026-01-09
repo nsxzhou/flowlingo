@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="options.css" />
+    <title>FlowLingo 设置</title>
+  </head>
+  <body class="dashboard">
+    <aside class="sidebar">
+      <div class="logo-container">
+        <div class="logo">
+          <img src="../../assets/icons/icon128.png" alt="FlowLingo" />
+        </div>
+        <div class="brand-info">
+          <div class="brand-name">FlowLingo</div>
+          <div class="brand-version">v0.0.1</div>
+        </div>
+      </div>
+
+      <nav class="sidebar-nav">
+        <a href="#" class="nav-item" data-tab="general">
+          <span class="nav-icon">📊</span>
+          <span class="nav-label">配置中心</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="learning">
+          <span class="nav-icon">🎓</span>
+          <span class="nav-label">学习偏好</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="vocabulary">
+          <span class="nav-icon">📚</span>
+          <span class="nav-label">词汇管理</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="behavior">
+          <span class="nav-icon">⚡</span>
+          <span class="nav-label">行为设置</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="sites">
+          <span class="nav-icon">🌐</span>
+          <span class="nav-label">站点规则</span>
+        </a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div id="status" class="status-indicator"></div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <header class="content-header">
+        <h1 id="tab-title">配置中心</h1>
+        <p id="tab-description">核心运行参数导出，本地优先，可撤回，可降级</p>
+      </header>
+
+      <!-- General Tab -->
+      <div class="tab-content" id="tab-general">
+        <section class="card">
+          <div class="card-header">
+            <h2>API 节点配置</h2>
+            <button id="addNodeBtn" type="button" class="btn-primary btn-sm">
+              + 添加节点
+            </button>
+          </div>
+
+          <div class="card-body-content">
+            <div class="setting-group">
+              <div class="setting-item row">
+                <div class="setting-text">
+                  <div class="setting-label">启用 AI 替换服务</div>
+                  <div class="hint">
+                    总控开关，开启后 FlowLingo 将调用 AI 服务处理网页内容
+                  </div>
+                </div>
+                <div class="toggle-container">
+                  <input id="llmEnabled" type="checkbox" />
+                  <span class="toggle-slider"></span>
+                </div>
+              </div>
+
+              <div class="setting-item row">
+                <div class="setting-text">
+                  <div class="setting-label">启用速率限制轮询</div>
+                  <div class="hint">
+                    当节点达到请求频率限制时自动切换到下一个可用节点
+                  </div>
+                </div>
+                <div class="toggle-container">
+                  <input id="rateLimitEnabled" type="checkbox" />
+                  <span class="toggle-slider"></span>
+                </div>
+              </div>
+
+              <div
+                id="rateLimitOptions"
+                class="rate-limit-sub-panel"
+                style="display: none"
+              >
+                <label class="field">
+                  <span>全局速率限制 (RPM)</span>
+                  <input
+                    type="number"
+                    id="globalRateLimit"
+                    min="0"
+                    max="1000"
+                    value="60"
+                  />
+                  <span class="hint"
+                    >设为 0 表示无限制，可被具体节点设置覆盖</span
+                  >
+                </label>
+              </div>
+
+              <div class="grid" style="margin-top: 24px">
+                <label class="field">
+                  <span>调度策略</span>
+                  <select id="llmStrategy">
+                    <option value="round_robin">轮询 (负载均衡)</option>
+                    <option value="priority">优先级 (故障转移)</option>
+                  </select>
+                </label>
+                <label class="field">
+                  <span>超时时间 (ms)</span>
+                  <input
+                    id="llmTimeoutMs"
+                    type="number"
+                    step="500"
+                    min="1000"
+                    max="60000"
+                  />
+                </label>
+              </div>
+            </div>
+
+            <div class="divider" style="margin: 32px 0 20px"></div>
+
+            <div class="node-list-section">
+              <div class="node-list-header">
+                <div class="section-title-sm">API 节点列表</div>
+                <span class="node-list-hint"
+                  >拖拽调整优先级，优先使用排在前面的节点</span
+                >
+              </div>
+              <div id="apiNodesList" class="api-nodes-list"></div>
+              <div
+                id="apiNodesEmpty"
+                class="api-nodes-empty"
+                style="display: none"
+              >
+                <div class="empty-icon">🔌</div>
+                <p>暂无 API 节点</p>
+                <p class="hint">点击上方「添加节点」按钮创建第一个节点</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- Learning Tab -->
+      <div class="tab-content" id="tab-learning">
+        <section class="card">
+          <h2>英语水平测试（必做）</h2>
+          <div class="hint">
+            未完成测试前：即使已启用 FlowLingo / 已配置 AI
+            节点，也不会进行任何替换。
+          </div>
+          <div class="divider"></div>
+          <div class="row">
+            <div class="field" style="flex: 1">
+              <span>当前等级</span>
+              <div id="cefrStatus" class="hint">未测试</div>
+            </div>
+            <button id="startVocabTest" type="button" class="btn-primary">
+              开始测试
+            </button>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="card-header">
+            <h2>替换与呈现策略</h2>
+          </div>
+
+          <div class="setting-group-v">
+            <div class="setting-group-title">呈现模式 (Presentation)</div>
+            <div class="option-cards" id="presentationContainer">
+              <label class="option-card">
+                <input type="radio" name="presentation" value="en_cn" checked />
+                <div class="option-card-content">
+                  <div class="option-icon">🔤</div>
+                  <div class="option-name">English (中文)</div>
+                  <div class="option-desc">英文为主，括号中文辅助（默认）</div>
+                </div>
+              </label>
+              <label class="option-card">
+                <input type="radio" name="presentation" value="cn_en" />
+                <div class="option-card-content">
+                  <div class="option-icon">文</div>
+                  <div class="option-name">中文 (English)</div>
+                  <div class="option-desc">中文为主，括号英文辅助</div>
+                </div>
+              </label>
+              <label class="option-card">
+                <input type="radio" name="presentation" value="en_only" />
+                <div class="option-card-content">
+                  <div class="option-icon">🇺🇸</div>
+                  <div class="option-name">English Only</div>
+                  <div class="option-desc">仅显示英文，不提供中文翻译</div>
+                </div>
+              </label>
+            </div>
+
+            <div class="setting-group-title" style="margin-top: 24px">
+              替换强度 (Intensity)
+            </div>
+            <div class="option-cards" id="intensityContainer">
+              <label class="option-card">
+                <input type="radio" name="intensity" value="low" />
+                <div class="option-card-content">
+                  <div class="option-icon">🌱</div>
+                  <div class="option-name">初学探索</div>
+                  <div class="option-desc">每段仅替换约 3-5% 的核心词汇</div>
+                </div>
+              </label>
+              <label class="option-card">
+                <input type="radio" name="intensity" value="medium" checked />
+                <div class="option-card-content">
+                  <div class="option-icon">🌿</div>
+                  <div class="option-name">进阶训练</div>
+                  <div class="option-desc">均衡替换，覆盖约 10-15% 的内容</div>
+                </div>
+              </label>
+              <label class="option-card">
+                <input type="radio" name="intensity" value="high" />
+                <div class="option-card-content">
+                  <div class="option-icon">🌳</div>
+                  <div class="option-name">深度浸入</div>
+                  <div class="option-desc">高频替换，模拟纯外语阅读环境</div>
+                </div>
+              </label>
+            </div>
+
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- Vocabulary Tab -->
+      <div class="tab-content" id="tab-vocabulary">
+        <section class="card">
+          <div class="card-header">
+            <h2>认识词汇</h2>
+            <button
+              id="knownWordsRefresh"
+              type="button"
+              class="btn-secondary btn-sm"
+            >
+              刷新
+            </button>
+          </div>
+
+          <div class="hint">
+            已标记为「认识」的词汇会在网页中以纯英文显示，不再附带中文括号。
+          </div>
+
+          <div class="divider"></div>
+
+          <div class="row" style="align-items: flex-end">
+            <label class="field" style="flex: 1">
+              <span>搜索</span>
+              <input
+                id="knownWordsSearch"
+                type="text"
+                placeholder="英文 / 中文 / ID"
+              />
+            </label>
+            <div class="field" style="width: 200px">
+              <span>总数</span>
+              <div id="knownWordsCount" class="hint">0</div>
+            </div>
+          </div>
+
+          <div
+            id="knownWordsEmpty"
+            class="empty-state"
+            style="display: none; margin-top: 20px"
+          >
+            <div class="empty-icon">📘</div>
+            <p>暂无已认识词汇</p>
+            <p class="hint">
+              在网页上点击单词卡片里的「认识」即可记录到这里
+            </p>
+          </div>
+
+          <div id="knownWordsList" class="known-words-list"></div>
+        </section>
+      </div>
+
+      <!-- Behavior Tab -->
+      <div class="tab-content" id="tab-behavior">
+        <section class="card">
+          <div class="card-header">
+            <h2>发音与交互</h2>
+          </div>
+
+          <div class="setting-group">
+            <div class="setting-item row">
+              <div class="setting-text">
+                <div class="setting-label">启用发音辅助</div>
+                <div class="hint">
+                  阅读时可点击或悬停英文单词收听真人/系统发音
+                </div>
+              </div>
+              <div class="toggle-container">
+                <input id="voiceEnabled" type="checkbox" />
+                <span class="toggle-slider"></span>
+              </div>
+            </div>
+
+            <div class="setting-item row">
+              <div class="setting-text">
+                <div class="setting-label">自动悬停发音</div>
+                <div class="hint">鼠标滑过英文词汇时，无需点击即可自动朗读</div>
+              </div>
+              <div class="toggle-container">
+                <input id="voiceAutoOnHover" type="checkbox" />
+                <span class="toggle-slider"></span>
+              </div>
+            </div>
+
+            <div class="grid" style="margin-top: 24px">
+              <label class="field">
+                <span>发音来源 (TTS Provider)</span>
+                <select id="voiceProvider">
+                  <option value="system">本地 TTS（系统）</option>
+                  <option value="google">Google TTS（远程）</option>
+                  <option value="youdao">有道（远程）</option>
+                </select>
+                <div class="hint">如遇远程失败将自动回退到本地</div>
+              </label>
+
+              <label class="field">
+                <span>标准口音 (Language)</span>
+                <select id="voiceLang">
+                  <option value="en-US">美式 (en-US)</option>
+                  <option value="en-GB">英式 (en-GB)</option>
+                </select>
+              </label>
+
+              <label class="field">
+                <span>发音语速 (Rate)</span>
+                <input
+                  id="voiceRate"
+                  type="number"
+                  min="0.5"
+                  max="2.0"
+                  step="0.1"
+                  value="1.0"
+                />
+                <div class="hint">调节范围 0.5 ~ 2.0</div>
+              </label>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- Sites Tab -->
+      <div class="tab-content" id="tab-sites">
+        <section class="card">
+          <div class="card-header">
+            <h2>站点规则</h2>
+          </div>
+
+          <div class="setting-group">
+            <div class="setting-group-title">运行模式</div>
+            <p class="hint" style="margin-bottom: 16px">选择插件的运行范围</p>
+            <div class="option-cards" id="siteModeContainer">
+              <label class="option-card">
+                <input type="radio" name="siteMode" value="all" checked />
+                <div class="option-card-content">
+                  <div class="option-icon">🌐</div>
+                  <div class="option-name">所有网站</div>
+                  <div class="option-desc">在所有网站运行，可排除特定站点</div>
+                </div>
+              </label>
+              <label class="option-card">
+                <input type="radio" name="siteMode" value="whitelist" />
+                <div class="option-card-content">
+                  <div class="option-icon">✅</div>
+                  <div class="option-name">仅指定网站</div>
+                  <div class="option-desc">只在指定的网站上运行</div>
+                </div>
+              </label>
+            </div>
+          </div>
+
+          <div class="divider" style="margin: 24px 0"></div>
+
+          <div class="setting-group" id="excludedSitesGroup">
+            <div class="setting-group-title">排除站点</div>
+            <p class="hint" style="margin-bottom: 12px">
+              这些站点将不会进行任何处理，每行一个（支持部分匹配，如 "github"
+              匹配所有包含 github 的域名）
+            </p>
+            <textarea
+              id="excludedSitesInput"
+              class="sites-textarea"
+              placeholder="example.com
+github.com"
+              rows="6"
+            ></textarea>
+          </div>
+
+          <div
+            class="setting-group"
+            id="allowedSitesGroup"
+            style="display: none"
+          >
+            <div class="setting-group-title">指定站点</div>
+            <p class="hint" style="margin-bottom: 12px">
+              只有这些站点会进行处理，每行一个（支持部分匹配，如 "news"
+              匹配所有包含 news 的域名）
+            </p>
+            <textarea
+              id="allowedSitesInput"
+              class="sites-textarea"
+              placeholder="news.example.com
+blog.example.com"
+              rows="6"
+            ></textarea>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <div class="modal-overlay" id="nodeModalOverlay" style="display: none">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 id="nodeModalTitle">添加节点</h3>
+          <button type="button" class="modal-close" id="nodeModalClose">
+            &times;
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="field">
+            <span>节点名称</span>
+            <input
+              type="text"
+              id="nodeNameInput"
+              placeholder="例如：DeepSeek、OpenAI"
+            />
+          </div>
+          <div class="field">
+            <span>API 端点</span>
+            <input
+              type="url"
+              id="nodeEndpointInput"
+              placeholder="https://api.example.com/v1/chat/completions"
+            />
+          </div>
+          <div class="field">
+            <span>API 密钥</span>
+            <div class="input-with-action">
+              <input
+                type="password"
+                id="nodeApiKeyInput"
+                placeholder="sk-xxxxx"
+              />
+              <button type="button" class="btn-text" id="toggleNodeApiKey">
+                👁️
+              </button>
+            </div>
+          </div>
+          <div class="field">
+            <span>节点模型名</span>
+            <input
+              type="text"
+              id="nodeModelInput"
+              placeholder="例如：gpt-4o-mini"
+            />
+          </div>
+          <div class="field">
+            <span>速率限制 (RPM)</span>
+            <div class="rate-limit-input-wrapper">
+              <input
+                type="number"
+                id="nodeRateLimitInput"
+                min="0"
+                max="1000"
+                placeholder="0"
+              />
+              <span class="rate-limit-unit">次/分钟</span>
+            </div>
+            <span class="hint">0 或留空使用全局设置</span>
+          </div>
+
+          <div class="field">
+            <span>快速填充预设</span>
+            <div class="preset-buttons">
+              <button
+                type="button"
+                class="btn-secondary btn-xs preset-btn"
+                data-preset="modelscope"
+              >
+                魔搭
+              </button>
+              <button
+                type="button"
+                class="btn-secondary btn-xs preset-btn"
+                data-preset="deepseek"
+              >
+                DeepSeek
+              </button>
+              <button
+                type="button"
+                class="btn-secondary btn-xs preset-btn"
+                data-preset="openai"
+              >
+                OpenAI
+              </button>
+              <button
+                type="button"
+                class="btn-secondary btn-xs preset-btn"
+                data-preset="moonshot"
+              >
+                Moonshot
+              </button>
+              <button
+                type="button"
+                class="btn-secondary btn-xs preset-btn"
+                data-preset="groq"
+              >
+                Groq
+              </button>
+              <button
+                type="button"
+                class="btn-secondary btn-xs preset-btn"
+                data-preset="ollama"
+              >
+                Ollama
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <div class="modal-footer-left">
+            <button type="button" class="btn-secondary" id="testNodeBtn">
+              <svg viewBox="0 0 24 24" width="16" height="16" class="test-icon">
+                <path
+                  fill="currentColor"
+                  d="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 12,2A10,10 0 0,1 12,2M11,16.5L18,9.5L16.59,8.09L11,13.67L7.91,10.59L6.5,12L11,16.5Z"
+                />
+              </svg>
+              <svg
+                viewBox="0 0 24 24"
+                width="16"
+                height="16"
+                class="loading-icon"
+              >
+                <path
+                  fill="currentColor"
+                  d="M12,4V2A10,10 0 0,0 2,12H4A8,8 0 0,1 12,4Z"
+                />
+              </svg>
+              <span>测试连接</span>
+            </button>
+            <span id="nodeTestResult" class="test-result"></span>
+          </div>
+          <div class="modal-footer-right">
+            <button type="button" class="btn-secondary" id="cancelNodeBtn">
+              取消
+            </button>
+            <button type="button" class="btn-primary" id="saveNodeBtn">
+              保存
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Vocabulary Test Modal -->
+    <div class="modal-overlay" id="vocabTestModal" style="display: none">
+      <div class="modal-content" style="max-width: 480px">
+        <div class="modal-header">
+          <div class="modal-title">词汇量水平测试</div>
+          <button type="button" class="modal-close" id="vocabTestClose">
+            &times;
+          </button>
+        </div>
+        <div class="modal-body vocab-test-body">
+          <div class="vocab-test-header">
+            <div class="progress-bar-container">
+              <div id="vocabTestProgressBar" class="progress-bar-fill" style="width: 0%"></div>
+            </div>
+            <div class="progress-info">
+              <span id="vocabTestProgress" class="progress-text">-</span>
+              <span id="vocabTestLevel" class="level-badge">-</span>
+            </div>
+          </div>
+
+          <div class="vocab-test-content">
+            <div id="vocabTestWord" class="vocab-test-word">
+              -
+            </div>
+            <div id="vocabTestHint" class="vocab-hint">
+              判断标准：如果你能大致理解/会用这个英文单词，点「认识」；否则点「不认识」。
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer" style="justify-content: center; gap: 16px">
+          <button
+            id="vocabTestUnknown"
+            type="button"
+            class="btn-secondary"
+            style="min-width: 120px"
+          >
+            不认识
+          </button>
+          <button
+            id="vocabTestKnown"
+            type="button"
+            class="btn-primary"
+            style="min-width: 120px"
+          >
+            认识
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="../../shared/globals.js"></script>
+    <script src="options.js"></script>
+  </body>
+</html>

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="popup.css" />
+        <title>FlowLingo</title>
+    </head>
+    <body>
+        <div class="app">
+            <header class="header">
+                <div class="brand">
+                    <img
+                        src="../../assets/icons/icon128.png"
+                        alt="Logo"
+                        class="logo-icon"
+                    />
+                    <div class="title">FlowLingo</div>
+                </div>
+                <a
+                    class="link-btn"
+                    href="../options/options.html"
+                    target="_blank"
+                    rel="noopener"
+                >
+                    设置
+                </a>
+            </header>
+
+            <section class="card main-control">
+                <div class="row">
+                    <div class="label-group">
+                        <span class="label-lg">启用AI</span>
+                        <div id="status" class="status-badge"></div>
+                    </div>
+                    <label class="toggle-container">
+                        <input id="globalEnabled" type="checkbox" />
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+
+                <div class="divider" id="siteDivider"></div>
+
+                <div class="row" id="siteRow">
+                    <div class="label-group">
+                        <div class="label">当前站点</div>
+                        <div id="domainLabel" class="muted">-</div>
+                    </div>
+                    <label class="toggle-container">
+                        <input id="siteEnabled" type="checkbox" />
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+
+                <div class="divider"></div>
+
+                <div class="row">
+                    <div class="label-group">
+                        <div class="label">英语等级</div>
+                        <div id="difficultyLabel" class="muted">-</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="card main-control">
+                <div class="row">
+                    <label for="intensity" class="label">替换强度</label>
+                    <select id="intensity">
+                        <option value="low">低</option>
+                        <option value="medium">中（默认）</option>
+                        <option value="high">高</option>
+                    </select>
+                </div>
+                <div id="gateHint" class="muted" style="margin-top: 10px"></div>
+            </section>
+
+            <section class="card stats-card">
+                <div class="subtitle">学习统计</div>
+                <div id="stats" class="stats"></div>
+            </section>
+        </div>
+
+        <script src="../../shared/globals.js"></script>
+        <script src="popup.js"></script>
+    </body>
+</html>
