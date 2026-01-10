@@ -57,7 +57,57 @@
       console.log("FlowLingo: Showing global pending banner");
       globalPendingEl = document.createElement("div");
       globalPendingEl.className = "flowlingo-global-pending";
-      globalPendingEl.textContent = "FlowLingo: Scanning...";
+      globalPendingEl.textContent = "Scanning...";
+
+      // Center vertically by default
+      globalPendingEl.style.transform = "translateY(-50%)";
+
+      let isDragging = false;
+      let startY = 0;
+      let startTop = 0;
+
+      const onMouseDown = (e) => {
+        isDragging = true;
+        startY = e.clientY;
+        const rect = globalPendingEl.getBoundingClientRect();
+        startTop = rect.top + rect.height / 2; // Use center as reference
+        globalPendingEl.style.transition = "none"; // Disable transition during drag
+
+        // Prevent text selection
+        e.preventDefault();
+
+        document.addEventListener("mousemove", onMouseMove);
+        document.addEventListener("mouseup", onMouseUp);
+      };
+
+      const onMouseMove = (e) => {
+        if (!isDragging) return;
+        const deltaY = e.clientY - startY;
+        let newTop = startTop + deltaY;
+
+        // Constraints
+        const headerHeight = 60; // Approximate safety margin
+        const footerHeight = 60;
+        const minTop = headerHeight;
+        const maxTop =
+          (global.innerHeight || document.documentElement.clientHeight) -
+          footerHeight;
+
+        if (newTop < minTop) newTop = minTop;
+        if (newTop > maxTop) newTop = maxTop;
+
+        globalPendingEl.style.top = `${newTop}px`;
+      };
+
+      const onMouseUp = () => {
+        isDragging = false;
+        globalPendingEl.style.transition = ""; // Re-enable transition
+        document.removeEventListener("mousemove", onMouseMove);
+        document.removeEventListener("mouseup", onMouseUp);
+      };
+
+      globalPendingEl.addEventListener("mousedown", onMouseDown);
+
       document.documentElement.appendChild(globalPendingEl);
     }
   }
@@ -331,14 +381,16 @@
     const snippet = s.slice(snippetStart, snippetEnd).trim();
     if (!snippet) return sentence.slice(0, 140);
 
-    return `${snippetStart > 0 ? "…" : ""}${snippet}${snippetEnd < s.length ? "…" : ""}`;
+    return `${snippetStart > 0 ? "…" : ""}${snippet}${
+      snippetEnd < s.length ? "…" : ""
+    }`;
   }
 
   function restoreSpan(span) {
     const oid = span.getAttribute(FlowLingo.DOM.oidAttr);
     const original = oid ? oidToOriginal.get(oid) : undefined;
     const textNode = document.createTextNode(
-      original ?? span.textContent ?? "",
+      original ?? span.textContent ?? ""
     );
     processedTextNodes.add(textNode);
     span.replaceWith(textNode);
@@ -347,7 +399,7 @@
 
   function restoreAll() {
     const spans = document.querySelectorAll(
-      `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`,
+      `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
     );
     for (const span of spans) {
       restoreSpan(span);
@@ -507,7 +559,7 @@
           span.className = "flowlingo-token";
           span.setAttribute(
             FlowLingo.DOM.markerAttr,
-            FlowLingo.DOM.markerValue,
+            FlowLingo.DOM.markerValue
           );
           if (action.kind === "inject_word") {
             span.setAttribute(FlowLingo.DOM.wordIdAttr, action.word.id);
@@ -519,7 +571,7 @@
               action.word.cn,
               action.render?.presentation ||
                 currentPolicy?.presentation ||
-                "en_cn",
+                "en_cn"
             );
             injectedCount += 1;
           } else if (action.kind === "rewrite_sentence") {
@@ -530,7 +582,7 @@
             }
             span.textContent = renderSentenceRewrite(
               action.rewritten.en,
-              action.rewritten.supportCn,
+              action.rewritten.supportCn
             );
           }
           span.setAttribute(FlowLingo.DOM.oidAttr, oid);
@@ -683,7 +735,7 @@
     if (!q) return "";
     const tl = toGoogleTtsLangCode(lang);
     return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(
-      q,
+      q
     )}&tl=${encodeURIComponent(tl)}&client=tw-ob`;
   }
 
@@ -692,7 +744,7 @@
     if (!q) return "";
     const type = 2;
     return `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(
-      q,
+      q
     )}&type=${type}`;
   }
 
@@ -775,7 +827,7 @@
       if (provider === "google") {
         global.speechSynthesis?.cancel?.();
         const ok = await playAudioUrl(
-          buildGoogleTranslateTtsUrl(text, currentPolicy.voice?.lang),
+          buildGoogleTranslateTtsUrl(text, currentPolicy.voice?.lang)
         );
         if (ok) return;
       }
@@ -825,7 +877,7 @@
     const top = Math.min(global.innerHeight - 80, rect.bottom + margin);
     const maxLeft = Math.max(
       8,
-      global.innerWidth - OVERLAY_FALLBACK_WIDTH - margin,
+      global.innerWidth - OVERLAY_FALLBACK_WIDTH - margin
     );
     const left = Math.min(maxLeft, Math.max(margin, rect.left));
 
@@ -900,29 +952,29 @@
       "mouseover",
       (e) => {
         const span = e.target?.closest?.(
-          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`,
+          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
         );
         if (!span) return;
         cancelOverlayHide();
         scheduleHover(span);
       },
-      true,
+      true
     );
     document.addEventListener(
       "mouseout",
       (e) => {
         const fromSpan = e.target?.closest?.(
-          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`,
+          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
         );
         const toSpan = e.relatedTarget?.closest?.(
-          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`,
+          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
         );
         const toOverlay = e.relatedTarget?.closest?.(".flowlingo-overlay");
         if (fromSpan && (toSpan || toOverlay)) return;
         cancelHover();
         if (!toOverlay) scheduleOverlayHide();
       },
-      true,
+      true
     );
 
     document.addEventListener(
@@ -930,7 +982,7 @@
       () => {
         userGestureSeen = true;
       },
-      { capture: true, once: true },
+      { capture: true, once: true }
     );
   }
 
@@ -974,7 +1026,7 @@
         () => {
           runScan();
         },
-        { timeout: idleTimeoutMs },
+        { timeout: idleTimeoutMs }
       );
       scanHandle = { kind: "idle", id };
       return;
@@ -1006,7 +1058,7 @@
       didWork = true;
 
       console.log(
-        `FlowLingo: Found ${segmentsWithNode.length} segments. Planning...`,
+        `FlowLingo: Found ${segmentsWithNode.length} segments. Planning...`
       );
 
       const FIRST_BATCH_SIZE = 5;
@@ -1122,7 +1174,7 @@
       }
       if (
         el.closest(
-          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`,
+          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
         )
       ) {
         return true;

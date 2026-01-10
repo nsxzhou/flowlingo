@@ -1,204 +1,219 @@
 /* 待翻译状态 - 左侧边框 + 背景高亮 */
 :root {
-    --flowlingo-primary: #0052ff;
-    --flowlingo-primary-secondary: #4d7cff;
+  --flowlingo-primary: #0052ff;
+  --flowlingo-primary-secondary: #4d7cff;
 }
 
 @keyframes flowlingo-bg-pulse {
-    0% {
-        background-color: rgba(0, 82, 255, 0.04);
-    }
-    50% {
-        background-color: rgba(0, 82, 255, 0.12);
-    }
-    100% {
-        background-color: rgba(0, 82, 255, 0.04);
-    }
+  0% {
+    background-color: rgba(0, 82, 255, 0.04);
+  }
+  50% {
+    background-color: rgba(0, 82, 255, 0.12);
+  }
+  100% {
+    background-color: rgba(0, 82, 255, 0.04);
+  }
 }
 
 .flowlingo-pending {
-    /* 仅保留极其微弱的背景呼吸光晕，去除左侧亮条 */
-    box-shadow: inset 0 0 12px rgba(0, 82, 255, 0.05);
-    animation: flowlingo-bg-pulse 2s infinite ease-in-out !important;
+  /* 仅保留极其微弱的背景呼吸光晕，去除左侧亮条 */
+  box-shadow: inset 0 0 12px rgba(0, 82, 255, 0.05);
+  animation: flowlingo-bg-pulse 2s infinite ease-in-out !important;
 }
 
 .flowlingo-token {
-    /* 用户不需要背景色，只保留下划线 */
-    border-bottom: 2px solid var(--flowlingo-primary, #0052ff);
-    background: transparent;
-    padding: 0 1px;
-    cursor: help;
-    transition:
-        background 0.2s,
-        color 0.2s;
+  /* 用户不需要背景色，只保留下划线 */
+  border-bottom: 2px solid var(--flowlingo-primary, #0052ff);
+  background: transparent;
+  padding: 0 1px;
+  cursor: help;
+  transition: background 0.2s, color 0.2s;
 }
 
 .flowlingo-token:hover {
-    /* 悬浮时显示背景色 */
-    background: rgba(0, 82, 255, 0.12);
+  /* 悬浮时显示背景色 */
+  background: rgba(0, 82, 255, 0.12);
 }
 
 .flowlingo-overlay {
-    position: fixed;
-    z-index: 2147483646;
-    display: none;
-    width: 320px;
-    max-width: calc(100vw - 16px);
-    padding: 20px;
-    box-sizing: border-box;
-    border: none;
-    border-radius: 20px;
-    background: #ffffff;
-    color: #1c1c1e;
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
-    font:
-        14px/1.5 system-ui,
-        -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        Roboto,
-        Helvetica,
-        Arial,
-        sans-serif;
-    -webkit-font-smoothing: antialiased;
+  position: fixed;
+  z-index: 2147483646;
+  display: none;
+  width: 320px;
+  max-width: calc(100vw - 16px);
+  padding: 20px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  background: #ffffff;
+  color: #1c1c1e;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  font: 14px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 .flowlingo-overlay__header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
 }
 
 .flowlingo-overlay__en {
-    font-weight: 800;
-    font-size: 18px;
-    letter-spacing: -0.4px;
-    color: #1c1c1e;
-    flex: 1;
-    min-width: 0;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+  font-weight: 800;
+  font-size: 18px;
+  letter-spacing: -0.4px;
+  color: #1c1c1e;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .flowlingo-overlay__actions {
-    display: flex;
-    gap: 6px;
-    flex-shrink: 0;
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
 }
 
 .flowlingo-action-btn {
-    appearance: none;
-    border: none;
-    background: #f2f3f8;
-    border-radius: 12px;
-    padding: 7px 10px;
-    font-size: 12px;
-    font-weight: 600;
-    color: #1c1c1e;
-    cursor: pointer;
-    transition:
-        background 0.2s,
-        transform 0.1s;
+  appearance: none;
+  border: none;
+  background: #f2f3f8;
+  border-radius: 12px;
+  padding: 7px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #1c1c1e;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
 }
 
 .flowlingo-action-btn:focus-visible {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(0, 82, 255, 0.18);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 82, 255, 0.18);
 }
 
 .flowlingo-action-btn:not(.primary):hover {
-    background: #e5e6ed;
+  background: #e5e6ed;
 }
 
 .flowlingo-action-btn.primary {
-    background: linear-gradient(
-        135deg,
-        var(--flowlingo-primary, #0052ff),
-        var(--flowlingo-primary-secondary, #4d7cff)
-    );
-    color: #ffffff;
+  background: linear-gradient(
+    135deg,
+    var(--flowlingo-primary, #0052ff),
+    var(--flowlingo-primary-secondary, #4d7cff)
+  );
+  color: #ffffff;
 }
 
 .flowlingo-action-btn.primary:hover {
-    filter: brightness(1.06);
+  filter: brightness(1.06);
 }
 
 .flowlingo-overlay__body {
-    margin-top: 12px;
+  margin-top: 12px;
 }
 
 .flowlingo-overlay__ai {
-    background: rgba(0, 82, 255, 0.06);
-    border: 1px solid rgba(0, 82, 255, 0.14);
-    border-radius: 14px;
-    padding: 12px 12px;
+  background: rgba(0, 82, 255, 0.06);
+  border: 1px solid rgba(0, 82, 255, 0.14);
+  border-radius: 14px;
+  padding: 12px 12px;
 }
 
 .flowlingo-overlay__ai-head {
-    font-size: 11px;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    color: #0052ff;
-    margin-bottom: 8px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #0052ff;
+  margin-bottom: 8px;
 }
 
 .flowlingo-overlay__ai-text {
-    font-size: 13px;
-    color: #0f172a;
-    line-height: 1.55;
-    word-break: break-word;
+  font-size: 13px;
+  color: #0f172a;
+  line-height: 1.55;
+  word-break: break-word;
 }
 
 .flowlingo-toast {
-    position: fixed;
-    right: 16px;
-    bottom: 16px;
-    z-index: 2147483647;
-    max-width: 360px;
-    padding: 12px 14px;
-    border-radius: 14px;
-    background: rgba(28, 28, 30, 0.92);
-    color: #ffffff;
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
-    font:
-        13px/1.4 system-ui,
-        -apple-system,
-        BlinkMacSystemFont,
-        "Segoe UI",
-        Roboto,
-        Helvetica,
-        Arial,
-        sans-serif;
-    cursor: pointer;
-    user-select: none;
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 2147483647;
+  max-width: 360px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(28, 28, 30, 0.92);
+  color: #ffffff;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
+  font: 13px/1.4 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  cursor: pointer;
+  user-select: none;
 }
 
 .flowlingo-global-pending {
-    position: fixed;
-    top: 16px;
-    right: 16px;
-    z-index: 2147483647;
-    padding: 8px 16px;
-    background: linear-gradient(135deg, #0052ff, #4d7cff);
-    color: white;
-    border-radius: 20px;
-    font-family: system-ui, sans-serif;
-    font-size: 13px;
-    font-weight: 600;
-    box-shadow: 0 4px 12px rgba(0, 82, 255, 0.28);
-    pointer-events: none;
-    animation: flowlingo-fade-in 0.2s ease-out;
+  position: fixed;
+  top: 50%;
+  right: 0;
+  z-index: 2147483647;
+  padding: 6px 12px 6px 14px;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: #1c1c1e;
+  border-radius: 16px 0 0 16px;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  box-shadow: -2px 4px 12px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-right: none;
+  pointer-events: auto;
+  cursor: ns-resize;
+  user-select: none;
+  transition: transform 0.1s ease-out;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.flowlingo-global-pending::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #0052ff;
+  animation: flowlingo-pulse-dot 1s infinite;
+}
+
+@keyframes flowlingo-pulse-dot {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.4);
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
 }
 
 @keyframes flowlingo-fade-in {
-    from {
-        opacity: 0;
-        transform: translateY(-10px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
