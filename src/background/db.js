@@ -140,6 +140,14 @@
     return states;
   }
 
+  async function deleteUserWordState(wordId) {
+    const db = await openDb();
+    const tx = db.transaction(["user_word_state"], "readwrite");
+    const store = tx.objectStore("user_word_state");
+    store.delete(wordId);
+    await txDone(tx);
+  }
+
   async function addEvent(event) {
     const db = await openDb();
     const tx = db.transaction(["events"], "readwrite");
@@ -320,6 +328,7 @@
     getUserWordState,
     putUserWordState,
     listUserWordStates,
+    deleteUserWordState,
     addEvent,
     listEventsByTsRange,
     listRecentEvents,

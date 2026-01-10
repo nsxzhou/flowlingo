@@ -16,7 +16,7 @@
 
   const elVocabTestLevel = document.getElementById("vocabTestLevel");
   const elVocabTestProgressBar = document.getElementById(
-    "vocabTestProgressBar",
+    "vocabTestProgressBar"
   );
 
   const elVoiceEnabled = document.getElementById("voiceEnabled");
@@ -203,7 +203,7 @@
 
     // 按优先级排序（如果有）
     const sortedNodes = [...nodes].sort(
-      (a, b) => (a.priority ?? 0) - (b.priority ?? 0),
+      (a, b) => (a.priority ?? 0) - (b.priority ?? 0)
     );
 
     elApiNodesList.innerHTML = sortedNodes
@@ -233,12 +233,12 @@
           <div class="api-node-status ${
             node.lastStatus || "unknown"
           }" id="status-${node.id}" title="${
-            node.lastStatus === "healthy"
-              ? "连接正常"
-              : node.lastStatus === "error"
-                ? "连接失败"
-                : "未测试"
-          }"></div>
+          node.lastStatus === "healthy"
+            ? "连接正常"
+            : node.lastStatus === "error"
+            ? "连接失败"
+            : "未测试"
+        }"></div>
           <div class="api-node-info">
             <div class="api-node-name">
               ${escapeHtml(node.name || "未命名节点")}
@@ -249,7 +249,7 @@
               }
             </div>
             <div class="api-node-endpoint">${escapeHtml(
-              maskEndpoint(node.baseUrl || ""),
+              maskEndpoint(node.baseUrl || "")
             )} · ${escapeHtml(node.model || "默认模型")}</div>
             ${rateInfoHtml}
           </div>
@@ -323,7 +323,7 @@
 
         // 保存新的优先级顺序
         const nodeIds = Array.from(
-          elApiNodesList.querySelectorAll(".api-node-card"),
+          elApiNodesList.querySelectorAll(".api-node-card")
         ).map((c) => c.dataset.nodeId);
 
         const endpoints = currentSettings.llm.endpoints;
@@ -440,7 +440,7 @@
 
     if (editingNodeId) {
       const idx = currentSettings.llm.endpoints.findIndex(
-        (n) => n.id === editingNodeId,
+        (n) => n.id === editingNodeId
       );
       if (idx !== -1) {
         currentSettings.llm.endpoints[idx] = {
@@ -596,7 +596,7 @@
   function deleteNode(nodeId) {
     if (!confirm("确定要删除这个节点吗？")) return;
     currentSettings.llm.endpoints = currentSettings.llm.endpoints.filter(
-      (n) => n.id !== nodeId,
+      (n) => n.id !== nodeId
     );
     renderNodesList();
     scheduleSave();
@@ -615,7 +615,7 @@
     const safeLevel = VOCAB_LEVELS.includes(level) ? level : "A1";
     try {
       const url = chrome.runtime.getURL(
-        `src/assets/cefr_wordlist/${safeLevel}.txt`,
+        `src/assets/cefr_wordlist/${safeLevel}.txt`
       );
       const resp = await fetch(url);
       if (!resp.ok) return VOCAB_TEST_WORDS_FALLBACK[safeLevel] || [];
@@ -791,7 +791,7 @@
     // 检查词库是否为空
     const totalWords = Object.values(pools).reduce(
       (acc, arr) => acc + arr.length,
-      0,
+      0
     );
     if (totalWords === 0) {
       setStatus("测试词表加载失败");
@@ -886,10 +886,10 @@
 
   function readFormAsPatch() {
     const selectedPresentation = document.querySelector(
-      'input[name="presentation"]:checked',
+      'input[name="presentation"]:checked'
     );
     const selectedIntensity = document.querySelector(
-      'input[name="intensity"]:checked',
+      'input[name="intensity"]:checked'
     );
 
     return {
@@ -1021,11 +1021,44 @@
             </div>
             <div class="known-word-meta">
               <div class="known-word-pill">认识 × ${knownCount}</div>
+              <button class="btn-icon danger known-word-delete" data-word-id="${wordId}" title="删除">
+                <svg viewBox="0 0 24 24" width="16" height="16">
+                  <path fill="currentColor" d="M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z"/>
+                </svg>
+              </button>
             </div>
           </div>
         `;
       })
       .join("");
+
+    // 绑定删除按钮事件
+    elKnownWordsList.querySelectorAll(".known-word-delete").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const wordId = btn.dataset.wordId;
+        if (!wordId) return;
+        if (
+          !confirm(
+            `确定要删除词汇「${wordId}」吗？删除后该词汇将重新出现翻译。`
+          )
+        )
+          return;
+
+        btn.disabled = true;
+        const res = await send(FlowLingo.MessageType.DELETE_KNOWN_WORD, {
+          wordId,
+        });
+        if (res?.ok) {
+          // 从缓存中移除并重新渲染
+          knownWordsCache = knownWordsCache.filter((w) => w.wordId !== wordId);
+          renderKnownWords();
+          setStatus("词汇已删除");
+        } else {
+          setStatus("删除失败");
+          btn.disabled = false;
+        }
+      });
+    });
   }
 
   async function loadKnownWords() {
@@ -1040,10 +1073,10 @@
 
   function switchTab(tabId) {
     elNavItems.forEach((i) =>
-      i.classList.toggle("active", i.dataset.tab === tabId),
+      i.classList.toggle("active", i.dataset.tab === tabId)
     );
     elTabContents.forEach((c) =>
-      c.classList.toggle("active", c.id === `tab-${tabId}`),
+      c.classList.toggle("active", c.id === `tab-${tabId}`)
     );
     const meta = tabMeta[tabId];
     if (meta) {
@@ -1092,7 +1125,7 @@
       elNodeApiKeyInput.type === "password" ? "text" : "password";
   });
   elTestNodeBtn.addEventListener("click", () =>
-    testNode("modal", elTestNodeBtn),
+    testNode("modal", elTestNodeBtn)
   );
 
   elPresetBtns.forEach((btn) => {
@@ -1128,7 +1161,7 @@
 
   if (elKnownWordsRefresh)
     elKnownWordsRefresh.addEventListener("click", () =>
-      loadKnownWords().catch(() => {}),
+      loadKnownWords().catch(() => {})
     );
   if (elKnownWordsSearch)
     elKnownWordsSearch.addEventListener("input", () => renderKnownWords());

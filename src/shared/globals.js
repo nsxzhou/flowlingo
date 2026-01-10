@@ -19,6 +19,7 @@
     GET_SITE_RULE: "GET_SITE_RULE",
     FETCH_AUDIO_DATA: "FETCH_AUDIO_DATA",
     TEST_LLM_ENDPOINT: "TEST_LLM_ENDPOINT",
+    DELETE_KNOWN_WORD: "DELETE_KNOWN_WORD",
   });
 
   FlowLingo.ErrorCode = Object.freeze({
@@ -141,7 +142,7 @@
         current && typeof current === "object" && !Array.isArray(current)
           ? current
           : {},
-        value,
+        value
       );
     }
     return output;

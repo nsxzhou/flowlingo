@@ -66,7 +66,7 @@
     if (!safeEn || !safeCn) {
       return FlowLingo.err(
         FlowLingo.ErrorCode.INVALID_REQUEST,
-        "missing en/cn",
+        "missing en/cn"
       );
     }
 
@@ -83,7 +83,7 @@
     if (!FlowLingo.aiCache?.init) {
       return FlowLingo.err(
         FlowLingo.ErrorCode.DB_ERROR,
-        "ai cache not available",
+        "ai cache not available"
       );
     }
     await FlowLingo.aiCache.init();
@@ -126,8 +126,8 @@
         FlowLingo.err(
           FlowLingo.ErrorCode.LLM_ENDPOINT_UNAVAILABLE,
           "explain failed",
-          String(e),
-        ),
+          String(e)
+        )
       );
 
     if (!res?.ok) return res;
@@ -217,7 +217,7 @@
     // 最小化校验与归一化
     next.enabled = Boolean(next.enabled);
     next.presentation = ["en_cn", "cn_en", "en_only"].includes(
-      next.presentation,
+      next.presentation
     )
       ? next.presentation
       : current.presentation;
@@ -276,7 +276,7 @@
       rateLimitEnabled: Boolean(next.llm?.rateLimitEnabled),
       globalRateLimit: Number.isFinite(next.llm?.globalRateLimit)
         ? Math.max(0, next.llm.globalRateLimit)
-        : (current.llm.globalRateLimit ?? 60),
+        : current.llm.globalRateLimit ?? 60,
       endpoints: Array.isArray(next.llm?.endpoints)
         ? next.llm.endpoints.map((e) => ({
             id: typeof e?.id === "string" ? e.id : crypto.randomUUID(),
@@ -322,14 +322,14 @@
     if (siteMode === "all") {
       // 所有网站模式，检查是否在排除列表中
       siteAllowed = !excludedSites.some((pattern) =>
-        domain.toLowerCase().includes(pattern.toLowerCase()),
+        domain.toLowerCase().includes(pattern.toLowerCase())
       );
     } else if (siteMode === "whitelist") {
       // 网站白名单模式，检查是否在允许列表中
       siteAllowed =
         allowedSites.length === 0 ||
         allowedSites.some((pattern) =>
-          domain.toLowerCase().includes(pattern.toLowerCase()),
+          domain.toLowerCase().includes(pattern.toLowerCase())
         );
     }
 
@@ -350,19 +350,19 @@
       Boolean(settings.llm?.enabled) &&
       Array.isArray(settings.llm.endpoints) &&
       settings.llm.endpoints.some(
-        (e) => e && e.enabled && typeof e.baseUrl === "string" && e.baseUrl,
+        (e) => e && e.enabled && typeof e.baseUrl === "string" && e.baseUrl
       );
 
     const replacementReady = enabled && tested && llmConfigured;
     const blockedReason = !siteAllowed
       ? "site_blocked"
       : !enabled
-        ? "disabled"
-        : !tested
-          ? "need_test"
-          : !llmConfigured
-            ? "need_llm_config"
-            : "";
+      ? "disabled"
+      : !tested
+      ? "need_test"
+      : !llmConfigured
+      ? "need_llm_config"
+      : "";
 
     return {
       enabled,
@@ -403,7 +403,7 @@
     if (!message || typeof message.type !== "string") {
       return FlowLingo.err(
         FlowLingo.ErrorCode.INVALID_REQUEST,
-        "missing message.type",
+        "missing message.type"
       );
     }
 
@@ -431,7 +431,7 @@
         if (!domain)
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing domain",
+            "missing domain"
           );
         await FlowLingo.db.putSiteRule({
           domain,
@@ -448,7 +448,7 @@
         if (!domain)
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing domain",
+            "missing domain"
           );
         const rule = await FlowLingo.db.getSiteRule(domain);
         return FlowLingo.ok({
@@ -465,7 +465,7 @@
         if (!domain)
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing domain",
+            "missing domain"
           );
         const policy = await getPagePolicy(domain);
         return FlowLingo.ok(policy);
@@ -478,7 +478,7 @@
         if (!domain)
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing domain",
+            "missing domain"
           );
         const settings = await getGlobalSettings();
         const pagePolicy = await getPagePolicy(domain, settings);
@@ -505,13 +505,13 @@
         if (!baseUrl) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing baseUrl",
+            "missing baseUrl"
           );
         }
         if (!model) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing model",
+            "missing model"
           );
         }
         return await FlowLingo.llm.testEndpoint({
@@ -530,7 +530,7 @@
         ) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "invalid event",
+            "invalid event"
           );
         }
         const settings = await getGlobalSettings();
@@ -551,7 +551,7 @@
         ) {
           await FlowLingo.userModel.applyEventToWordState(
             storedEvent,
-            settings.tuning,
+            settings.tuning
           );
         }
 
@@ -625,18 +625,29 @@
           items: items.slice(0, limit),
         });
       }
+      case FlowLingo.MessageType.DELETE_KNOWN_WORD: {
+        const wordId = typeof message.wordId === "string" ? message.wordId : "";
+        if (!wordId) {
+          return FlowLingo.err(
+            FlowLingo.ErrorCode.INVALID_REQUEST,
+            "missing wordId"
+          );
+        }
+        await FlowLingo.db.deleteUserWordState(wordId);
+        return FlowLingo.ok({ deleted: true, wordId });
+      }
       case FlowLingo.MessageType.FETCH_AUDIO_DATA: {
         const url = typeof message.url === "string" ? message.url : "";
         if (!url) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "missing url",
+            "missing url"
           );
         }
         if (!isAllowedAudioUrl(url)) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "audio url not allowed",
+            "audio url not allowed"
           );
         }
 
@@ -647,13 +658,13 @@
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
             "audio fetch failed",
-            String(e),
+            String(e)
           );
         }
         if (!resp.ok) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            `audio http ${resp.status}`,
+            `audio http ${resp.status}`
           );
         }
 
@@ -661,13 +672,13 @@
         if (!buf) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "audio decode failed",
+            "audio decode failed"
           );
         }
         if (buf.byteLength > 2 * 1024 * 1024) {
           return FlowLingo.err(
             FlowLingo.ErrorCode.INVALID_REQUEST,
-            "audio too large",
+            "audio too large"
           );
         }
 
@@ -678,7 +689,7 @@
       default:
         return FlowLingo.err(
           FlowLingo.ErrorCode.INVALID_REQUEST,
-          `unknown message.type: ${message.type}`,
+          `unknown message.type: ${message.type}`
         );
     }
   }
@@ -693,8 +704,8 @@
           FlowLingo.err(
             FlowLingo.ErrorCode.DB_ERROR,
             "unhandled error",
-            String(e),
-          ),
+            String(e)
+          )
         );
       }
     })();
