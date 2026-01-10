@@ -417,12 +417,12 @@
       tag === "input" ||
       tag === "button" ||
       tag === "nav" ||
-      tag === "header" ||
-      tag === "footer" ||
-      tag === "aside"
+      tag === "footer"
     )
       return true;
-    if (el.closest("nav,header,footer,aside")) return true;
+    // 注意：不再使用 closest() 向上查找 nav,header,footer,aside
+    // 因为某些论坛(如 Discourse)的主要内容区域可能被这些标签包裹
+    // 只跳过直接父元素是 nav/footer 的情况，header/aside 允许翻译内部内容
     if (
       el.closest(`[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`)
     )
@@ -951,9 +951,27 @@
     document.addEventListener(
       "mouseover",
       (e) => {
-        const span = e.target?.closest?.(
-          `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
-        );
+        const selector = `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`;
+        // 首先尝试 closest()（向上查找祖先或自身）
+        let span = e.target?.closest?.(selector);
+        // 如果没找到，且 e.target 是元素节点，尝试向下查找子元素
+        // 这样当鼠标悬停在包含翻译词汇的链接 <a> 上时也能触发翻译卡片
+        if (!span && e.target?.querySelectorAll) {
+          // 查找所有翻译词汇，检查鼠标位置是否在其边界框内
+          const candidates = e.target.querySelectorAll(selector);
+          for (const candidate of candidates) {
+            const rect = candidate.getBoundingClientRect();
+            if (
+              e.clientX >= rect.left &&
+              e.clientX <= rect.right &&
+              e.clientY >= rect.top &&
+              e.clientY <= rect.bottom
+            ) {
+              span = candidate;
+              break;
+            }
+          }
+        }
         if (!span) return;
         cancelOverlayHide();
         scheduleHover(span);
@@ -1094,7 +1112,8 @@
           .catch((e) => {
             if (
               e.message &&
-              e.message.includes("Extension context invalidated")
+              (e.message.includes("Extension context invalidated") ||
+                e.message.includes("message channel closed"))
             ) {
               return null;
             }
