@@ -13,41 +13,10 @@
 
   const MIN_GAP_CHARS = 8;
 
-  function isLikelyEmail(text) {
-    if (typeof text !== "string" || text.length === 0) return false;
-    if (!text.includes("@")) return false;
-    return /@[^@\s]+\.[^@\s]+/.test(text);
-  }
-
-  function isLikelyUrl(text) {
-    if (typeof text !== "string" || text.length === 0) return false;
-    return (
-      text.includes("http://") ||
-      text.includes("https://") ||
-      text.includes("www.")
-    );
-  }
-
-  function hasEnoughChineseContent(text) {
-    let chinese = 0;
-    let total = 0;
-    for (const ch of text) {
-      if (ch.trim() === "") continue;
-      total += 1;
-      if (/[\u4e00-\u9fff]/.test(ch)) chinese += 1;
-    }
-    if (total === 0) return false;
-    // 至少 15% 的中文字符才认为是可翻译的中文内容
-    return chinese / total >= 0.15;
-  }
-
   function segmentQuickReject(text) {
-    if (typeof text !== "string") return true;
-    if (text.trim().length < 8) return true;
-    if (isLikelyUrl(text)) return true;
-    if (isLikelyEmail(text)) return true;
-    if (!hasEnoughChineseContent(text)) return true;
-    return false;
+    const fn = FlowLingo.text?.segmentQuickReject;
+    if (typeof fn !== "function") return false;
+    return fn(text);
   }
 
   function normalizeDifficultyLevel(value) {

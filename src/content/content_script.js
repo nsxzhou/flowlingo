@@ -7,6 +7,9 @@
   const domain = location.hostname.toLowerCase();
   const oidToOriginal = new Map();
   const processedTextNodes = new WeakSet();
+  const attemptedTextNodes = new WeakMap();
+
+  const SEGMENT_ATTEMPT_COOLDOWN_MS = 15_000;
 
   const CONTEXT_ATTR = "data-flowlingo-context";
   const SENTENCE_PUNCT = new Set([
@@ -38,6 +41,8 @@
   let overlay = null;
   let userGestureSeen = false;
   let hoverDelegationInstalled = false;
+  let scrollDelegationInstalled = false;
+  let scrollScanScheduled = false;
   let explainReqSeq = 0;
 
   let audioContext = null;
@@ -72,9 +77,22 @@
     }, delayMs);
   }
 
+  function rememberSegmentAttempts(segments) {
+    const now = Date.now();
+    for (const seg of segments) {
+      const node = seg?.node;
+      if (!node) continue;
+      const text = typeof seg.text === "string" ? seg.text : node.nodeValue;
+      if (typeof text !== "string") continue;
+      attemptedTextNodes.set(node, { ts: now, text });
+    }
+  }
+
   function beginPending(segments) {
     pendingRefCount += 1;
-    markPendingSegments(Array.isArray(segments) ? segments : []);
+    const list = Array.isArray(segments) ? segments : [];
+    rememberSegmentAttempts(list);
+    markPendingSegments(list);
     schedulePendingShow(200);
   }
 
@@ -352,7 +370,6 @@
       tag === "aside"
     )
       return true;
-    if (el.closest("a")) return true;
     if (el.closest("nav,header,footer,aside")) return true;
     if (
       el.closest(`[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`)
@@ -370,9 +387,32 @@
     return rect.bottom >= top && rect.top <= bottom;
   }
 
+  function isRecentlyAttempted(node, text, now) {
+    const record = attemptedTextNodes.get(node);
+    if (!record) return false;
+    if (record.text !== text) return false;
+    return now - record.ts < SEGMENT_ATTEMPT_COOLDOWN_MS;
+  }
+
+  function looksLikeUiMetadataText(text) {
+    const s = typeof text === "string" ? text.trim() : "";
+    if (!s) return true;
+    if (s.length > 32) return false;
+    if (/^\d{4}\s*年\s*\d{1,2}\s*月(\s*\d{1,2}\s*日)?$/.test(s)) return true;
+    if (/^\d{4}[-/]\d{1,2}[-/]\d{1,2}$/.test(s)) return true;
+    if (/^\d{1,2}:\d{2}(\s*[APap][Mm])?$/.test(s)) return true;
+    if (/^\d+\s*\/\s*\d+$/.test(s)) return true;
+    if (/^\d+(\.\d+)?\s*(分钟|小时|天|周|月|年|秒)$/.test(s)) return true;
+    if (/^\d+(\.\d+)?\s*(赞|回复|浏览|浏览量|阅读|阅读时间)$/.test(s))
+      return true;
+    return false;
+  }
+
   function collectSegments(root, limit) {
     const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
     const segments = [];
+    const now = Date.now();
+    const segmentQuickReject = FlowLingo.text?.segmentQuickReject;
 
     let node;
     while ((node = walker.nextNode())) {
@@ -380,12 +420,15 @@
       if (processedTextNodes.has(node)) continue;
       const text = node.nodeValue;
       if (!text) continue;
-      const trimmed = text.trim();
-      if (trimmed.length < 4) continue;
 
       const parent = node.parentElement;
       if (isSkippableParent(parent)) continue;
+      if (typeof segmentQuickReject === "function" && segmentQuickReject(text))
+        continue;
+      if (parent?.closest?.("time")) continue;
+      if (looksLikeUiMetadataText(text)) continue;
       if (!isNearViewport(parent)) continue;
+      if (isRecentlyAttempted(node, text, now)) continue;
 
       const segmentId = `seg_${segments.length}_${Math.random()
         .toString(16)
@@ -891,6 +934,32 @@
     );
   }
 
+  function installScrollDelegation() {
+    if (scrollDelegationInstalled) return;
+    scrollDelegationInstalled = true;
+
+    const scheduleFromScroll = () => {
+      if (scrollScanScheduled) return;
+      scrollScanScheduled = true;
+      const flush = () => {
+        scrollScanScheduled = false;
+        scheduleScan();
+      };
+      if (typeof global.requestAnimationFrame === "function") {
+        global.requestAnimationFrame(flush);
+        return;
+      }
+      global.setTimeout(flush, 0);
+    };
+
+    global.addEventListener("scroll", scheduleFromScroll, { passive: true });
+    global.addEventListener("resize", scheduleFromScroll, { passive: true });
+    document.addEventListener("scroll", scheduleFromScroll, {
+      passive: true,
+      capture: true,
+    });
+  }
+
   function scheduleScan() {
     if (!currentPolicy?.enabled) return;
     if (!currentPolicy?.replacementReady) return;
@@ -1126,6 +1195,7 @@
 
     installMutationObserver();
     installHoverDelegation();
+    installScrollDelegation();
     scheduleScan();
   }
 

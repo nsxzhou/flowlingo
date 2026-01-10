@@ -146,4 +146,52 @@
     }
     return output;
   };
+
+  function isLikelyEmail(text) {
+    if (typeof text !== "string" || text.length === 0) return false;
+    if (!text.includes("@")) return false;
+    return /@[^@\s]+\.[^@\s]+/.test(text);
+  }
+
+  function isLikelyUrl(text) {
+    if (typeof text !== "string" || text.length === 0) return false;
+    return (
+      text.includes("http://") ||
+      text.includes("https://") ||
+      text.includes("www.")
+    );
+  }
+
+  function hasEnoughChineseContent(text, minRatio = 0.15) {
+    const ratio = Number.isFinite(minRatio) ? Math.max(0, minRatio) : 0.15;
+    let chinese = 0;
+    let total = 0;
+    for (const ch of typeof text === "string" ? text : "") {
+      if (ch.trim() === "") continue;
+      total += 1;
+      if (/[\u4e00-\u9fff]/.test(ch)) chinese += 1;
+    }
+    if (total === 0) return false;
+    return chinese / total >= ratio;
+  }
+
+  function segmentQuickReject(text, options) {
+    if (typeof text !== "string") return true;
+    const minLen = Number.isFinite(options?.minLen)
+      ? Math.max(0, options.minLen)
+      : 8;
+    if (text.trim().length < minLen) return true;
+    if (isLikelyUrl(text)) return true;
+    if (isLikelyEmail(text)) return true;
+    if (!hasEnoughChineseContent(text, options?.minChineseRatio ?? 0.15))
+      return true;
+    return false;
+  }
+
+  FlowLingo.text = Object.freeze({
+    isLikelyEmail,
+    isLikelyUrl,
+    hasEnoughChineseContent,
+    segmentQuickReject,
+  });
 })(globalThis);
