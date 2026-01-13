@@ -36,6 +36,16 @@
   background: rgba(0, 82, 255, 0.12);
 }
 
+/* 已标注“认识”的词：不再显示蓝色标记条（仍支持悬停弹卡片以便“忘记”） */
+.flowlingo-token--known {
+  border-bottom: none;
+  cursor: text;
+}
+
+.flowlingo-token--known:hover {
+  background: transparent;
+}
+
 .flowlingo-overlay {
   position: fixed;
   z-index: 2147483646;

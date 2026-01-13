@@ -109,7 +109,8 @@
   function looksLikeUnsafeCnPhrase(cn) {
     if (typeof cn !== "string") return true;
     const s = cn.trim();
-    if (s.length < 2 || s.length > 12) return true;
+    // 允许更长的中文短语（更贴近语境学习），但仍控制上限避免跨句/跨段落
+    if (s.length < 2 || s.length > 18) return true;
     if (/\s/.test(s)) return true;
     if (/[0-9]/.test(s)) return true;
     if (/[￥$€£%‰]/.test(s)) return true;
@@ -123,11 +124,12 @@
     if (typeof en !== "string") return true;
     const s = en.trim();
     if (!s) return true;
-    if (s.length > 60) return true;
+    // 允许更完整的英文短语（如固定搭配/短语动词），但避免过长造成阅读割裂
+    if (s.length > 80) return true;
     if (/[\u4e00-\u9fff]/.test(s)) return true;
     if (!/^[A-Za-z][A-Za-z\s'-]*$/.test(s)) return true;
     const words = s.split(/\s+/g).filter(Boolean);
-    if (words.length > 4) return true;
+    if (words.length > 6) return true;
     return false;
   }
 
@@ -372,7 +374,8 @@
           kind: "inject_word",
           range: { start, end },
           word: { id, en, cn },
-          render: { presentation: known ? "en_only" : presentation },
+          // 显式下发 isKnown，便于前端在任意呈现模式下都能隐藏“已认识词”的标记样式
+          render: { presentation: known ? "en_only" : presentation, isKnown: known },
         });
       }
 

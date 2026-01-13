@@ -38,6 +38,9 @@
   let hoverTimer = null;
   let hideOverlayTimer = null;
   let activeSpan = null;
+  // 用于解决“鼠标轻微抖动导致 hover 定时器被反复重置”的问题：只在进入新 token 时启动一次定时器
+  let pendingHoverSpan = null;
+  let pendingHoverPoint = { x: 0, y: 0 };
   let overlay = null;
   let userGestureSeen = false;
   let hoverDelegationInstalled = false;
@@ -350,6 +353,31 @@
     return `${trimmedEn}（${trimmedCn}）`;
   }
 
+  const KNOWN_CLASS = "flowlingo-token--known";
+  const KNOWN_ATTR = "data-flowlingo-known";
+
+  function isSpanKnown(span) {
+    if (!span) return false;
+    if (span.classList?.contains(KNOWN_CLASS)) return true;
+    return span.getAttribute?.(KNOWN_ATTR) === "1";
+  }
+
+  function setSpanKnown(span, known) {
+    if (!span) return;
+    // 用 class + attr 双标记，便于样式控制（隐藏蓝色标记条）以及跨模块复用
+    if (known) {
+      span.classList?.add(KNOWN_CLASS);
+      span.setAttribute?.(KNOWN_ATTR, "1");
+      return;
+    }
+    span.classList?.remove(KNOWN_CLASS);
+    try {
+      span.removeAttribute?.(KNOWN_ATTR);
+    } catch {
+      // ignore
+    }
+  }
+
   function extractSentenceContext(text, start, end) {
     const s = typeof text === "string" ? text : "";
     if (!s) return "";
@@ -566,13 +594,21 @@
             span.setAttribute(FlowLingo.DOM.enAttr, action.word.en);
             const context = extractSentenceContext(originalText, start, end);
             if (context) span.setAttribute(CONTEXT_ATTR, context);
-            span.textContent = renderToken(
-              action.word.en,
-              action.word.cn,
+            const presentation =
               action.render?.presentation ||
-                currentPolicy?.presentation ||
-                "en_cn"
-            );
+              currentPolicy?.presentation ||
+              "en_cn";
+            span.textContent = renderToken(action.word.en, action.word.cn, presentation);
+            // 后台显式下发 isKnown：用于隐藏“已认识词”的蓝色标记条（不受用户呈现模式影响）
+            if (action.render?.isKnown === true) {
+              setSpanKnown(span, true);
+            } else if (
+              // 兼容旧逻辑：后台在“已认识词”场景会强制用 en_only 渲染
+              presentation === "en_only" &&
+              (currentPolicy?.presentation || "en_cn") !== "en_only"
+            ) {
+              setSpanKnown(span, true);
+            }
             injectedCount += 1;
           } else if (action.kind === "rewrite_sentence") {
             span.setAttribute(FlowLingo.DOM.wordIdAttr, "sentence");
@@ -623,6 +659,7 @@
         <div class="flowlingo-overlay__actions">
           <button type="button" class="flowlingo-action-btn" data-action="pronounce" aria-label="发音">发音</button>
           <button type="button" class="flowlingo-action-btn primary" data-action="known" aria-label="认识">认识</button>
+          <button type="button" class="flowlingo-action-btn" data-action="forget" aria-label="忘记" style="display:none;">忘记</button>
         </div>
       </div>
       <div class="flowlingo-overlay__body">
@@ -649,7 +686,25 @@
         case "known": {
           reportEvent("known", activeSpan, buildWordMeta(activeSpan));
           const en = activeSpan.getAttribute(FlowLingo.DOM.enAttr) || "";
+          // 标记为“认识”后：改为纯英文展示，并移除蓝色标记条
+          setSpanKnown(activeSpan, true);
           if (en) activeSpan.textContent = en;
+          hideOverlay();
+          break;
+        }
+        case "forget": {
+          // 回退到“不认识”：恢复展示（按当前呈现模式），并让后台不再把它当作“已认识词”
+          reportEvent("unknown", activeSpan, buildWordMeta(activeSpan));
+          setSpanKnown(activeSpan, false);
+          const en = activeSpan.getAttribute(FlowLingo.DOM.enAttr) || "";
+          const oid = activeSpan.getAttribute(FlowLingo.DOM.oidAttr) || "";
+          const cn = oid ? oidToOriginal.get(oid) || "" : "";
+          const presentation = currentPolicy?.presentation || "en_cn";
+          if (en && cn) {
+            activeSpan.textContent = renderToken(en, cn, presentation);
+          } else if (en) {
+            activeSpan.textContent = en;
+          }
           hideOverlay();
           break;
         }
@@ -889,6 +944,22 @@
     activeSpan = span;
     reportEvent("hover", span);
 
+    // 根据当前词是否“已认识”切换按钮：已认识 => 显示“忘记”，未认识 => 显示“认识”
+    // 句子改写（wordId=sentence）不参与认识/忘记，避免误标记
+    const btnKnown = ov.querySelector('button[data-action="known"]');
+    const btnForget = ov.querySelector('button[data-action="forget"]');
+    const canToggleKnown = wordId && wordId !== "sentence";
+    if (!canToggleKnown) {
+      if (btnKnown) btnKnown.style.display = "none";
+      if (btnForget) btnForget.style.display = "none";
+    } else if (isSpanKnown(span)) {
+      if (btnKnown) btnKnown.style.display = "none";
+      if (btnForget) btnForget.style.display = "inline-flex";
+    } else {
+      if (btnKnown) btnKnown.style.display = "inline-flex";
+      if (btnForget) btnForget.style.display = "none";
+    }
+
     const requestId = String((explainReqSeq += 1));
     ov.setAttribute("data-explain-request", requestId);
     if (aiEl) {
@@ -931,10 +1002,29 @@
   }
 
   function scheduleHover(span) {
+    // 进入同一个 token 时不重复重置定时器，避免卡片“怎么也出不来”
+    if (pendingHoverSpan === span && hoverTimer) return;
+    pendingHoverSpan = span;
     if (hoverTimer) global.clearTimeout(hoverTimer);
     hoverTimer = global.setTimeout(() => {
       hoverTimer = null;
-      showOverlayForSpan(span);
+      // 仅在鼠标仍停留在该 token 上时展示，避免误触/漂移
+      if (!span || !span.isConnected) return;
+      try {
+        if (typeof span.matches === "function" && span.matches(":hover")) {
+          showOverlayForSpan(span);
+          return;
+        }
+      } catch {
+        // ignore
+      }
+      // :hover 兼容兜底：使用进入时的鼠标坐标判断是否仍在边界框内
+      const rect = span.getBoundingClientRect?.();
+      if (!rect) return;
+      const x = pendingHoverPoint?.x ?? 0;
+      const y = pendingHoverPoint?.y ?? 0;
+      if (x >= rect.left && x <= rect.right && y >= rect.top && y <= rect.bottom)
+        showOverlayForSpan(span);
     }, 350);
   }
 
@@ -949,16 +1039,23 @@
     hoverDelegationInstalled = true;
 
     document.addEventListener(
-      "mouseover",
+      "pointerover",
       (e) => {
         const selector = `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`;
+        // 事件 target 可能是 Text 节点，这里统一提升到 Element，避免 closest() 不可用导致偶发不触发
+        const targetEl =
+          e.target?.nodeType === Node.ELEMENT_NODE
+            ? e.target
+            : e.target?.nodeType === Node.TEXT_NODE
+              ? e.target.parentElement
+              : null;
         // 首先尝试 closest()（向上查找祖先或自身）
-        let span = e.target?.closest?.(selector);
-        // 如果没找到，且 e.target 是元素节点，尝试向下查找子元素
+        let span = targetEl?.closest?.(selector);
+        // 如果没找到，且 targetEl 是元素节点，尝试向下查找子元素
         // 这样当鼠标悬停在包含翻译词汇的链接 <a> 上时也能触发翻译卡片
-        if (!span && e.target?.querySelectorAll) {
+        if (!span && targetEl?.querySelectorAll) {
           // 查找所有翻译词汇，检查鼠标位置是否在其边界框内
-          const candidates = e.target.querySelectorAll(selector);
+          const candidates = targetEl.querySelectorAll(selector);
           for (const candidate of candidates) {
             const rect = candidate.getBoundingClientRect();
             if (
@@ -973,23 +1070,42 @@
           }
         }
         if (!span) return;
+        // 已经展示/已经在等待展示时，不要重复 reset 定时器
+        if (activeSpan === span) {
+          cancelOverlayHide();
+          return;
+        }
         cancelOverlayHide();
+        pendingHoverPoint = { x: e.clientX || 0, y: e.clientY || 0 };
         scheduleHover(span);
       },
       true
     );
     document.addEventListener(
-      "mouseout",
+      "pointerout",
       (e) => {
-        const fromSpan = e.target?.closest?.(
+        const fromEl =
+          e.target?.nodeType === Node.ELEMENT_NODE
+            ? e.target
+            : e.target?.nodeType === Node.TEXT_NODE
+              ? e.target.parentElement
+              : null;
+        const toEl =
+          e.relatedTarget?.nodeType === Node.ELEMENT_NODE
+            ? e.relatedTarget
+            : e.relatedTarget?.nodeType === Node.TEXT_NODE
+              ? e.relatedTarget.parentElement
+              : null;
+        const fromSpan = fromEl?.closest?.(
           `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
         );
-        const toSpan = e.relatedTarget?.closest?.(
+        const toSpan = toEl?.closest?.(
           `span[${FlowLingo.DOM.markerAttr}="${FlowLingo.DOM.markerValue}"]`
         );
-        const toOverlay = e.relatedTarget?.closest?.(".flowlingo-overlay");
+        const toOverlay = toEl?.closest?.(".flowlingo-overlay");
         if (fromSpan && (toSpan || toOverlay)) return;
         cancelHover();
+        pendingHoverSpan = null;
         if (!toOverlay) scheduleOverlayHide();
       },
       true

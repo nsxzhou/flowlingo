@@ -69,7 +69,11 @@
       case "unknown": {
         updated.unknownCount += 1;
         updated.lastFeedbackAt = ts;
-        updated.mastery = FlowLingo.clamp01(updated.mastery - unknownPenalty);
+        // 用户明确反馈“不认识/忘记”：应取消“已认识”标记，避免后续继续被当作已掌握词
+        updated.knownCount = 0;
+        // 避免从高掌握度仅小幅下降导致“看起来还是很熟”，这里做一次上限收敛
+        const baseMastery = Math.min(updated.mastery, 0.4);
+        updated.mastery = FlowLingo.clamp01(baseMastery - unknownPenalty);
         break;
       }
       default:
